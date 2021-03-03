@@ -1,0 +1,40 @@
+[submodule "kernel/build"]
+	branch = master
+	path = build
+	url = ../build
+[submodule "kernel/hikey-linaro"]
+	branch = android-hikey-linaro-4.14
+	shallow = true
+	path = hikey-linaro
+	url = ../hikey-linaro
+[submodule "kernel/tests"]
+	branch = master
+	path = kernel/tests
+	url = ../tests
+[submodule "platform/prebuilts/boot-artifacts"]
+	branch = master
+	shallow = true
+	path = prebuilts/boot-artifacts
+	url = ../../platform/prebuilts/boot-artifacts
+[submodule "platform/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../../platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	path = prebuilts-master/clang/host/linux-x86
+	url = ../../platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../../platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../../platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/system/tools/mkbootimg"]
+	branch = master
+	path = tools/mkbootimg
+	url = ../../platform/system/tools/mkbootimg
