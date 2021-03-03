@@ -1,0 +1,56 @@
+[submodule "kernel/build"]
+	branch = master
+	path = build
+	url = ../build
+[submodule "kernel/common"]
+	branch = android12-5.4
+	path = common
+	url = ../common
+[submodule "kernel/common-modules/virtual-device"]
+	branch = android12-5.4
+	path = common-modules/virtual-device
+	url = ../common-modules/virtual-device
+[submodule "kernel/common-patches"]
+	branch = master
+	path = kernel/common-patches
+	url = ../common-patches
+[submodule "kernel/configs"]
+	branch = master
+	path = kernel/configs
+	url = ../configs
+[submodule "kernel/hikey-modules"]
+	branch = android-5.4
+	path = hikey-modules
+	url = ../hikey-modules
+[submodule "kernel/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/kernel-build-tools
+	url = ../prebuilts/build-tools
+[submodule "kernel/tests"]
+	branch = master
+	path = kernel/tests
+	url = ../tests
+[submodule "platform/prebuilts/boot-artifacts"]
+	branch = master
+	path = prebuilts/boot-artifacts
+	url = ../../platform/prebuilts/boot-artifacts
+[submodule "platform/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../../platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts-master/clang/host/linux-x86
+	url = ../../platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/gas/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/gas/linux-x86
+	url = ../../platform/prebuilts/gas/linux-x86
+[submodule "platform/system/tools/mkbootimg"]
+	branch = master
+	path = tools/mkbootimg
+	url = ../../platform/system/tools/mkbootimg
