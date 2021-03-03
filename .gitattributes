@@ -1,0 +1,9 @@
+/build
+/private/msm-google
+/private/msm-google-modules/wlan/qca-wifi-host-cmn
+/private/msm-google-modules/wlan/qcacld-3.0
+/private/msm-google-modules/wlan/fw-api
+/prebuilts-master/clang/host/linux-x86 partner
+/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+/prebuilts-master/misc
