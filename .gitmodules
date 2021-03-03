@@ -1,0 +1,58 @@
+[submodule "kernel/build"]
+	branch = master
+	path = build
+	url = ../build
+[submodule "kernel/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/kernel-build-tools
+	url = ../prebuilts/build-tools
+[submodule "platform/external/arm-trusted-firmware"]
+	branch = master
+	path = external/arm-trusted-firmware
+	url = ../../platform/external/arm-trusted-firmware
+[submodule "platform/external/compiler-rt"]
+	branch = master
+	path = external/compiler-rt
+	url = ../../platform/external/compiler-rt
+[submodule "platform/external/dtc"]
+	branch = master
+	path = external/dtc
+	url = ../../platform/external/dtc
+[submodule "platform/external/swig"]
+	branch = master
+	path = external/swig
+	url = ../../platform/external/swig
+[submodule "platform/external/u-boot"]
+	branch = master
+	path = u-boot
+	url = ../../platform/external/u-boot
+[submodule "platform/external/zlib"]
+	branch = master
+	path = external/zlib
+	url = ../../platform/external/zlib
+[submodule "platform/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../../platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts-master/clang/host/linux-x86
+	url = ../../platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../../platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = ../../platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../../platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
