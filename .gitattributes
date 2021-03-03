@@ -1,0 +1,6 @@
+/build
+/private/msm-google
+/kernel/tests
+/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+/prebuilts-master/misc
