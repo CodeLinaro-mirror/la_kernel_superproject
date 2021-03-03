@@ -1,0 +1,26 @@
+[submodule "kernel/build"]
+	branch = master
+	path = build
+	url = ../build
+[submodule "kernel/msm"]
+	branch = android-msm-wahoo-4.4-android10-qpr3
+	path = private/msm-google
+	url = ../msm
+[submodule "kernel/tests"]
+	branch = master
+	path = kernel/tests
+	url = ../tests
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	path = prebuilts-master/clang/host/linux-x86
+	url = ../../platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../../platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = ../../platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/misc"]
+	branch = master
+	shallow = true
+	path = prebuilts-master/misc
+	url = ../../platform/prebuilts/misc
