@@ -12,8 +12,6 @@
 	path = kernel/tests
 	url = ../tests
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = master
-	shallow = true
 	path = prebuilts-master/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
