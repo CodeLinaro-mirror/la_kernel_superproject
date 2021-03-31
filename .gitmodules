@@ -107,6 +107,10 @@
 	branch = master
 	path = external/sqlite
 	url = ../../platform/external/sqlite
+[submodule "platform/external/starlark-go"]
+	branch = master
+	path = external/starlark-go
+	url = ../../platform/external/starlark-go
 [submodule "platform/external/swig"]
 	branch = master
 	path = external/swig

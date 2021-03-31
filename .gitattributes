@@ -25,6 +25,7 @@
 /external/python/cpython3
 /external/selinux
 /external/sqlite
+/external/starlark-go
 /external/swig
 /external/zlib
 /prebuilts/build-tools
