@@ -41,11 +41,6 @@
 	shallow = true
 	path = prebuilts-master/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
-[submodule "platform/prebuilts/gas/linux-x86"]
-	branch = master
-	shallow = true
-	path = prebuilts/gas/linux-x86
-	url = ../../platform/prebuilts/gas/linux-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
 	branch = master
 	shallow = true
