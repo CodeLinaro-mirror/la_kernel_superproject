@@ -7,12 +7,14 @@
 /common11-5.4
 /common12-5.10
 /common12-5.4
+/common13-5.10
 /upstream
 /common-modules/virtual-device-4.19-stable
 /common-modules/virtual-device-mainline
 /common-modules/virtual-device11-5.4
 /common-modules/virtual-device12-5.10
 /common-modules/virtual-device12-5.4
+/common-modules/virtual-device13-5.10
 /kernel/configs
 /prebuilts/kernel-build-tools
 /kernel/tests
