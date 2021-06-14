@@ -1,5 +1,5 @@
 [submodule "kernel/build"]
-	branch = master
+	branch = master-kernel-build-2021
 	path = build
 	url = ../build
 [submodule "kernel/common"]
@@ -10,12 +10,8 @@
 	branch = android11-5.4
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
-[submodule "kernel/common-patches"]
-	branch = master
-	path = kernel/common-patches
-	url = ../common-patches
 [submodule "kernel/configs"]
-	branch = master
+	branch = master-kernel-build-2021
 	path = kernel/configs
 	url = ../configs
 [submodule "kernel/hikey-modules"]
@@ -23,44 +19,40 @@
 	path = hikey-modules
 	url = ../hikey-modules
 [submodule "kernel/prebuilts/build-tools"]
-	branch = master
+	branch = master-kernel-build-2021
 	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = ../prebuilts/build-tools
 [submodule "kernel/tests"]
-	branch = master
+	branch = master-kernel-build-2021
 	path = kernel/tests
 	url = ../tests
-[submodule "platform/prebuilts/boot-artifacts"]
-	branch = master
-	path = prebuilts/boot-artifacts
-	url = ../../platform/prebuilts/boot-artifacts
 [submodule "platform/prebuilts/build-tools"]
-	branch = master
+	branch = master-kernel-build-2021
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../../platform/prebuilts/build-tools
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = master
+	branch = master-kernel-build-2021
 	shallow = true
 	path = prebuilts-master/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
-	branch = master
+	branch = master-kernel-build-2021
 	shallow = true
 	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 	url = ../../platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
-	branch = master
+	branch = master-kernel-build-2021
 	shallow = true
 	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 	url = ../../platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
-	branch = master
+	branch = master-kernel-build-2021
 	shallow = true
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../../platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 [submodule "platform/system/tools/mkbootimg"]
-	branch = master
+	branch = master-kernel-build-2021
 	path = tools/mkbootimg
 	url = ../../platform/system/tools/mkbootimg
