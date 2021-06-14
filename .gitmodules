@@ -1,5 +1,5 @@
 [submodule "kernel/build"]
-	branch = master
+	branch = master-kernel-build-2021
 	path = build
 	url = ../build
 [submodule "kernel/common"]
@@ -11,30 +11,30 @@
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/configs"]
-	branch = master
+	branch = master-kernel-build-2021
 	path = kernel/configs
 	url = ../configs
 [submodule "kernel/prebuilts/build-tools"]
-	branch = master
+	branch = master-kernel-build-2021
 	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = ../prebuilts/build-tools
 [submodule "kernel/tests"]
-	branch = master
+	branch = master-kernel-build-2021
 	path = kernel/tests
 	url = ../tests
 [submodule "platform/prebuilts/build-tools"]
-	branch = master
+	branch = master-kernel-build-2021
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../../platform/prebuilts/build-tools
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = master
+	branch = master-kernel-build-2021
 	shallow = true
 	path = prebuilts-master/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/gas/linux-x86"]
-	branch = master
+	branch = master-kernel-build-2021
 	shallow = true
 	path = prebuilts/gas/linux-x86
 	url = ../../platform/prebuilts/gas/linux-x86
