@@ -1,12 +1,10 @@
 /build
 /common
 /common-modules/virtual-device
-/kernel/common-patches
 /kernel/configs
 /hikey-modules
 /prebuilts/kernel-build-tools
 /kernel/tests
-/prebuilts/boot-artifacts
 /prebuilts/build-tools
 /prebuilts-master/clang/host/linux-x86
 /prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
