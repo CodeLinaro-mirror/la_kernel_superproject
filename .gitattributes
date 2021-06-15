@@ -1,12 +1,10 @@
 /build
 /common
 /common-modules/virtual-device
-/kernel/common-patches
 /kernel/configs
 /hikey-modules
 /prebuilts/kernel-build-tools
 /kernel/tests
-/prebuilts/boot-artifacts
 /prebuilts/build-tools
 /prebuilts-master/clang/host/linux-x86
 /prebuilts/gas/linux-x86
