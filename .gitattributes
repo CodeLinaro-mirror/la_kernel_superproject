@@ -1,7 +1,6 @@
 /build
 /hikey-linaro
 /kernel/tests
-/prebuilts/boot-artifacts
 /prebuilts/build-tools
 /prebuilts-master/clang/host/linux-x86
 /prebuilts/gas/linux-x86
