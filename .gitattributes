@@ -20,7 +20,7 @@
 /kernel/tests
 /prebuilts/boot-artifacts
 /prebuilts/build-tools
-/prebuilts-master/clang/host/linux-x86
+/prebuilts/clang/host/linux-x86
 /prebuilts/gas/linux-x86
 /prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 /prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
