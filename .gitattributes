@@ -1,0 +1,10 @@
+/build
+/common
+/common-modules/virtual-device
+/kernel/configs
+/hikey-modules
+/prebuilts/kernel-build-tools
+/kernel/tests
+/prebuilts/build-tools
+/prebuilts-master/clang/host/linux-x86
+/tools/mkbootimg
