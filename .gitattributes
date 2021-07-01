@@ -11,6 +11,7 @@
 /external/elfutils
 /external/expat
 /external/fmtlib
+/external/go-cmp pdk
 /external/golang-protobuf
 /external/icu
 /external/kmod

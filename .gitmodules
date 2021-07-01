@@ -51,6 +51,10 @@
 	branch = master
 	path = external/fmtlib
 	url = ../../platform/external/fmtlib
+[submodule "platform/external/go-cmp"]
+	branch = master
+	path = external/go-cmp
+	url = ../../platform/external/go-cmp
 [submodule "platform/external/golang-protobuf"]
 	branch = master
 	path = external/golang-protobuf
