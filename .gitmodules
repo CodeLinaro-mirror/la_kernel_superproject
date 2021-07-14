@@ -3,19 +3,19 @@
 	path = build
 	url = ../build
 [submodule "kernel/msm"]
-	branch = android-msm-crosshatch-4.9-android11-qpr2
+	branch = android-msm-crosshatch-4.9-android11-qpr3
 	path = private/msm-google
 	url = ../msm
 [submodule "kernel/msm-modules/qca-wfi-host-cmn"]
-	branch = android-msm-crosshatch-4.9-android11-qpr2
+	branch = android-msm-crosshatch-4.9-android11-qpr3
 	path = private/msm-google-modules/wlan/qca-wifi-host-cmn
 	url = ../msm-modules/qca-wfi-host-cmn
 [submodule "kernel/msm-modules/qcacld"]
-	branch = android-msm-crosshatch-4.9-android11-qpr2
+	branch = android-msm-crosshatch-4.9-android11-qpr3
 	path = private/msm-google-modules/wlan/qcacld-3.0
 	url = ../msm-modules/qcacld
 [submodule "kernel/msm-modules/wlan-fw-api"]
-	branch = android-msm-crosshatch-4.9-android11-qpr2
+	branch = android-msm-crosshatch-4.9-android11-qpr3
 	path = private/msm-google-modules/wlan/fw-api
 	url = ../msm-modules/wlan-fw-api
 [submodule "platform/prebuilts/clang/host/linux-x86"]
