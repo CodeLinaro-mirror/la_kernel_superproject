@@ -98,10 +98,12 @@
 	url = ../tests
 [submodule "platform/prebuilts/boot-artifacts/prebuilts-legacy/boot-artifacts"]
 	branch = master-kernel-build-2021
+	shallow = true
 	path = prebuilts-legacy/boot-artifacts
 	url = ../../platform/prebuilts/boot-artifacts
 [submodule "platform/prebuilts/boot-artifacts/prebuilts-trunk/boot-artifacts"]
 	branch = master
+	shallow = true
 	path = prebuilts-trunk/boot-artifacts
 	url = ../../platform/prebuilts/boot-artifacts
 [submodule "platform/prebuilts/build-tools/prebuilts-legacy/build-tools"]
