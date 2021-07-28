@@ -1,5 +1,6 @@
 /build
 /prebuilts/kernel-build-tools
+/bootable/libbootloader
 /external/arm-trusted-firmware
 /external/compiler-rt
 /external/dtc
