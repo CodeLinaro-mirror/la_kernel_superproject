@@ -27,6 +27,10 @@
 	branch = master
 	path = kernel/tests
 	url = ../tests
+[submodule "platform/external/stardoc"]
+	branch = master
+	path = external/stardoc
+	url = ../../platform/external/stardoc
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
 	branch = master
 	shallow = true
