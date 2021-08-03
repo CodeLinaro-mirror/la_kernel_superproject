@@ -1,0 +1,40 @@
+[submodule "kernel/build"]
+	ref = refs/tags/android-11.0.0_r0.97
+	path = build
+	url = ../build
+[submodule "kernel/msm"]
+	ref = refs/tags/android-11.0.0_r0.97
+	path = private/msm-google
+	url = ../msm
+[submodule "kernel/msm-modules/qca-wfi-host-cmn"]
+	ref = refs/tags/android-11.0.0_r0.97
+	path = private/msm-google-modules/wlan/qca-wifi-host-cmn
+	url = ../msm-modules/qca-wfi-host-cmn
+[submodule "kernel/msm-modules/qcacld"]
+	ref = refs/tags/android-11.0.0_r0.97
+	path = private/msm-google-modules/wlan/qcacld-3.0
+	url = ../msm-modules/qcacld
+[submodule "kernel/msm-modules/wlan-fw-api"]
+	ref = refs/tags/android-11.0.0_r0.97
+	path = private/msm-google-modules/wlan/fw-api
+	url = ../msm-modules/wlan-fw-api
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	ref = refs/tags/android-11.0.0_r0.97
+	shallow = true
+	path = prebuilts-master/clang/host/linux-x86
+	url = ../../platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	ref = refs/tags/android-11.0.0_r0.97
+	shallow = true
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../../platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	ref = refs/tags/android-11.0.0_r0.97
+	shallow = true
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = ../../platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/misc"]
+	ref = refs/tags/android-11.0.0_r0.97
+	shallow = true
+	path = prebuilts-master/misc
+	url = ../../platform/prebuilts/misc
