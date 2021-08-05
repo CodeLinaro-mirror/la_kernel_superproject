@@ -27,6 +27,10 @@
 	branch = master
 	path = kernel/tests
 	url = ../tests
+[submodule "platform/external/bazel-skylib"]
+	branch = master
+	path = external/bazel-skylib
+	url = ../../platform/external/bazel-skylib
 [submodule "platform/external/stardoc"]
 	branch = master
 	path = external/stardoc
