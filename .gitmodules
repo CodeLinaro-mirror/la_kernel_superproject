@@ -91,6 +91,10 @@
 	branch = master
 	path = external/lz4
 	url = ../../platform/external/lz4
+[submodule "platform/external/openssl"]
+	branch = build-tools
+	path = external/openssl
+	url = ../../platform/external/openssl
 [submodule "platform/external/pcre"]
 	branch = master
 	path = external/pcre
