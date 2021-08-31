@@ -60,3 +60,7 @@
 	shallow = true
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../../platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/system/tools/mkbootimg"]
+	branch = master
+	path = tools/mkbootimg
+	url = ../../platform/system/tools/mkbootimg
