@@ -42,6 +42,10 @@
 	branch = android13-5.10
 	path = common13-5.10
 	url = ../common
+[submodule "kernel/common/common13-5.15"]
+	branch = android13-5.15
+	path = common13-5.15
+	url = ../common
 [submodule "kernel/common/upstream"]
 	branch = upstream-master
 	path = upstream
