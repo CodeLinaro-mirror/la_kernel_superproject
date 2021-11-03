@@ -115,6 +115,10 @@
 	branch = master
 	path = external/starlark-go
 	url = ../../platform/external/starlark-go
+[submodule "platform/external/stg"]
+	branch = master
+	path = external/stg
+	url = ../../platform/external/stg
 [submodule "platform/external/swig"]
 	branch = master
 	path = external/swig

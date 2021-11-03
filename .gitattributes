@@ -27,6 +27,7 @@
 /external/selinux
 /external/sqlite
 /external/starlark-go
+/external/stg
 /external/swig
 /external/zlib
 /prebuilts/build-tools
