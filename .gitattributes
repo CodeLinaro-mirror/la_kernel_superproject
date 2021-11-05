@@ -17,6 +17,7 @@
 /common-modules/virtual-device12-5.10
 /common-modules/virtual-device12-5.4
 /common-modules/virtual-device13-5.10
+/common-modules/virtual-device13-5.15
 /kernel-legacy/configs
 /kernel-trunk/configs
 /prebuilts-legacy/kernel-build-tools

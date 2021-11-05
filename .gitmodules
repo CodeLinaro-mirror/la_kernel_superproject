@@ -74,6 +74,10 @@
 	branch = android13-5.10
 	path = common-modules/virtual-device13-5.10
 	url = ../common-modules/virtual-device
+[submodule "kernel/common-modules/virtual-device/common-modules/virtual-device13-5.15"]
+	branch = android13-5.15
+	path = common-modules/virtual-device13-5.15
+	url = ../common-modules/virtual-device
 [submodule "kernel/configs/kernel-legacy/configs"]
 	branch = master-kernel-build-2021
 	path = kernel-legacy/configs
