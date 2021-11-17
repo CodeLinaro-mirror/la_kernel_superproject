@@ -1,6 +1,6 @@
 [submodule "kernel/build"]
 	branch = master
-	path = build
+	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
 	branch = android-mainline
@@ -27,6 +27,10 @@
 	branch = master
 	path = kernel/tests
 	url = ../tests
+[submodule "platform/build/bazel_common_rules"]
+	branch = master
+	path = build/bazel_common_rules
+	url = ../../platform/build/bazel_common_rules
 [submodule "platform/external/bazel-skylib"]
 	branch = master
 	path = external/bazel-skylib
