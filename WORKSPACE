@@ -1,1 +1,1 @@
-build/kernel/kleaf/bazel.WORKSPACE
+build/kleaf/bazel.WORKSPACE
