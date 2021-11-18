@@ -43,6 +43,10 @@
 	branch = master
 	path = external/elfutils
 	url = ../../platform/external/elfutils
+[submodule "platform/external/erofs-utils"]
+	branch = master
+	path = external/erofs-utils
+	url = ../../platform/external/erofs-utils
 [submodule "platform/external/expat"]
 	branch = master
 	path = external/expat
@@ -95,6 +99,10 @@
 	branch = master
 	path = external/pcre
 	url = ../../platform/external/pcre
+[submodule "platform/external/protobuf"]
+	branch = master
+	path = external/protobuf
+	url = ../../platform/external/protobuf
 [submodule "platform/external/python/cpython2"]
 	branch = master
 	path = external/python/cpython2
@@ -103,6 +111,10 @@
 	branch = master
 	path = external/python/cpython3
 	url = ../../platform/external/python/cpython3
+[submodule "platform/external/python/six"]
+	branch = master
+	path = external/python/six
+	url = ../../platform/external/python/six
 [submodule "platform/external/selinux"]
 	branch = master
 	path = external/selinux
@@ -177,6 +189,10 @@
 	branch = master
 	path = system/logging
 	url = ../../platform/system/logging
+[submodule "platform/system/security"]
+	branch = master
+	path = system/security
+	url = ../../platform/system/security
 [submodule "platform/system/tools/aidl"]
 	branch = master
 	path = system/tools/aidl

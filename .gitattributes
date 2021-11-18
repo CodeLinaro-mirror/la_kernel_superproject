@@ -9,6 +9,7 @@
 /external/dwarves
 /external/e2fsprogs
 /external/elfutils
+/external/erofs-utils
 /external/expat
 /external/fmtlib
 /external/go-cmp pdk
@@ -22,8 +23,10 @@
 /external/libxml2
 /external/lz4
 /external/pcre
+/external/protobuf
 /external/python/cpython2
 /external/python/cpython3
+/external/python/six
 /external/selinux
 /external/sqlite
 /external/starlark-go
@@ -41,4 +44,5 @@
 /system/libbase
 /tools/libufdt
 /system/logging
+/system/security
 /system/tools/aidl
