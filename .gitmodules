@@ -3,6 +3,7 @@
 	path = build
 	url = ../build
 [submodule "kernel/common"]
+	branch = android13-5.15
 	path = common
 	url = ../common
 [submodule "kernel/configs"]
@@ -61,6 +62,10 @@
 	branch = android-gs-raviole-mainline
 	path = gs/google-modules/power/reset
 	url = ../google-modules/power/reset
+[submodule "kernel/google-modules/raviole-device"]
+	branch = android-gs-raviole-mainline
+	path = gs/kernel/device-modules
+	url = ../google-modules/raviole-device
 [submodule "kernel/google-modules/touch/common"]
 	branch = android-gs-raviole-mainline
 	path = gs/google-modules/touch/common
@@ -81,10 +86,6 @@
 	branch = android-gs-raviole-mainline
 	path = gs/google-modules/wlan/bcmdhd4389
 	url = ../google-modules/wlan/bcmdhd/bcm4389
-[submodule "kernel/gs"]
-	branch = android-gs-raviole-mainline
-	path = gs/kernel
-	url = ../gs
 [submodule "kernel/prebuilts/build-tools"]
 	branch = master
 	shallow = true
