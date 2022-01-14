@@ -1,4 +1,4 @@
-/build
+/build/kernel
 /common
 /common-modules/virtual-device
 /kernel/common-patches
@@ -6,6 +6,7 @@
 /hikey-modules
 /prebuilts/kernel-build-tools
 /kernel/tests
+/build/bazel_common_rules
 /external/bazel-skylib
 /external/stardoc
 /prebuilts/bazel/linux-x86_64
