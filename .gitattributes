@@ -1,4 +1,4 @@
-/build
+/build/kernel
 /common
 /kernel/configs
 /gs/google-modules/amplifiers
@@ -21,6 +21,7 @@
 /gs/google-modules/uwb
 /gs/google-modules/wlan/bcmdhd4389
 /prebuilts/kernel-build-tools
+/build/bazel_common_rules
 /external/bazel-skylib
 /external/stardoc
 /prebuilts/bazel/linux-x86_64
