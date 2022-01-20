@@ -15,6 +15,10 @@
 	branch = master
 	path = external/arm-trusted-firmware
 	url = ../../platform/external/arm-trusted-firmware
+[submodule "platform/external/boringssl"]
+	branch = master
+	path = external/boringssl
+	url = ../../platform/external/boringssl
 [submodule "platform/external/compiler-rt"]
 	branch = master
 	path = external/compiler-rt
