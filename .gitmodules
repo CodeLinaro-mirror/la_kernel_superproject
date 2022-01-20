@@ -1,6 +1,6 @@
 [submodule "kernel/build"]
 	branch = master
-	path = build
+	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
 	branch = android13-5.15
@@ -91,6 +91,10 @@
 	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = ../prebuilts/build-tools
+[submodule "platform/build/bazel_common_rules"]
+	branch = master
+	path = build/bazel_common_rules
+	url = ../../platform/build/bazel_common_rules
 [submodule "platform/external/bazel-skylib"]
 	branch = master
 	shallow = true
