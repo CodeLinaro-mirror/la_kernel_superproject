@@ -5,6 +5,7 @@
 /external/boringssl
 /external/compiler-rt
 /external/dtc
+/external/open-dice
 /external/swig
 /u-boot
 /external/zlib

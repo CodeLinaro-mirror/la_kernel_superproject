@@ -27,6 +27,10 @@
 	branch = master
 	path = external/dtc
 	url = ../../platform/external/dtc
+[submodule "platform/external/open-dice"]
+	branch = master
+	path = external/open-dice
+	url = ../../platform/external/open-dice
 [submodule "platform/external/swig"]
 	branch = master
 	path = external/swig
