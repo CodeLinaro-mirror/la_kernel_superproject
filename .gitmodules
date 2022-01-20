@@ -64,7 +64,7 @@
 	url = ../google-modules/power/reset
 [submodule "kernel/google-modules/raviole-device"]
 	branch = android-gs-raviole-mainline
-	path = gs/kernel/device-modules
+	path = gs/google-modules/soc-modules
 	url = ../google-modules/raviole-device
 [submodule "kernel/google-modules/touch/common"]
 	branch = android-gs-raviole-mainline

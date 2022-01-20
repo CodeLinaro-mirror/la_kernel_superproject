@@ -1,1 +1,1 @@
-gs/kernel/device-modules/build_slider.sh
+gs/google-modules/soc-modules/build_slider.sh

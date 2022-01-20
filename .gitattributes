@@ -14,7 +14,7 @@
 /gs/google-modules/lwis
 /gs/google-modules/nfc
 /gs/google-modules/power/reset
-/gs/kernel/device-modules
+/gs/google-modules/soc-modules
 /gs/google-modules/touch/common
 /gs/google-modules/touch/fts
 /gs/google-modules/touch/sec
