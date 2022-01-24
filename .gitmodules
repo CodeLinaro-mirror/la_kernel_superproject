@@ -1,6 +1,6 @@
 [submodule "kernel/build"]
 	branch = master
-	path = build
+	path = build/kernel
 	url = ../build
 [submodule "kernel/configs"]
 	branch = master
