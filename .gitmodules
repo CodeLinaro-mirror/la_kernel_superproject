@@ -14,10 +14,6 @@
 	branch = android-4.19-stable
 	path = common-4.19-stable
 	url = ../common
-[submodule "kernel/common/common-4.4"]
-	branch = android-4.4-p
-	path = common-4.4
-	url = ../common
 [submodule "kernel/common/common-4.9"]
 	branch = android-4.9-q
 	path = common-4.9
