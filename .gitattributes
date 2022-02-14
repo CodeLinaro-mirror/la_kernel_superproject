@@ -8,8 +8,6 @@
 /gs/google-modules/bms
 /gs/google-modules/display
 /gs/google-modules/edgetpu
-/gs/google-modules/fingerprint/fpc
-/gs/google-modules/fingerprint/goodix
 /gs/google-modules/gpu
 /gs/google-modules/lwis
 /gs/google-modules/nfc

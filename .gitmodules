@@ -38,14 +38,6 @@
 	branch = android-gs-raviole-mainline
 	path = gs/google-modules/edgetpu
 	url = ../google-modules/edgetpu
-[submodule "kernel/google-modules/fingerprint/fpc"]
-	branch = android-gs-raviole-mainline
-	path = gs/google-modules/fingerprint/fpc
-	url = ../google-modules/fingerprint/fpc
-[submodule "kernel/google-modules/fingerprint/goodix"]
-	branch = android-gs-raviole-mainline
-	path = gs/google-modules/fingerprint/goodix
-	url = ../google-modules/fingerprint/goodix
 [submodule "kernel/google-modules/gpu"]
 	branch = android-gs-raviole-mainline
 	path = gs/google-modules/gpu
