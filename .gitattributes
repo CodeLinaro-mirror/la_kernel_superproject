@@ -12,6 +12,7 @@
 /external/elfutils
 /external/erofs-utils
 /external/expat
+/external/fec
 /external/fmtlib
 /external/go-cmp pdk
 /external/golang-protobuf

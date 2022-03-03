@@ -55,6 +55,10 @@
 	branch = master
 	path = external/expat
 	url = ../../platform/external/expat
+[submodule "platform/external/fec"]
+	branch = master
+	path = external/fec
+	url = ../../platform/external/fec
 [submodule "platform/external/fmtlib"]
 	branch = master
 	path = external/fmtlib
