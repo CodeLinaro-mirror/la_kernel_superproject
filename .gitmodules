@@ -131,6 +131,10 @@
 	branch = master
 	path = external/sqlite
 	url = ../../platform/external/sqlite
+[submodule "platform/external/squashfs-tools"]
+	branch = master
+	path = external/squashfs-tools
+	url = ../../platform/external/squashfs-tools
 [submodule "platform/external/starlark-go"]
 	branch = master
 	path = external/starlark-go
