@@ -1,0 +1,116 @@
+[submodule "kernel/build"]
+	branch = android-gs-raviole-5.10-android12L
+	path = build
+	url = https://android.googlesource.com/kernel/build
+[submodule "kernel/configs"]
+	branch = android-gs-raviole-5.10-android12L
+	path = kernel/configs
+	url = https://android.googlesource.com/kernel/configs
+[submodule "kernel/google-modules/amplifiers"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/amplifiers
+	url = https://android.googlesource.com/kernel/google-modules/amplifiers
+[submodule "kernel/google-modules/aoc"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/aoc
+	url = https://android.googlesource.com/kernel/google-modules/aoc
+[submodule "kernel/google-modules/aoc-ipc"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/aoc_ipc
+	url = https://android.googlesource.com/kernel/google-modules/aoc-ipc
+[submodule "kernel/google-modules/bluetooth/broadcom"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/bluetooth/broadcom
+	url = https://android.googlesource.com/kernel/google-modules/bluetooth/broadcom
+[submodule "kernel/google-modules/bms"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/bms
+	url = https://android.googlesource.com/kernel/google-modules/bms
+[submodule "kernel/google-modules/display"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/display
+	url = https://android.googlesource.com/kernel/google-modules/display
+[submodule "kernel/google-modules/edgetpu"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/edgetpu
+	url = https://android.googlesource.com/kernel/google-modules/edgetpu
+[submodule "kernel/google-modules/fingerprint/fpc"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/fingerprint/fpc
+	url = https://android.googlesource.com/kernel/google-modules/fingerprint/fpc
+[submodule "kernel/google-modules/fingerprint/goodix"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/fingerprint/goodix
+	url = https://android.googlesource.com/kernel/google-modules/fingerprint/goodix
+[submodule "kernel/google-modules/gpu"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/gpu
+	url = https://android.googlesource.com/kernel/google-modules/gpu
+[submodule "kernel/google-modules/lwis"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/lwis
+	url = https://android.googlesource.com/kernel/google-modules/lwis
+[submodule "kernel/google-modules/nfc"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/nfc
+	url = https://android.googlesource.com/kernel/google-modules/nfc
+[submodule "kernel/google-modules/power/reset"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/power/reset
+	url = https://android.googlesource.com/kernel/google-modules/power/reset
+[submodule "kernel/google-modules/touch/common"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/touch/common
+	url = https://android.googlesource.com/kernel/google-modules/touch/common
+[submodule "kernel/google-modules/touch/fts_touch"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/touch/fts
+	url = https://android.googlesource.com/kernel/google-modules/touch/fts_touch
+[submodule "kernel/google-modules/touch/sec_touch"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/touch/sec
+	url = https://android.googlesource.com/kernel/google-modules/touch/sec_touch
+[submodule "kernel/google-modules/uwb"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/uwb
+	url = https://android.googlesource.com/kernel/google-modules/uwb
+[submodule "kernel/google-modules/wlan/bcmdhd/bcm43752"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/wlan/bcmdhd43752
+	url = https://android.googlesource.com/kernel/google-modules/wlan/bcmdhd/bcm43752
+[submodule "kernel/google-modules/wlan/bcmdhd/bcm4389"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/google-modules/wlan/bcmdhd4389
+	url = https://android.googlesource.com/kernel/google-modules/wlan/bcmdhd/bcm4389
+[submodule "kernel/gs"]
+	branch = android-gs-raviole-5.10-android12L
+	path = private/gs-google
+	url = https://android.googlesource.com/kernel/gs
+[submodule "kernel/prebuilts/build-tools"]
+	branch = android-gs-raviole-5.10-android12L
+	path = prebuilts/kernel-build-tools
+	url = https://android.googlesource.com/kernel/prebuilts/build-tools
+[submodule "platform/prebuilts/boot-artifacts"]
+	branch = android-gs-raviole-5.10-android12L
+	path = prebuilts/boot-artifacts
+	url = https://android.googlesource.com/platform/prebuilts/boot-artifacts
+[submodule "platform/prebuilts/build-tools"]
+	branch = android-gs-raviole-5.10-android12L
+	path = prebuilts/build-tools
+	url = https://android.googlesource.com/platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = android-gs-raviole-5.10-android12L
+	path = prebuilts-master/clang/host/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	branch = android-gs-raviole-5.10-android12L
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+[submodule "platform/prebuilts/misc"]
+	branch = android-gs-raviole-5.10-android12L
+	path = prebuilts-master/misc
+	url = https://android.googlesource.com/platform/prebuilts/misc
+[submodule "platform/system/tools/mkbootimg"]
+	branch = android-gs-raviole-5.10-android12L
+	path = tools/mkbootimg
+	url = https://android.googlesource.com/platform/system/tools/mkbootimg
