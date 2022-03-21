@@ -209,3 +209,7 @@
 	branch = master
 	path = system/tools/aidl
 	url = ../../platform/system/tools/aidl
+[submodule "platform/system/tools/mkbootimg"]
+	branch = master
+	path = system/tools/mkbootimg
+	url = ../../platform/system/tools/mkbootimg

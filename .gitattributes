@@ -49,3 +49,4 @@
 /system/logging
 /system/security
 /system/tools/aidl
+/system/tools/mkbootimg
