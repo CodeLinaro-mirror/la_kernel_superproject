@@ -77,3 +77,8 @@
 	branch = master
 	path = tools/mkbootimg
 	url = ../../platform/system/tools/mkbootimg
+[submodule "toolchain/prebuilts/ndk/r23"]
+	branch = master
+	shallow = true
+	path = prebuilts/ndk-r23
+	url = ../../toolchain/prebuilts/ndk/r23
