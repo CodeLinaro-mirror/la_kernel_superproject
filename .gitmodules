@@ -7,7 +7,7 @@
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
-	branch = android12-5.10
+	branch = trout-android12-5.10
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/configs"]
