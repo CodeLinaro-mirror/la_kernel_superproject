@@ -1,3 +1,7 @@
+[submodule "kernel/arcvm-modules/common"]
+	branch = master
+	path = arcvm-modules
+	url = ../arcvm-modules/common
 [submodule "kernel/build"]
 	branch = master-kernel-build-2021
 	path = build
