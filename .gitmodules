@@ -100,6 +100,11 @@
 	shallow = true
 	path = external/bazel-skylib
 	url = ../../platform/external/bazel-skylib
+[submodule "platform/external/python/absl-py"]
+	branch = master
+	shallow = true
+	path = external/python/absl-py
+	url = ../../platform/external/python/absl-py
 [submodule "platform/external/stardoc"]
 	branch = master
 	shallow = true
