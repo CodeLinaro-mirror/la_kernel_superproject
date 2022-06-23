@@ -7,6 +7,7 @@
 /kernel/tests
 /build/bazel_common_rules
 /external/bazel-skylib
+/external/python/absl-py
 /external/stardoc
 /prebuilts/bazel/linux-x86_64
 /prebuilts/boot-artifacts
