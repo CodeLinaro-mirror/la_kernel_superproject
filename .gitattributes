@@ -1,0 +1,11 @@
+/build
+/common
+/common-modules/virtual-device
+/kernel/configs
+/hikey-modules
+/prebuilts/kernel-build-tools
+/kernel/tests
+/prebuilts/build-tools
+/prebuilts-master/clang/host/linux-x86
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+/tools/mkbootimg
