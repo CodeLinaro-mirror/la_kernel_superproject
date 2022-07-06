@@ -1,0 +1,73 @@
+[submodule "kernel/build"]
+	branch = master
+	path = build/kernel
+	url = ../build
+[submodule "kernel/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/kernel-build-tools
+	url = ../prebuilts/build-tools
+[submodule "platform/bootable/libbootloader"]
+	branch = master
+	path = bootable/libbootloader
+	url = ../../platform/bootable/libbootloader
+[submodule "platform/external/arm-trusted-firmware"]
+	branch = master
+	path = external/arm-trusted-firmware
+	url = ../../platform/external/arm-trusted-firmware
+[submodule "platform/external/boringssl"]
+	branch = master
+	path = external/boringssl
+	url = ../../platform/external/boringssl
+[submodule "platform/external/compiler-rt"]
+	branch = master
+	path = external/compiler-rt
+	url = ../../platform/external/compiler-rt
+[submodule "platform/external/dtc"]
+	branch = master
+	path = external/dtc
+	url = ../../platform/external/dtc
+[submodule "platform/external/open-dice"]
+	branch = master
+	path = external/open-dice
+	url = ../../platform/external/open-dice
+[submodule "platform/external/swig"]
+	branch = master
+	path = external/swig
+	url = ../../platform/external/swig
+[submodule "platform/external/u-boot"]
+	branch = master
+	path = u-boot
+	url = ../../platform/external/u-boot
+[submodule "platform/external/zlib"]
+	branch = master
+	path = external/zlib
+	url = ../../platform/external/zlib
+[submodule "platform/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../../platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts-master/clang/host/linux-x86
+	url = ../../platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../../platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = ../../platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = ../../platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../../platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/system/tools/mkbootimg"]
+	branch = master
+	path = tools/mkbootimg
+	url = ../../platform/system/tools/mkbootimg
