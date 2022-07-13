@@ -1,4 +1,5 @@
 /build partner
+/aosp partner
 /common-modules/virtual-device
 /kernel/configs
 /private/google-modules/amplifiers partner

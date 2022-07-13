@@ -2,6 +2,10 @@
 	branch = android-gs-raviole-5.10-android12L
 	path = build
 	url = https://android.googlesource.com/kernel/build
+[submodule "kernel/common"]
+	branch = android-gs-raviole-5.10-android12L
+	path = aosp
+	url = https://android.googlesource.com/kernel/common
 [submodule "kernel/common-modules/virtual-device"]
 	branch = android-gs-raviole-5.10-android12L
 	path = common-modules/virtual-device
