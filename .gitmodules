@@ -1,5 +1,5 @@
 [submodule "kernel/build"]
-	branch = master
+	branch = master-kernel-build-2022
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
