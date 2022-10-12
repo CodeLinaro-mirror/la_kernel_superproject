@@ -7,9 +7,6 @@
 [submodule "kernel/common-modules/virtual-device"]
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
-[submodule "kernel/common-patches"]
-	path = kernel/common-patches
-	url = ../common-patches
 [submodule "kernel/configs"]
 	path = kernel/configs
 	url = ../configs

@@ -1,7 +1,6 @@
 /build/kernel
 /common
 /common-modules/virtual-device
-/kernel/common-patches
 /kernel/configs
 /hikey-modules
 /prebuilts/kernel-build-tools
