@@ -1,0 +1,45 @@
+[submodule "kernel/build"]
+	branch = android-exynos-r11-4.19-android11-wear-jr2
+	path = build
+	url = https://android.googlesource.com/kernel/build
+[submodule "kernel/exynos"]
+	branch = android-exynos-r11-4.19-android11-wear-jr2
+	path = private/exynos-google-cw
+	url = https://android.googlesource.com/kernel/exynos
+[submodule "kernel/exynos-modules/config"]
+	branch = android-exynos-r11-4.19-android11-wear-jr2
+	path = private/exynos-google-cw-extra/config
+	url = https://android.googlesource.com/kernel/exynos-modules/config
+[submodule "kernel/exynos-modules/devicetree"]
+	branch = android-exynos-r11-4.19-android11-wear-jr2
+	path = private/exynos-google-cw-extra/devicetree
+	url = https://android.googlesource.com/kernel/exynos-modules/devicetree
+[submodule "kernel/exynos-modules/drivers"]
+	branch = android-exynos-r11-4.19-android11-wear-jr2
+	path = private/exynos-google-cw-extra/drivers
+	url = https://android.googlesource.com/kernel/exynos-modules/drivers
+[submodule "kernel/prebuilts/build-tools"]
+	branch = android-exynos-r11-4.19-android11-wear-jr2
+	shallow = true
+	path = prebuilts/kernel-build-tools
+	url = https://android.googlesource.com/kernel/prebuilts/build-tools
+[submodule "platform/prebuilts/build-tools"]
+	branch = android-exynos-r11-4.19-android11-wear-jr2
+	shallow = true
+	path = prebuilts/build-tools
+	url = https://android.googlesource.com/platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = android-exynos-r11-4.19-android11-wear-jr2
+	shallow = true
+	path = prebuilts-master/clang/host/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/misc"]
+	branch = android-exynos-r11-4.19-android11-wear-jr2
+	shallow = true
+	path = prebuilts-master/misc
+	url = https://android.googlesource.com/platform/prebuilts/misc
+[submodule "platform/system/tools/mkbootimg"]
+	branch = android-exynos-r11-4.19-android11-wear-jr2
+	shallow = true
+	path = tools/mkbootimg
+	url = https://android.googlesource.com/platform/system/tools/mkbootimg
