@@ -2,9 +2,15 @@
 /tools/interceptor
 /bionic
 /build/make pdk
+/build/bazel pdk
+/build/bazel_common_rules pdk
 /build/blueprint
 /build/soong
 /external/avb
+/external/bazel-skylib pdk
+/external/bazelbuild-kotlin-rules pdk
+/external/bazelbuild-rules_android pdk
+/external/bazelbuild-rules_license pdk
 /external/boringssl
 /external/dtc
 /external/dwarves
@@ -36,6 +42,9 @@
 /external/stg
 /external/swig
 /external/zlib
+/prebuilts/bazel/common pdk
+/prebuilts/bazel/darwin-x86_64 darwin pdk
+/prebuilts/bazel/linux-x86_64 pdk linux
 /prebuilts/build-tools
 /prebuilts/clang-tools
 /prebuilts/clang/host/linux-x86 linux

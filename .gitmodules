@@ -15,6 +15,14 @@
 	branch = master
 	path = build/make
 	url = ../../platform/build
+[submodule "platform/build/bazel"]
+	branch = master
+	path = build/bazel
+	url = ../../platform/build/bazel
+[submodule "platform/build/bazel_common_rules"]
+	branch = master
+	path = build/bazel_common_rules
+	url = ../../platform/build/bazel_common_rules
 [submodule "platform/build/blueprint"]
 	branch = master
 	path = build/blueprint
@@ -27,6 +35,22 @@
 	branch = master
 	path = external/avb
 	url = ../../platform/external/avb
+[submodule "platform/external/bazel-skylib"]
+	branch = master
+	path = external/bazel-skylib
+	url = ../../platform/external/bazel-skylib
+[submodule "platform/external/bazelbuild-kotlin-rules"]
+	branch = master
+	path = external/bazelbuild-kotlin-rules
+	url = ../../platform/external/bazelbuild-kotlin-rules
+[submodule "platform/external/bazelbuild-rules_android"]
+	branch = master
+	path = external/bazelbuild-rules_android
+	url = ../../platform/external/bazelbuild-rules_android
+[submodule "platform/external/bazelbuild-rules_license"]
+	branch = master
+	path = external/bazelbuild-rules_license
+	url = ../../platform/external/bazelbuild-rules_license
 [submodule "platform/external/boringssl"]
 	branch = master
 	path = external/boringssl
@@ -151,6 +175,21 @@
 	branch = master
 	path = external/zlib
 	url = ../../platform/external/zlib
+[submodule "platform/prebuilts/bazel/common"]
+	branch = master
+	shallow = true
+	path = prebuilts/bazel/common
+	url = ../../platform/prebuilts/bazel/common
+[submodule "platform/prebuilts/bazel/darwin-x86_64"]
+	branch = master
+	shallow = true
+	path = prebuilts/bazel/darwin-x86_64
+	url = ../../platform/prebuilts/bazel/darwin-x86_64
+[submodule "platform/prebuilts/bazel/linux-x86_64"]
+	branch = master
+	shallow = true
+	path = prebuilts/bazel/linux-x86_64
+	url = ../../platform/prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/build-tools"]
 	branch = master
 	shallow = true
