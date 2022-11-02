@@ -215,6 +215,11 @@
 	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../../platform/prebuilts/go/linux-x86
+[submodule "platform/prebuilts/jdk/jdk11"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk11
+	url = ../../platform/prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/ninja/linux-x86"]
 	branch = master
 	shallow = true
