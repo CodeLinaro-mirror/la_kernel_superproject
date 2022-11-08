@@ -48,10 +48,6 @@
 	shallow = true
 	path = prebuilts/bazel/linux-x86_64
 	url = ../../platform/prebuilts/bazel/linux-x86_64
-[submodule "platform/prebuilts/boot-artifacts"]
-	branch = master
-	path = prebuilts/boot-artifacts
-	url = ../../platform/prebuilts/boot-artifacts
 [submodule "platform/prebuilts/build-tools"]
 	branch = master
 	shallow = true
