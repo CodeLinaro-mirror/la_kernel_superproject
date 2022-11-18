@@ -1,0 +1,84 @@
+[submodule "kernel/build"]
+	branch = master
+	path = build/kernel
+	url = ../build
+[submodule "kernel/common"]
+	branch = android-mainline
+	path = common
+	url = ../common
+[submodule "kernel/common-modules/virtual-device"]
+	branch = android-mainline
+	path = common-modules/virtual-device
+	url = ../common-modules/virtual-device
+[submodule "kernel/common-patches"]
+	branch = master
+	path = kernel/common-patches
+	url = ../common-patches
+[submodule "kernel/configs"]
+	branch = master
+	path = kernel/configs
+	url = ../configs
+[submodule "kernel/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/kernel-build-tools
+	url = ../prebuilts/build-tools
+[submodule "kernel/tests"]
+	branch = master
+	path = kernel/tests
+	url = ../tests
+[submodule "platform/build/bazel_common_rules"]
+	branch = master
+	path = build/bazel_common_rules
+	url = ../../platform/build/bazel_common_rules
+[submodule "platform/external/bazel-skylib"]
+	branch = master
+	path = external/bazel-skylib
+	url = ../../platform/external/bazel-skylib
+[submodule "platform/external/python/absl-py"]
+	branch = master
+	path = external/python/absl-py
+	url = ../../platform/external/python/absl-py
+[submodule "platform/external/stardoc"]
+	branch = master
+	path = external/stardoc
+	url = ../../platform/external/stardoc
+[submodule "platform/prebuilts/bazel/linux-x86_64"]
+	branch = master
+	shallow = true
+	path = prebuilts/bazel/linux-x86_64
+	url = ../../platform/prebuilts/bazel/linux-x86_64
+[submodule "platform/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../../platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang-tools
+	url = ../../platform/prebuilts/clang-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = ../../platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = ../../platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+[submodule "platform/prebuilts/jdk/jdk11"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk11
+	url = ../../platform/prebuilts/jdk/jdk11
+[submodule "platform/system/tools/mkbootimg"]
+	branch = master
+	path = tools/mkbootimg
+	url = ../../platform/system/tools/mkbootimg
+[submodule "toolchain/prebuilts/ndk/r23"]
+	branch = master
+	shallow = true
+	path = prebuilts/ndk-r23
+	url = ../../toolchain/prebuilts/ndk/r23
