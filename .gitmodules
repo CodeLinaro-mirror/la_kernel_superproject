@@ -11,10 +11,18 @@
 	branch = master
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
+[submodule "platform/build/bazel_common_rules"]
+	branch = master
+	path = build/bazel_common_rules
+	url = ../../platform/build/bazel_common_rules
 [submodule "platform/external/arm-trusted-firmware"]
 	branch = master
 	path = external/arm-trusted-firmware
 	url = ../../platform/external/arm-trusted-firmware
+[submodule "platform/external/bazel-skylib"]
+	branch = master
+	path = external/bazel-skylib
+	url = ../../platform/external/bazel-skylib
 [submodule "platform/external/boringssl"]
 	branch = master
 	path = external/boringssl
@@ -31,6 +39,10 @@
 	branch = master
 	path = external/open-dice
 	url = ../../platform/external/open-dice
+[submodule "platform/external/stardoc"]
+	branch = master
+	path = external/stardoc
+	url = ../../platform/external/stardoc
 [submodule "platform/external/swig"]
 	branch = master
 	path = external/swig
@@ -43,6 +55,11 @@
 	branch = master
 	path = external/zlib
 	url = ../../platform/external/zlib
+[submodule "platform/prebuilts/bazel/linux-x86_64"]
+	branch = master
+	shallow = true
+	path = prebuilts/bazel/linux-x86_64
+	url = ../../platform/prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/build-tools"]
 	branch = master
 	shallow = true
@@ -67,7 +84,17 @@
 [submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../../platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/jdk/jdk11"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk11
+	url = ../../platform/prebuilts/jdk/jdk11
 [submodule "platform/system/tools/mkbootimg"]
 	branch = master
 	path = tools/mkbootimg
 	url = ../../platform/system/tools/mkbootimg
+[submodule "toolchain/prebuilts/ndk/r23"]
+	branch = master
+	shallow = true
+	path = prebuilts/ndk-r23
+	url = ../../toolchain/prebuilts/ndk/r23
