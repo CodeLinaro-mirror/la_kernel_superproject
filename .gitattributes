@@ -1,0 +1,10 @@
+/build partner
+/private/exynos-google-cw
+/private/exynos-google-cw-extra/config
+/private/exynos-google-cw-extra/devicetree
+/private/exynos-google-cw-extra/drivers
+/prebuilts/kernel-build-tools partner
+/prebuilts/build-tools partner
+/prebuilts-master/clang/host/linux-x86 partner
+/prebuilts-master/misc partner
+/tools/mkbootimg partner
