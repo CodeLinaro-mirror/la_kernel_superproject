@@ -1,0 +1,13 @@
+/build/kernel
+/kernel/configs
+/hikey-linaro
+/prebuilts/kernel-build-tools
+/kernel/tests
+/prebuilts/boot-artifacts
+/prebuilts/build-tools
+/prebuilts/clang/host/linux-x86
+/prebuilts/gas/linux-x86
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+/prebuilts/misc
+/tools/mkbootimg
+/prebuilts/ndk-r23
