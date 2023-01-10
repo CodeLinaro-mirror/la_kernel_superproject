@@ -7,7 +7,7 @@
 	path = kernel/configs
 	url = ../configs
 [submodule "kernel/hikey-linaro"]
-	branch = android-amlogic-bmeson-5.15
+	branch = android-amlogic-bmeson-6.1
 	path = hikey-linaro
 	url = ../hikey-linaro
 [submodule "kernel/prebuilts/build-tools"]
