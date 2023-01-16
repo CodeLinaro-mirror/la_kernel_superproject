@@ -31,9 +31,6 @@
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
 	path = prebuilts/bazel/linux-x86_64
 	url = ../../platform/prebuilts/bazel/linux-x86_64
-[submodule "platform/prebuilts/boot-artifacts"]
-	path = prebuilts/boot-artifacts
-	url = ../../platform/prebuilts/boot-artifacts
 [submodule "platform/prebuilts/build-tools"]
 	path = prebuilts/build-tools
 	url = ../../platform/prebuilts/build-tools
