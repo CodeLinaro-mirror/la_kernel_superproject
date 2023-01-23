@@ -59,6 +59,7 @@
 	path = external/kmod
 	url = https://android.googlesource.com/platform/external/kmod
 [submodule "platform/external/libabigail"]
+	branch = build-tools-2022
 	path = external/libabigail
 	url = https://android.googlesource.com/platform/external/libabigail
 [submodule "platform/external/libbpf"]
@@ -104,6 +105,7 @@
 	path = external/starlark-go
 	url = https://android.googlesource.com/platform/external/starlark-go
 [submodule "platform/external/stg"]
+	branch = build-tools-2022
 	path = external/stg
 	url = https://android.googlesource.com/platform/external/stg
 [submodule "platform/external/swig"]
