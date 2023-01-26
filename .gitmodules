@@ -1,4 +1,6 @@
 [submodule "kernel/prebuilts/build-tools"]
+	branch = master-kernel-build-2022
+	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = https://android.googlesource.com/kernel/prebuilts/build-tools
 [submodule "kernel/tools/interceptor"]
