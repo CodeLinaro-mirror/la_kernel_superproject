@@ -6,6 +6,7 @@
 /build/bazel_common_rules pdk
 /build/blueprint
 /build/soong
+/external/abseil-cpp
 /external/avb
 /external/bazel-skylib pdk
 /external/bazelbuild-kotlin-rules pdk

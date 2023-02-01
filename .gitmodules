@@ -31,6 +31,10 @@
 	branch = master
 	path = build/soong
 	url = ../../platform/build/soong
+[submodule "platform/external/abseil-cpp"]
+	branch = master
+	path = external/abseil-cpp
+	url = ../../platform/external/abseil-cpp
 [submodule "platform/external/avb"]
 	branch = master
 	path = external/avb
