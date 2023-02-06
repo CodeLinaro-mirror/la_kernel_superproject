@@ -1,0 +1,43 @@
+/prebuilts/kernel-build-tools
+/bionic
+/build/make pdk
+/build/blueprint
+/build/soong
+/external/avb
+/external/boringssl
+/external/dtc
+/external/dwarves
+/external/e2fsprogs
+/external/elfutils
+/external/expat
+/external/fmtlib
+/external/go-cmp pdk
+/external/golang-protobuf
+/external/icu
+/external/kmod
+/external/libabigail
+/external/libbpf
+/external/libcxx
+/external/libcxxabi
+/external/libxml2
+/external/lz4
+/external/pcre
+/external/python/cpython2
+/external/python/cpython3
+/external/selinux
+/external/sqlite
+/external/starlark-go
+/external/swig
+/external/zlib
+/prebuilts/build-tools
+/prebuilts/clang-tools
+/prebuilts/clang/host/linux-x86 linux
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+/prebuilts/go/linux-x86 linux
+/prebuilts/ninja/linux-x86 linux
+/system/core
+/system/extras
+/system/libbase
+/tools/libufdt
+/system/logging
+/system/tools/aidl
