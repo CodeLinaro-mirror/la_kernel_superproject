@@ -1,0 +1,45 @@
+[submodule "kernel/build"]
+	ref = refs/tags/android-wear-11.0.0_r0.6
+	path = build
+	url = https://android.googlesource.com/kernel/build
+[submodule "kernel/exynos"]
+	ref = refs/tags/android-wear-11.0.0_r0.6
+	path = private/exynos-google-cw
+	url = https://android.googlesource.com/kernel/exynos
+[submodule "kernel/exynos-modules/config"]
+	ref = refs/tags/android-wear-11.0.0_r0.6
+	path = private/exynos-google-cw-extra/config
+	url = https://android.googlesource.com/kernel/exynos-modules/config
+[submodule "kernel/exynos-modules/devicetree"]
+	ref = refs/tags/android-wear-11.0.0_r0.6
+	path = private/exynos-google-cw-extra/devicetree
+	url = https://android.googlesource.com/kernel/exynos-modules/devicetree
+[submodule "kernel/exynos-modules/drivers"]
+	ref = refs/tags/android-wear-11.0.0_r0.6
+	path = private/exynos-google-cw-extra/drivers
+	url = https://android.googlesource.com/kernel/exynos-modules/drivers
+[submodule "kernel/prebuilts/build-tools"]
+	ref = refs/tags/android-wear-11.0.0_r0.6
+	shallow = true
+	path = prebuilts/kernel-build-tools
+	url = https://android.googlesource.com/kernel/prebuilts/build-tools
+[submodule "platform/prebuilts/build-tools"]
+	ref = refs/tags/android-wear-11.0.0_r0.6
+	shallow = true
+	path = prebuilts/build-tools
+	url = https://android.googlesource.com/platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	ref = refs/tags/android-wear-11.0.0_r0.6
+	shallow = true
+	path = prebuilts-master/clang/host/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/misc"]
+	ref = refs/tags/android-wear-11.0.0_r0.6
+	shallow = true
+	path = prebuilts-master/misc
+	url = https://android.googlesource.com/platform/prebuilts/misc
+[submodule "platform/system/tools/mkbootimg"]
+	ref = refs/tags/android-wear-11.0.0_r0.6
+	shallow = true
+	path = tools/mkbootimg
+	url = https://android.googlesource.com/platform/system/tools/mkbootimg
