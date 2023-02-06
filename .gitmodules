@@ -1,179 +1,131 @@
 [submodule "kernel/prebuilts/build-tools"]
-	branch = master
+	branch = master-kernel-build-2021
 	shallow = true
 	path = prebuilts/kernel-build-tools
-	url = ../prebuilts/build-tools
+	url = https://android.googlesource.com/kernel/prebuilts/build-tools
 [submodule "platform/bionic"]
-	branch = master
 	path = bionic
-	url = ../../platform/bionic
+	url = https://android.googlesource.com/platform/bionic
 [submodule "platform/build"]
-	branch = master
 	path = build/make
-	url = ../../platform/build
+	url = https://android.googlesource.com/platform/build
 [submodule "platform/build/blueprint"]
-	branch = master
 	path = build/blueprint
-	url = ../../platform/build/blueprint
+	url = https://android.googlesource.com/platform/build/blueprint
 [submodule "platform/build/soong"]
-	branch = master
 	path = build/soong
-	url = ../../platform/build/soong
+	url = https://android.googlesource.com/platform/build/soong
 [submodule "platform/external/avb"]
-	branch = master
 	path = external/avb
-	url = ../../platform/external/avb
+	url = https://android.googlesource.com/platform/external/avb
 [submodule "platform/external/boringssl"]
-	branch = master
 	path = external/boringssl
-	url = ../../platform/external/boringssl
+	url = https://android.googlesource.com/platform/external/boringssl
 [submodule "platform/external/dtc"]
-	branch = master
 	path = external/dtc
-	url = ../../platform/external/dtc
+	url = https://android.googlesource.com/platform/external/dtc
 [submodule "platform/external/dwarves"]
-	branch = master
 	path = external/dwarves
-	url = ../../platform/external/dwarves
+	url = https://android.googlesource.com/platform/external/dwarves
 [submodule "platform/external/e2fsprogs"]
-	branch = master
 	path = external/e2fsprogs
-	url = ../../platform/external/e2fsprogs
+	url = https://android.googlesource.com/platform/external/e2fsprogs
 [submodule "platform/external/elfutils"]
-	branch = master
 	path = external/elfutils
-	url = ../../platform/external/elfutils
+	url = https://android.googlesource.com/platform/external/elfutils
 [submodule "platform/external/expat"]
-	branch = master
 	path = external/expat
-	url = ../../platform/external/expat
+	url = https://android.googlesource.com/platform/external/expat
 [submodule "platform/external/fmtlib"]
-	branch = master
 	path = external/fmtlib
-	url = ../../platform/external/fmtlib
+	url = https://android.googlesource.com/platform/external/fmtlib
 [submodule "platform/external/go-cmp"]
-	branch = master
 	path = external/go-cmp
-	url = ../../platform/external/go-cmp
+	url = https://android.googlesource.com/platform/external/go-cmp
 [submodule "platform/external/golang-protobuf"]
-	branch = master
 	path = external/golang-protobuf
-	url = ../../platform/external/golang-protobuf
+	url = https://android.googlesource.com/platform/external/golang-protobuf
 [submodule "platform/external/icu"]
-	branch = master
 	path = external/icu
-	url = ../../platform/external/icu
+	url = https://android.googlesource.com/platform/external/icu
 [submodule "platform/external/kmod"]
-	branch = master
 	path = external/kmod
-	url = ../../platform/external/kmod
+	url = https://android.googlesource.com/platform/external/kmod
 [submodule "platform/external/libabigail"]
-	branch = master
 	path = external/libabigail
-	url = ../../platform/external/libabigail
+	url = https://android.googlesource.com/platform/external/libabigail
 [submodule "platform/external/libbpf"]
-	branch = master
 	path = external/libbpf
-	url = ../../platform/external/libbpf
+	url = https://android.googlesource.com/platform/external/libbpf
 [submodule "platform/external/libcxx"]
-	branch = master
 	path = external/libcxx
-	url = ../../platform/external/libcxx
+	url = https://android.googlesource.com/platform/external/libcxx
 [submodule "platform/external/libcxxabi"]
-	branch = master
 	path = external/libcxxabi
-	url = ../../platform/external/libcxxabi
+	url = https://android.googlesource.com/platform/external/libcxxabi
 [submodule "platform/external/libxml2"]
-	branch = master
 	path = external/libxml2
-	url = ../../platform/external/libxml2
+	url = https://android.googlesource.com/platform/external/libxml2
 [submodule "platform/external/lz4"]
-	branch = master
 	path = external/lz4
-	url = ../../platform/external/lz4
+	url = https://android.googlesource.com/platform/external/lz4
 [submodule "platform/external/pcre"]
-	branch = master
 	path = external/pcre
-	url = ../../platform/external/pcre
+	url = https://android.googlesource.com/platform/external/pcre
 [submodule "platform/external/python/cpython2"]
-	branch = master
 	path = external/python/cpython2
-	url = ../../platform/external/python/cpython2
+	url = https://android.googlesource.com/platform/external/python/cpython2
 [submodule "platform/external/python/cpython3"]
-	branch = master
 	path = external/python/cpython3
-	url = ../../platform/external/python/cpython3
+	url = https://android.googlesource.com/platform/external/python/cpython3
 [submodule "platform/external/selinux"]
-	branch = master
 	path = external/selinux
-	url = ../../platform/external/selinux
+	url = https://android.googlesource.com/platform/external/selinux
 [submodule "platform/external/sqlite"]
-	branch = master
 	path = external/sqlite
-	url = ../../platform/external/sqlite
+	url = https://android.googlesource.com/platform/external/sqlite
 [submodule "platform/external/starlark-go"]
-	branch = master
 	path = external/starlark-go
-	url = ../../platform/external/starlark-go
+	url = https://android.googlesource.com/platform/external/starlark-go
 [submodule "platform/external/swig"]
-	branch = master
 	path = external/swig
-	url = ../../platform/external/swig
+	url = https://android.googlesource.com/platform/external/swig
 [submodule "platform/external/zlib"]
-	branch = master
 	path = external/zlib
-	url = ../../platform/external/zlib
+	url = https://android.googlesource.com/platform/external/zlib
 [submodule "platform/prebuilts/build-tools"]
-	branch = master
-	shallow = true
 	path = prebuilts/build-tools
-	url = ../../platform/prebuilts/build-tools
+	url = https://android.googlesource.com/platform/prebuilts/build-tools
 [submodule "platform/prebuilts/clang-tools"]
-	branch = master
-	shallow = true
 	path = prebuilts/clang-tools
-	url = ../../platform/prebuilts/clang-tools
+	url = https://android.googlesource.com/platform/prebuilts/clang-tools
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = master
-	shallow = true
 	path = prebuilts/clang/host/linux-x86
-	url = ../../platform/prebuilts/clang/host/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
-	branch = master
-	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
-	url = ../../platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/go/linux-x86"]
-	branch = master
-	shallow = true
 	path = prebuilts/go/linux-x86
-	url = ../../platform/prebuilts/go/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/go/linux-x86
 [submodule "platform/prebuilts/ninja/linux-x86"]
-	branch = master
-	shallow = true
 	path = prebuilts/ninja/linux-x86
-	url = ../../platform/prebuilts/ninja/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/ninja/linux-x86
 [submodule "platform/system/core"]
-	branch = master
 	path = system/core
-	url = ../../platform/system/core
+	url = https://android.googlesource.com/platform/system/core
 [submodule "platform/system/extras"]
-	branch = master
 	path = system/extras
-	url = ../../platform/system/extras
+	url = https://android.googlesource.com/platform/system/extras
 [submodule "platform/system/libbase"]
-	branch = master
 	path = system/libbase
-	url = ../../platform/system/libbase
+	url = https://android.googlesource.com/platform/system/libbase
 [submodule "platform/system/libufdt"]
-	branch = master
 	path = tools/libufdt
-	url = ../../platform/system/libufdt
+	url = https://android.googlesource.com/platform/system/libufdt
 [submodule "platform/system/logging"]
-	branch = master
 	path = system/logging
-	url = ../../platform/system/logging
+	url = https://android.googlesource.com/platform/system/logging
 [submodule "platform/system/tools/aidl"]
-	branch = master
 	path = system/tools/aidl
-	url = ../../platform/system/tools/aidl
+	url = https://android.googlesource.com/platform/system/tools/aidl
