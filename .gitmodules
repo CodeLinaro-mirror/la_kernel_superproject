@@ -1,0 +1,75 @@
+[submodule "kernel/build"]
+	branch = main-16k-common-android14-5.15
+	path = build/kernel
+	url = ../build
+[submodule "kernel/common"]
+	branch = main-16k-common-android14-5.15
+	path = common
+	url = ../common
+[submodule "kernel/common-modules/virtual-device"]
+	branch = main-16k-common-android14-5.15
+	path = common-modules/virtual-device
+	url = ../common-modules/virtual-device
+[submodule "kernel/configs"]
+	branch = main-16k-common-android14-5.15
+	path = kernel/configs
+	url = ../configs
+[submodule "kernel/prebuilts/build-tools"]
+	branch = main-16k-common-android14-5.15
+	shallow = true
+	path = prebuilts/kernel-build-tools
+	url = ../prebuilts/build-tools
+[submodule "kernel/tests"]
+	branch = main-16k-common-android14-5.15
+	path = kernel/tests
+	url = ../tests
+[submodule "platform/build/bazel_common_rules"]
+	branch = main-16k-common-android14-5.15
+	path = build/bazel_common_rules
+	url = ../../platform/build/bazel_common_rules
+[submodule "platform/external/bazel-skylib"]
+	branch = main-16k-common-android14-5.15
+	path = external/bazel-skylib
+	url = ../../platform/external/bazel-skylib
+[submodule "platform/external/python/absl-py"]
+	branch = main-16k-common-android14-5.15
+	path = external/python/absl-py
+	url = ../../platform/external/python/absl-py
+[submodule "platform/external/stardoc"]
+	branch = main-16k-common-android14-5.15
+	path = external/stardoc
+	url = ../../platform/external/stardoc
+[submodule "platform/prebuilts/bazel/linux-x86_64"]
+	branch = main-16k-common-android14-5.15
+	shallow = true
+	path = prebuilts/bazel/linux-x86_64
+	url = ../../platform/prebuilts/bazel/linux-x86_64
+[submodule "platform/prebuilts/build-tools"]
+	branch = main-16k-common-android14-5.15
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../../platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = main-16k-common-android14-5.15
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = ../../platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	branch = main-16k-common-android14-5.15
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = ../../platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+[submodule "platform/prebuilts/jdk/jdk11"]
+	branch = main-16k-common-android14-5.15
+	shallow = true
+	path = prebuilts/jdk/jdk11
+	url = ../../platform/prebuilts/jdk/jdk11
+[submodule "platform/system/tools/mkbootimg"]
+	branch = main-16k-common-android14-5.15
+	path = tools/mkbootimg
+	url = ../../platform/system/tools/mkbootimg
+[submodule "toolchain/prebuilts/ndk/r23"]
+	branch = main-16k-common-android14-5.15
+	shallow = true
+	path = prebuilts/ndk-r23
+	url = ../../toolchain/prebuilts/ndk/r23
