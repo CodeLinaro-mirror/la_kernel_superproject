@@ -24,6 +24,7 @@
 /external/go-cmp pdk
 /external/golang-protobuf
 /external/icu
+/external/jemalloc_new
 /external/kmod
 /external/libabigail
 /external/libbpf

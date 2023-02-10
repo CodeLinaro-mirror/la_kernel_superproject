@@ -103,6 +103,10 @@
 	branch = master
 	path = external/icu
 	url = ../../platform/external/icu
+[submodule "platform/external/jemalloc_new"]
+	branch = master
+	path = external/jemalloc_new
+	url = ../../platform/external/jemalloc_new
 [submodule "platform/external/kmod"]
 	branch = master
 	path = external/kmod
