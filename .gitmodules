@@ -6,10 +6,20 @@
 	branch = android-4.19-q
 	path = common
 	url = ../common
+[submodule "kernel/prebuilts/build-tools"]
+	branch = master-kernel-build-2021
+	shallow = true
+	path = prebuilts/kernel-build-tools
+	url = ../prebuilts/build-tools
 [submodule "kernel/tests"]
 	branch = master-kernel-build-2021
 	path = kernel/tests
 	url = ../tests
+[submodule "platform/prebuilts/build-tools"]
+	branch = master-kernel-build-2021
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../../platform/prebuilts/build-tools
 [submodule "platform/prebuilts/clang/host/linux-x86"]
 	path = prebuilts-master/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
