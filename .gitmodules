@@ -73,6 +73,11 @@
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../../platform/prebuilts/jdk/jdk11
+[submodule "platform/prebuilts/rust"]
+	branch = master
+	shallow = true
+	path = prebuilts/rust
+	url = ../../platform/prebuilts/rust
 [submodule "platform/system/tools/mkbootimg"]
 	branch = master
 	path = tools/mkbootimg
