@@ -111,10 +111,6 @@
 	branch = master
 	path = external/kmod
 	url = ../../platform/external/kmod
-[submodule "platform/external/libabigail"]
-	branch = master
-	path = external/libabigail
-	url = ../../platform/external/libabigail
 [submodule "platform/external/libbpf"]
 	branch = master
 	path = external/libbpf
