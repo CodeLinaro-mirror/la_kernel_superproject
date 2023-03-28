@@ -3,7 +3,7 @@
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android-mainline
+	branch = android-mainline-rust
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
@@ -73,6 +73,11 @@
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../../platform/prebuilts/jdk/jdk11
+[submodule "platform/prebuilts/rust"]
+	branch = master
+	shallow = true
+	path = prebuilts/rust
+	url = ../../platform/prebuilts/rust
 [submodule "platform/system/tools/mkbootimg"]
 	branch = master
 	path = tools/mkbootimg
