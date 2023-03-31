@@ -30,6 +30,7 @@
 /external/libcxx
 /external/libcxxabi
 /external/libxml2
+/external/licenseclassifier
 /external/lz4
 /external/pcre
 /external/protobuf
@@ -37,6 +38,7 @@
 /external/python/cpython3
 /external/python/six
 /external/selinux
+/external/spdx-tools
 /external/sqlite
 /external/squashfs-tools
 /external/starlark-go

@@ -127,6 +127,10 @@
 	branch = master
 	path = external/libxml2
 	url = ../../platform/external/libxml2
+[submodule "platform/external/licenseclassifier"]
+	branch = master
+	path = external/licenseclassifier
+	url = ../../platform/external/licenseclassifier
 [submodule "platform/external/lz4"]
 	branch = master
 	path = external/lz4
@@ -155,6 +159,10 @@
 	branch = master
 	path = external/selinux
 	url = ../../platform/external/selinux
+[submodule "platform/external/spdx-tools"]
+	branch = master
+	path = external/spdx-tools
+	url = ../../platform/external/spdx-tools
 [submodule "platform/external/sqlite"]
 	branch = master
 	path = external/sqlite
