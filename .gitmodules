@@ -1,0 +1,149 @@
+[submodule "kernel/build"]
+	branch = master
+	path = build/kernel
+	url = ../build
+[submodule "kernel/common"]
+	branch = android-mainline
+	path = common
+	url = ../common
+[submodule "kernel/configs"]
+	branch = master
+	path = kernel/configs
+	url = ../configs
+[submodule "kernel/google-modules/amplifiers"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/amplifiers
+	url = ../google-modules/amplifiers
+[submodule "kernel/google-modules/aoc"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/aoc
+	url = ../google-modules/aoc
+[submodule "kernel/google-modules/aoc-ipc"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/aoc_ipc
+	url = ../google-modules/aoc-ipc
+[submodule "kernel/google-modules/bluetooth/broadcom"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/bluetooth/broadcom
+	url = ../google-modules/bluetooth/broadcom
+[submodule "kernel/google-modules/bms"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/bms
+	url = ../google-modules/bms
+[submodule "kernel/google-modules/display"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/display
+	url = ../google-modules/display
+[submodule "kernel/google-modules/edgetpu"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/edgetpu
+	url = ../google-modules/edgetpu
+[submodule "kernel/google-modules/gpu"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/gpu
+	url = ../google-modules/gpu
+[submodule "kernel/google-modules/lwis"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/lwis
+	url = ../google-modules/lwis
+[submodule "kernel/google-modules/nfc"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/nfc
+	url = ../google-modules/nfc
+[submodule "kernel/google-modules/power/reset"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/power/reset
+	url = ../google-modules/power/reset
+[submodule "kernel/google-modules/raviole-device"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/soc-modules
+	url = ../google-modules/raviole-device
+[submodule "kernel/google-modules/touch/common"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/touch/common
+	url = ../google-modules/touch/common
+[submodule "kernel/google-modules/touch/fts_touch"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/touch/fts
+	url = ../google-modules/touch/fts_touch
+[submodule "kernel/google-modules/touch/sec_touch"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/touch/sec
+	url = ../google-modules/touch/sec_touch
+[submodule "kernel/google-modules/uwb"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/uwb
+	url = ../google-modules/uwb
+[submodule "kernel/google-modules/wlan/bcmdhd/bcm4389"]
+	branch = android-gs-raviole-mainline
+	path = gs/google-modules/wlan/bcmdhd4389
+	url = ../google-modules/wlan/bcmdhd/bcm4389
+[submodule "kernel/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/kernel-build-tools
+	url = ../prebuilts/build-tools
+[submodule "platform/build/bazel_common_rules"]
+	branch = master
+	path = build/bazel_common_rules
+	url = ../../platform/build/bazel_common_rules
+[submodule "platform/external/bazel-skylib"]
+	branch = master
+	shallow = true
+	path = external/bazel-skylib
+	url = ../../platform/external/bazel-skylib
+[submodule "platform/external/python/absl-py"]
+	branch = master
+	shallow = true
+	path = external/python/absl-py
+	url = ../../platform/external/python/absl-py
+[submodule "platform/external/stardoc"]
+	branch = master
+	shallow = true
+	path = external/stardoc
+	url = ../../platform/external/stardoc
+[submodule "platform/prebuilts/bazel/linux-x86_64"]
+	branch = master
+	shallow = true
+	path = prebuilts/bazel/linux-x86_64
+	url = ../../platform/prebuilts/bazel/linux-x86_64
+[submodule "platform/prebuilts/boot-artifacts"]
+	branch = android-gs-raviole-mainline
+	shallow = true
+	path = prebuilts/boot-artifacts
+	url = ../../platform/prebuilts/boot-artifacts
+[submodule "platform/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../../platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = ../../platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = ../../platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+[submodule "platform/prebuilts/jdk/jdk11"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk11
+	url = ../../platform/prebuilts/jdk/jdk11
+[submodule "platform/prebuilts/misc"]
+	branch = master
+	shallow = true
+	path = prebuilts/misc
+	url = ../../platform/prebuilts/misc
+[submodule "platform/system/tools/mkbootimg"]
+	branch = master
+	shallow = true
+	path = tools/mkbootimg
+	url = ../../platform/system/tools/mkbootimg
+[submodule "toolchain/prebuilts/ndk/r23"]
+	branch = master
+	shallow = true
+	path = prebuilts/ndk-r23
+	url = ../../toolchain/prebuilts/ndk/r23
