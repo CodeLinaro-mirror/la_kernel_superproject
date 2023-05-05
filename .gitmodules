@@ -12,71 +12,71 @@
 	url = ../configs
 [submodule "kernel/google-modules/amplifiers"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/amplifiers
+	path = private/google-modules/amplifiers
 	url = ../google-modules/amplifiers
 [submodule "kernel/google-modules/aoc"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/aoc
+	path = private/google-modules/aoc
 	url = ../google-modules/aoc
 [submodule "kernel/google-modules/aoc-ipc"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/aoc_ipc
+	path = private/google-modules/aoc_ipc
 	url = ../google-modules/aoc-ipc
 [submodule "kernel/google-modules/bluetooth/broadcom"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/bluetooth/broadcom
+	path = private/google-modules/bluetooth/broadcom
 	url = ../google-modules/bluetooth/broadcom
 [submodule "kernel/google-modules/bms"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/bms
+	path = private/google-modules/bms
 	url = ../google-modules/bms
 [submodule "kernel/google-modules/display"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/display
+	path = private/google-modules/display
 	url = ../google-modules/display
-[submodule "kernel/google-modules/edgetpu"]
+[submodule "kernel/google-modules/edgetpu/abrolhos"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/edgetpu
-	url = ../google-modules/edgetpu
+	path = private/google-modules/edgetpu/abrolhos
+	url = ../google-modules/edgetpu/abrolhos
 [submodule "kernel/google-modules/gpu"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/gpu
+	path = private/google-modules/gpu
 	url = ../google-modules/gpu
 [submodule "kernel/google-modules/lwis"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/lwis
+	path = private/google-modules/lwis
 	url = ../google-modules/lwis
 [submodule "kernel/google-modules/nfc"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/nfc
+	path = private/google-modules/nfc
 	url = ../google-modules/nfc
 [submodule "kernel/google-modules/power/reset"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/power/reset
+	path = private/google-modules/power/reset
 	url = ../google-modules/power/reset
 [submodule "kernel/google-modules/raviole-device"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/soc-modules
+	path = private/google-modules/soc/gs
 	url = ../google-modules/raviole-device
 [submodule "kernel/google-modules/touch/common"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/touch/common
+	path = private/google-modules/touch/common
 	url = ../google-modules/touch/common
 [submodule "kernel/google-modules/touch/fts_touch"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/touch/fts
+	path = private/google-modules/touch/fts
 	url = ../google-modules/touch/fts_touch
 [submodule "kernel/google-modules/touch/sec_touch"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/touch/sec
+	path = private/google-modules/touch/sec
 	url = ../google-modules/touch/sec_touch
 [submodule "kernel/google-modules/uwb"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/uwb
+	path = private/google-modules/uwb
 	url = ../google-modules/uwb
 [submodule "kernel/google-modules/wlan/bcmdhd/bcm4389"]
 	branch = android-gs-raviole-mainline
-	path = gs/google-modules/wlan/bcmdhd4389
+	path = private/google-modules/wlan/bcmdhd4389
 	url = ../google-modules/wlan/bcmdhd/bcm4389
 [submodule "kernel/prebuilts/build-tools"]
 	branch = master
