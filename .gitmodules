@@ -3,11 +3,11 @@
 	path = build
 	url = ../build
 [submodule "kernel/common"]
-	branch = android12-5.10-lts
+	branch = arcvm12-5.10
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
-	branch = android12-5.10
+	branch = android12-5.10-arcvm
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/configs"]
