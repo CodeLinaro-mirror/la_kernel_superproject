@@ -11,3 +11,4 @@
 /prebuilts/clang/host/linux-x86
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 /prebuilts/jdk/jdk11
+/prebuilts/ndk-r23
