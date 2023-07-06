@@ -33,7 +33,7 @@
 	path = prebuilts/kernel-build-tools
 	url = https://android.googlesource.com/kernel/prebuilts/build-tools
 [submodule "platform/prebuilts/boot-artifacts"]
-	branch = master
+	branch = main
 	path = prebuilts/boot-artifacts
 	url = https://android.googlesource.com/platform/prebuilts/boot-artifacts
 [submodule "platform/prebuilts/build-tools"]
