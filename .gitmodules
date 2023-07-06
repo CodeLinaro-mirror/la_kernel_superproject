@@ -1,5 +1,5 @@
 [submodule "kernel/build"]
-	branch = master
+	branch = main
 	path = build
 	url = https://android.googlesource.com/kernel/build
 [submodule "kernel/msm"]
