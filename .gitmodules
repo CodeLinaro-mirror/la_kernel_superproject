@@ -1,72 +1,72 @@
 [submodule "kernel/build"]
-	branch = master
+	branch = main
 	path = build/kernel
 	url = ../build
 [submodule "kernel/prebuilts/build-tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = ../prebuilts/build-tools
 [submodule "platform/bootable/libbootloader"]
-	branch = master
+	branch = main
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
 [submodule "platform/build/bazel_common_rules"]
-	branch = master
+	branch = main
 	path = build/bazel_common_rules
 	url = ../../platform/build/bazel_common_rules
 [submodule "platform/external/arm-trusted-firmware"]
-	branch = master
+	branch = main
 	path = external/arm-trusted-firmware
 	url = ../../platform/external/arm-trusted-firmware
 [submodule "platform/external/bazel-skylib"]
-	branch = master
+	branch = main
 	path = external/bazel-skylib
 	url = ../../platform/external/bazel-skylib
 [submodule "platform/external/boringssl"]
-	branch = master
+	branch = main
 	path = external/boringssl
 	url = ../../platform/external/boringssl
 [submodule "platform/external/compiler-rt"]
-	branch = master
+	branch = main
 	path = external/compiler-rt
 	url = ../../platform/external/compiler-rt
 [submodule "platform/external/dtc"]
-	branch = master
+	branch = main
 	path = external/dtc
 	url = ../../platform/external/dtc
 [submodule "platform/external/open-dice"]
-	branch = master
+	branch = main
 	path = external/open-dice
 	url = ../../platform/external/open-dice
 [submodule "platform/external/stardoc"]
-	branch = master
+	branch = main
 	path = external/stardoc
 	url = ../../platform/external/stardoc
 [submodule "platform/external/swig"]
-	branch = master
+	branch = main
 	path = external/swig
 	url = ../../platform/external/swig
 [submodule "platform/external/u-boot"]
-	branch = master
+	branch = main
 	path = u-boot
 	url = ../../platform/external/u-boot
 [submodule "platform/external/zlib"]
-	branch = master
+	branch = main
 	path = external/zlib
 	url = ../../platform/external/zlib
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/bazel/linux-x86_64
 	url = ../../platform/prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/build-tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../../platform/prebuilts/build-tools
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
@@ -81,7 +81,7 @@
 	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 	url = ../../platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../../platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
@@ -91,16 +91,16 @@
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../../platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 [submodule "platform/prebuilts/jdk/jdk11"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../../platform/prebuilts/jdk/jdk11
 [submodule "platform/system/tools/mkbootimg"]
-	branch = master
+	branch = main
 	path = tools/mkbootimg
 	url = ../../platform/system/tools/mkbootimg
 [submodule "toolchain/prebuilts/ndk/r23"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/ndk-r23
 	url = ../../toolchain/prebuilts/ndk/r23
