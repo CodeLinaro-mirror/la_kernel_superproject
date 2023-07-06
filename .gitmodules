@@ -1,5 +1,5 @@
 [submodule "kernel/build"]
-	branch = master
+	branch = main
 	path = build/kernel
 	url = https://android.googlesource.com/kernel/build
 [submodule "kernel/common"]
@@ -7,7 +7,7 @@
 	path = common
 	url = https://android.googlesource.com/kernel/common
 [submodule "kernel/configs"]
-	branch = master
+	branch = main
 	path = kernel/configs
 	url = https://android.googlesource.com/kernel/configs
 [submodule "kernel/google-modules/amplifiers"]
@@ -79,28 +79,28 @@
 	path = private/google-modules/wlan/bcmdhd4389
 	url = https://android.googlesource.com/kernel/google-modules/wlan/bcmdhd/bcm4389
 [submodule "kernel/prebuilts/build-tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = https://android.googlesource.com/kernel/prebuilts/build-tools
 [submodule "platform/build/bazel_common_rules"]
-	branch = master
+	branch = main
 	path = build/bazel_common_rules
 	url = https://android.googlesource.com/platform/build/bazel_common_rules
 [submodule "platform/external/bazel-skylib"]
-	branch = master
+	branch = main
 	path = external/bazel-skylib
 	url = https://android.googlesource.com/platform/external/bazel-skylib
 [submodule "platform/external/python/absl-py"]
-	branch = master
+	branch = main
 	path = external/python/absl-py
 	url = https://android.googlesource.com/platform/external/python/absl-py
 [submodule "platform/external/stardoc"]
-	branch = master
+	branch = main
 	path = external/stardoc
 	url = https://android.googlesource.com/platform/external/stardoc
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/bazel/linux-x86_64
 	url = https://android.googlesource.com/platform/prebuilts/bazel/linux-x86_64
@@ -110,36 +110,36 @@
 	path = prebuilts/boot-artifacts
 	url = https://android.googlesource.com/platform/prebuilts/boot-artifacts
 [submodule "platform/prebuilts/build-tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/build-tools
 	url = https://android.googlesource.com/platform/prebuilts/build-tools
 [submodule "platform/prebuilts/clang-tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/clang-tools
 	url = https://android.googlesource.com/platform/prebuilts/clang-tools
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/jdk/jdk11"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = https://android.googlesource.com/platform/prebuilts/jdk/jdk11
 [submodule "platform/system/tools/mkbootimg"]
-	branch = master
+	branch = main
 	path = tools/mkbootimg
 	url = https://android.googlesource.com/platform/system/tools/mkbootimg
 [submodule "toolchain/prebuilts/ndk/r23"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/ndk-r23
 	url = https://android.googlesource.com/toolchain/prebuilts/ndk/r23
