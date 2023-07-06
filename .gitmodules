@@ -11,7 +11,7 @@
 	path = kernel/tests
 	url = ../tests
 [submodule "platform/prebuilts/build-tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../../platform/prebuilts/build-tools
