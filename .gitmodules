@@ -1,5 +1,5 @@
 [submodule "kernel/build"]
-	branch = master
+	branch = main
 	path = build
 	url = ../build
 [submodule "kernel/goldfish"]
@@ -7,21 +7,21 @@
 	path = goldfish
 	url = ../goldfish
 [submodule "kernel/tests"]
-	branch = master
+	branch = main
 	path = kernel/tests
 	url = ../tests
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts-master/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 	url = ../../platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../../platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
