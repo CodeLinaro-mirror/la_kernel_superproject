@@ -1,5 +1,5 @@
 [submodule "kernel/build"]
-	branch = master
+	branch = main
 	path = build/kernel
 	url = ../build
 [submodule "kernel/prebuilts/build-tools"]
