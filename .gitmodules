@@ -1,5 +1,5 @@
 [submodule "kernel/arcvm-modules/common"]
-	branch = master
+	branch = main
 	path = arcvm-modules
 	url = ../arcvm-modules/common
 [submodule "kernel/build"]
