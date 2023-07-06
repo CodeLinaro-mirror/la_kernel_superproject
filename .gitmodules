@@ -1,5 +1,5 @@
 [submodule "kernel/build"]
-	branch = master
+	branch = main
 	path = build
 	url = ../build
 [submodule "kernel/msm"]
@@ -7,7 +7,7 @@
 	path = private/msm-google
 	url = ../msm
 [submodule "kernel/tests"]
-	branch = master
+	branch = main
 	path = kernel/tests
 	url = ../tests
 [submodule "platform/prebuilts/clang/host/linux-x86"]
@@ -20,7 +20,7 @@
 	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 	url = ../../platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 [submodule "platform/prebuilts/misc"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts-master/misc
 	url = ../../platform/prebuilts/misc
