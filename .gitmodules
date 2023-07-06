@@ -1,5 +1,5 @@
 [submodule "kernel/build"]
-	branch = master
+	branch = main
 	path = build
 	url = ../build
 [submodule "kernel/msm"]
