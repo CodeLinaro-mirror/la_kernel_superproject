@@ -3,6 +3,7 @@
 /prebuilts/kernel-build-tools
 /build/bazel_common_rules
 /external/bazel-skylib
+/external/bazelbuild-rules_java
 /external/bazelbuild-rules_license
 /external/stardoc
 /prebuilts/bazel/common
