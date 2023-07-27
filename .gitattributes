@@ -14,6 +14,8 @@
 /external/bazelbuild-rules_go pdk
 /external/bazelbuild-rules_java pdk
 /external/bazelbuild-rules_license pdk
+/external/bazelbuild-rules_python pdk
+/external/bazelbuild-rules_rust pdk
 /external/boringssl
 /external/dtc
 /external/dwarves
