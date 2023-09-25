@@ -9,6 +9,7 @@
 /external/bazel-skylib
 /external/bazelbuild-rules_cc
 /external/bazelbuild-rules_license
+/external/bazelbuild-rules_rust
 /external/python/absl-py
 /external/stardoc
 /prebuilts/bazel/linux-x86_64
