@@ -1,17 +1,13 @@
-[submodule "kernel/arcvm-modules/common"]
-	branch = main
-	path = arcvm-modules
-	url = ../arcvm-modules/common
 [submodule "kernel/build"]
 	branch = master-kernel-build-2022
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android13-5.15-arcvm
+	branch = arcvm13-5.15-gki-base
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
-	branch = android13-5.15
+	branch = android13-5.15-arcvm
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/configs"]
