@@ -1,7 +1,9 @@
 /build/kernel partner
 /aosp partner
+/common-modules/virtual-device
 /kernel/configs
 /private/devices/google/bluejay partner bluejay
+/private/devices/google/felix felix partner
 /private/devices/google/lynx partner lynx
 /private/devices/google/tangorpro tangorpro partner
 /private/google-modules/amplifiers partner
