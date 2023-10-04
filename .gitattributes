@@ -1,14 +1,17 @@
 /build/kernel partner
 /aosp partner
+/common-modules/virtual-device
 /kernel/configs
 /private/devices/google/bluejay partner bluejay
 /private/devices/google/felix felix partner
 /private/devices/google/lynx partner lynx
+/private/devices/google/tangorpro tangorpro partner
 /private/google-modules/amplifiers partner
 /private/google-modules/aoc partner
 /private/google-modules/aoc_ipc partner
 /private/google-modules/bluetooth/broadcom partner
 /private/google-modules/bluetooth/qcom partner
+/private/google-modules/bluetooth/synaptics partner
 /private/google-modules/bms partner
 /private/google-modules/display partner
 /private/google-modules/edgetpu/abrolhos partner
@@ -26,6 +29,8 @@
 /private/google-modules/touch/focaltech partner
 /private/google-modules/touch/fts partner
 /private/google-modules/touch/goodix partner
+/private/google-modules/touch/himax partner
+/private/google-modules/touch/novatek partner
 /private/google-modules/touch/sec partner
 /private/google-modules/touch/synaptics partner
 /private/google-modules/uwb uwb
@@ -34,6 +39,7 @@
 /private/google-modules/wlan/bcmdhd4389 partner
 /private/google-modules/wlan/wcn6740/cnss2 partner
 /private/google-modules/wlan/wcn6740/wlan partner
+/private/google-modules/wlan/dhd43752p partner
 /private/google-modules/wlan/wlan_ptracker partner
 /private/gs-google partner
 /prebuilts/kernel-build-tools partner
