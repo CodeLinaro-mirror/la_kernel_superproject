@@ -3,7 +3,7 @@
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android14-6.1
+	branch = android14-6.1-pkvm-experimental
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
