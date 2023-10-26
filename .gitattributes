@@ -20,4 +20,5 @@
 /prebuilts/jdk/jdk11 ddk
 /prebuilts/rust
 /tools/mkbootimg
+/prebuilts/tradefed
 /prebuilts/ndk-r23 ddk
