@@ -77,6 +77,11 @@
 	branch = main
 	path = tools/mkbootimg
 	url = ../../platform/system/tools/mkbootimg
+[submodule "platform/tools/tradefederation/prebuilts"]
+	branch = main
+	shallow = true
+	path = prebuilts/tradefed
+	url = ../../platform/tools/tradefederation/prebuilts
 [submodule "toolchain/prebuilts/ndk/r23"]
 	branch = main
 	shallow = true
