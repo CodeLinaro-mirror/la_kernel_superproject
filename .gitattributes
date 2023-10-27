@@ -1,20 +1,20 @@
-/build/kernel
+/build/kernel ddk
 /common
 /common-modules/virtual-device
 /kernel/configs
-/prebuilts/kernel-build-tools
+/prebuilts/kernel-build-tools ddk
 /kernel/tests
-/build/bazel_common_rules
-/external/bazel-skylib
+/build/bazel_common_rules ddk
+/external/bazel-skylib ddk
 /external/bazelbuild-rules_cc
-/external/python/absl-py
-/external/stardoc
-/prebuilts/bazel/linux-x86_64
-/prebuilts/build-tools
+/external/python/absl-py ddk
+/external/stardoc ddk
+/prebuilts/bazel/linux-x86_64 ddk
+/prebuilts/build-tools ddk
 /prebuilts/clang-tools
-/prebuilts/clang/host/linux-x86
-/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
-/prebuilts/jdk/jdk11
+/prebuilts/clang/host/linux-x86 ddk
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 ddk
+/prebuilts/jdk/jdk11 ddk
 /tools/mkbootimg
 /prebuilts/tradefed
-/prebuilts/ndk-r23
+/prebuilts/ndk-r23 ddk
