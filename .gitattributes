@@ -12,6 +12,7 @@
 /external/bazelbuild-rules_rust
 /external/python/absl-py ddk
 /external/stardoc ddk
+/prebuilts/asuite
 /prebuilts/bazel/linux-x86_64 ddk
 /prebuilts/build-tools ddk
 /prebuilts/clang-tools
