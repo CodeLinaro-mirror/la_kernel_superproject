@@ -7,7 +7,7 @@
 /kernel/tests
 /build/bazel_common_rules ddk
 /external/bazel-skylib ddk
-/external/bazelbuild-rules_cc
+/external/bazelbuild-rules_cc ddk
 /external/bazelbuild-rules_rust
 /external/python/absl-py ddk
 /external/stardoc ddk
