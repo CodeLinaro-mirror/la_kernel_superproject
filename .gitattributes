@@ -16,7 +16,9 @@
 /private/google-modules/touch/common
 /private/google-modules/touch/fts
 /private/google-modules/touch/sec
+/private/google-modules/trusty
 /private/google-modules/uwb
+/private/google-modules/video/gchips
 /private/google-modules/wlan/bcmdhd4389
 /prebuilts/kernel-build-tools
 /build/bazel_common_rules

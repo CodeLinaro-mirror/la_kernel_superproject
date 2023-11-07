@@ -67,10 +67,18 @@
 	branch = android-gs-raviole-mainline
 	path = private/google-modules/touch/sec
 	url = ../google-modules/touch/sec_touch
+[submodule "kernel/google-modules/trusty"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/trusty
+	url = ../google-modules/trusty
 [submodule "kernel/google-modules/uwb"]
 	branch = android-gs-raviole-mainline
 	path = private/google-modules/uwb
 	url = ../google-modules/uwb
+[submodule "kernel/google-modules/video/gchips"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/video/gchips
+	url = ../google-modules/video/gchips
 [submodule "kernel/google-modules/wlan/bcmdhd/bcm4389"]
 	branch = android-gs-raviole-mainline
 	path = private/google-modules/wlan/bcmdhd4389
