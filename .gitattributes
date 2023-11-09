@@ -5,6 +5,7 @@
 /external/bazel-skylib
 /external/bazelbuild-rules_java
 /external/bazelbuild-rules_license
+/external/bazelbuild-rules_python ddk
 /external/stardoc
 /prebuilts/bazel/common
 /prebuilts/bazel/linux-x86_64
