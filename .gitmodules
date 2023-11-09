@@ -47,6 +47,14 @@
 	branch = main
 	path = external/bazelbuild-rules_rust
 	url = ../../platform/external/bazelbuild-rules_rust
+[submodule "platform/external/libcap"]
+	branch = main
+	path = external/libcap
+	url = ../../platform/external/libcap
+[submodule "platform/external/libcap-ng"]
+	branch = main
+	path = external/libcap-ng
+	url = ../../platform/external/libcap-ng
 [submodule "platform/external/python/absl-py"]
 	branch = main
 	path = external/python/absl-py

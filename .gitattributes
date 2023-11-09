@@ -10,6 +10,8 @@
 /external/bazelbuild-rules_cc ddk
 /external/bazelbuild-rules_python ddk
 /external/bazelbuild-rules_rust
+/external/libcap
+/external/libcap-ng
 /external/python/absl-py ddk
 /external/stardoc ddk
 /prebuilts/asuite
