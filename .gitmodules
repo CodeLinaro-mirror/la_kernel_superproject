@@ -27,6 +27,10 @@
 	branch = main
 	path = external/bazelbuild-rules_license
 	url = ../../platform/external/bazelbuild-rules_license
+[submodule "platform/external/bazelbuild-rules_python"]
+	branch = main
+	path = external/bazelbuild-rules_python
+	url = ../../platform/external/bazelbuild-rules_python
 [submodule "platform/external/bazelbuild-rules_rust"]
 	branch = main
 	path = external/bazelbuild-rules_rust

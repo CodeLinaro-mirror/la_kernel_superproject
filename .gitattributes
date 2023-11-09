@@ -5,6 +5,7 @@
 /external/arm-trusted-firmware
 /external/bazel-skylib
 /external/bazelbuild-rules_license
+/external/bazelbuild-rules_python
 /external/bazelbuild-rules_rust
 /external/boringssl
 /external/compiler-rt
