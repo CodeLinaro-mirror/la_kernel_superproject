@@ -49,6 +49,7 @@
 /external/stg
 /external/swig
 /external/zlib
+/external/zstd
 /prebuilts/bazel/common pdk
 /prebuilts/bazel/darwin-x86_64 darwin pdk
 /prebuilts/bazel/linux-x86_64 pdk linux
