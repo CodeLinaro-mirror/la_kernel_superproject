@@ -47,6 +47,11 @@
 	branch = main
 	path = external/stardoc
 	url = ../../platform/external/stardoc
+[submodule "platform/prebuilts/asuite"]
+	branch = main
+	shallow = true
+	path = prebuilts/asuite
+	url = ../../platform/prebuilts/asuite
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
 	branch = main
 	shallow = true
