@@ -24,4 +24,4 @@
 /prebuilts/rust
 /tools/mkbootimg
 /prebuilts/tradefed
-/prebuilts/ndk-r23 ddk
+/prebuilts/ndk-r26 ddk
