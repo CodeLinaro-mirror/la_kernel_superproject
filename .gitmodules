@@ -68,11 +68,6 @@
 	shallow = true
 	path = prebuilts/asuite
 	url = ../../platform/prebuilts/asuite
-[submodule "platform/prebuilts/bazel/linux-x86_64"]
-	branch = main
-	shallow = true
-	path = prebuilts/bazel/linux-x86_64
-	url = ../../platform/prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/build-tools"]
 	branch = main
 	shallow = true
