@@ -6,7 +6,7 @@
 /external/bazelbuild-rules_cc
 /external/bazelbuild-rules_java
 /external/bazelbuild-rules_license
-/external/bazelbuild-rules_python ddk
+/external/bazelbuild-rules_python
 /external/stardoc
 /prebuilts/bazel/common
 /prebuilts/bazel/linux-x86_64
