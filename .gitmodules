@@ -39,6 +39,10 @@
 	branch = main
 	path = external/bazelbuild-rules_cc
 	url = ../../platform/external/bazelbuild-rules_cc
+[submodule "platform/external/bazelbuild-rules_license"]
+	branch = main
+	path = external/bazelbuild-rules_license
+	url = ../../platform/external/bazelbuild-rules_license
 [submodule "platform/external/bazelbuild-rules_python"]
 	branch = main
 	path = external/bazelbuild-rules_python
@@ -59,6 +63,10 @@
 	branch = main
 	path = external/python/absl-py
 	url = ../../platform/external/python/absl-py
+[submodule "platform/external/rules_pkg"]
+	branch = main
+	path = external/rules_pkg
+	url = ../../platform/external/rules_pkg
 [submodule "platform/external/stardoc"]
 	branch = main
 	path = external/stardoc
