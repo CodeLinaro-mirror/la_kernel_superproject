@@ -3,7 +3,7 @@
 	path = build
 	url = ../build
 [submodule "kernel/common"]
-	branch = android12-5.10
+	ref = refs/tags/android12-5.10.160_r00
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
