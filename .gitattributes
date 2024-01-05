@@ -8,6 +8,8 @@
 /build/bazel_common_rules ddk
 /external/bazel-skylib ddk
 /external/bazelbuild-rules_cc ddk
+/external/bazelbuild-rules_license ddk
+/external/bazelbuild-rules_pkg ddk
 /external/bazelbuild-rules_python ddk
 /external/bazelbuild-rules_rust
 /external/libcap
