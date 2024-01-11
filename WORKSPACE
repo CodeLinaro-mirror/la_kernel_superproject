@@ -1,1 +1,1 @@
-u-boot/bazel.WORKSPACE
+bootable/libbootloader/gbl/bazel.WORKSPACE

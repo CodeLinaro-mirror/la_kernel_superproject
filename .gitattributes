@@ -8,12 +8,10 @@
 /external/bazelbuild-rules_license
 /external/bazelbuild-rules_python
 /external/bazelbuild-rules_rust
-/external/boringssl
 /external/compiler-rt
 /external/dtc
 /external/elfutils
 /external/googletest
-/external/open-dice
 /external/rust/crates/bitflags
 /external/rust/crates/byteorder
 /external/rust/crates/cfg-if
@@ -27,9 +25,6 @@
 /external/rust/crates/zerocopy
 /external/rust/crates/zerocopy-derive
 /external/stardoc
-/external/swig
-/u-boot
-/external/zlib
 /prebuilts/bazel/linux-x86_64
 /prebuilts/build-tools
 /prebuilts/clang-tools
