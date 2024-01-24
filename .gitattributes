@@ -3,6 +3,7 @@
 /bootable/libbootloader
 /build/bazel_common_rules
 /external/arm-trusted-firmware
+/external/avb
 /external/bazel-skylib
 /external/bazelbuild-rules_cc
 /external/bazelbuild-rules_license
@@ -24,6 +25,7 @@
 /external/rust/crates/syn
 /external/rust/crates/tinyjson
 /external/rust/crates/unicode-ident
+/external/rust/crates/uuid
 /external/rust/crates/zerocopy
 /external/rust/crates/zerocopy-derive
 /external/stardoc
