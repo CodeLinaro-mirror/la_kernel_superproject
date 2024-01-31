@@ -30,5 +30,6 @@
 /prebuilts/jdk/jdk11 ddk
 /prebuilts/rust
 /tools/mkbootimg
+/test/dittosuite
 /prebuilts/tradefed
 /prebuilts/ndk-r26 ddk
