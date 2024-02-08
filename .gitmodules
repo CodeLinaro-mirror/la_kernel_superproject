@@ -39,6 +39,10 @@
 	branch = main
 	path = external/bazelbuild-apple_support
 	url = ../../platform/external/bazelbuild-apple_support
+[submodule "platform/external/bazelbuild-bazel-central-registry"]
+	branch = main-kernel
+	path = external/bazelbuild-bazel-central-registry
+	url = ../../platform/external/bazelbuild-bazel-central-registry
 [submodule "platform/external/bazelbuild-platforms"]
 	branch = main
 	path = external/bazelbuild-platforms

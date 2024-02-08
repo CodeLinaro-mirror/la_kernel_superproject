@@ -8,6 +8,7 @@
 /build/bazel_common_rules ddk
 /external/bazel-skylib ddk
 /external/bazelbuild-apple_support ddk
+/external/bazelbuild-bazel-central-registry ddk
 /external/bazelbuild-platforms ddk
 /external/bazelbuild-rules_cc ddk
 /external/bazelbuild-rules_java ddk
