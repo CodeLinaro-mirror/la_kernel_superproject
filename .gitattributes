@@ -14,6 +14,7 @@
 /external/bazelbuild-rules_license ddk
 /external/bazelbuild-rules_pkg ddk
 /external/bazelbuild-rules_python ddk
+/external/bazelbuild-rules_rust ddk
 /external/libcap
 /external/libcap-ng
 /external/pigz ddk
