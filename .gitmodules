@@ -31,10 +31,6 @@
 	branch = main-kernel-build-2023
 	path = external/bazel-skylib
 	url = ../../platform/external/bazel-skylib
-[submodule "platform/external/bazelbuild-rules_rust"]
-	branch = main
-	path = external/bazelbuild-rules_rust
-	url = ../../platform/external/bazelbuild-rules_rust
 [submodule "platform/external/python/absl-py"]
 	branch = main-kernel-build-2023
 	path = external/python/absl-py
@@ -73,11 +69,6 @@
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../../platform/prebuilts/jdk/jdk11
-[submodule "platform/prebuilts/rust"]
-	branch = main-kernel
-	shallow = true
-	path = prebuilts/rust
-	url = ../../platform/prebuilts/rust
 [submodule "platform/system/tools/mkbootimg"]
 	branch = main-kernel-build-2023
 	path = tools/mkbootimg
