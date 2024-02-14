@@ -3,11 +3,10 @@
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android14-6.1
+	branch = android14-6.1-2024-03
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
-	branch = android14-6.1
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/configs"]
@@ -32,7 +31,6 @@
 	path = external/bazel-skylib
 	url = ../../platform/external/bazel-skylib
 [submodule "platform/external/bazelbuild-rules_rust"]
-	branch = main
 	path = external/bazelbuild-rules_rust
 	url = ../../platform/external/bazelbuild-rules_rust
 [submodule "platform/external/python/absl-py"]
@@ -74,8 +72,6 @@
 	path = prebuilts/jdk/jdk11
 	url = ../../platform/prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/rust"]
-	branch = main-kernel
-	shallow = true
 	path = prebuilts/rust
 	url = ../../platform/prebuilts/rust
 [submodule "platform/system/tools/mkbootimg"]
