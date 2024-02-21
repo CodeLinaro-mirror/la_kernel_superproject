@@ -87,6 +87,14 @@
 	branch = main
 	path = external/rust/crates/quote
 	url = ../../platform/external/rust/crates/quote
+[submodule "platform/external/rust/crates/spin"]
+	branch = main
+	path = external/rust/crates/spin
+	url = ../../platform/external/rust/crates/spin
+[submodule "platform/external/rust/crates/static_assertions"]
+	branch = main
+	path = external/rust/crates/static_assertions
+	url = ../../platform/external/rust/crates/static_assertions
 [submodule "platform/external/rust/crates/syn"]
 	branch = main
 	path = external/rust/crates/syn
@@ -115,6 +123,14 @@
 	branch = main
 	path = external/stardoc
 	url = ../../platform/external/stardoc
+[submodule "platform/hardware/interfaces"]
+	branch = main
+	path = hardware/interfaces
+	url = ../../platform/hardware/interfaces
+[submodule "platform/packages/modules/Virtualization"]
+	branch = main
+	path = packages/modules/Virtualization
+	url = ../../platform/packages/modules/Virtualization
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
 	branch = main
 	shallow = true

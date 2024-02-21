@@ -20,6 +20,8 @@
 /external/rust/crates/hex
 /external/rust/crates/proc-macro2
 /external/rust/crates/quote
+/external/rust/crates/spin
+/external/rust/crates/static_assertions
 /external/rust/crates/syn
 /external/rust/crates/tinyjson
 /external/rust/crates/unicode-ident
@@ -27,6 +29,8 @@
 /external/rust/crates/zerocopy
 /external/rust/crates/zerocopy-derive
 /external/stardoc
+/hardware/interfaces
+/packages/modules/Virtualization
 /prebuilts/bazel/linux-x86_64
 /prebuilts/build-tools
 /prebuilts/clang-tools
