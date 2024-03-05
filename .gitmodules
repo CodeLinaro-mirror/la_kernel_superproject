@@ -79,6 +79,10 @@
 	branch = main
 	path = external/rust/crates/hex
 	url = ../../platform/external/rust/crates/hex
+[submodule "platform/external/rust/crates/managed"]
+	branch = main
+	path = external/rust/crates/managed
+	url = ../../platform/external/rust/crates/managed
 [submodule "platform/external/rust/crates/proc-macro2"]
 	branch = main
 	path = external/rust/crates/proc-macro2
@@ -87,6 +91,10 @@
 	branch = main
 	path = external/rust/crates/quote
 	url = ../../platform/external/rust/crates/quote
+[submodule "platform/external/rust/crates/smoltcp"]
+	branch = main
+	path = external/rust/crates/smoltcp
+	url = ../../platform/external/rust/crates/smoltcp
 [submodule "platform/external/rust/crates/spin"]
 	branch = main
 	path = external/rust/crates/spin
