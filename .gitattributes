@@ -5,7 +5,11 @@
 /external/arm-trusted-firmware
 /external/avb
 /external/bazel-skylib
+/external/bazelbuild-apple_support
+/external/bazelbuild-bazel-central-registry
+/external/bazelbuild-platforms
 /external/bazelbuild-rules_cc
+/external/bazelbuild-rules_java
 /external/bazelbuild-rules_license
 /external/bazelbuild-rules_python
 /external/bazelbuild-rules_rust
@@ -30,7 +34,6 @@
 /external/rust/crates/uuid
 /external/rust/crates/zerocopy
 /external/rust/crates/zerocopy-derive
-/external/stardoc
 /hardware/interfaces
 /packages/modules/Virtualization
 /prebuilts/bazel/linux-x86_64
@@ -44,4 +47,3 @@
 /prebuilts/jdk/jdk11
 /prebuilts/rust
 /tools/mkbootimg
-/prebuilts/ndk-r26
