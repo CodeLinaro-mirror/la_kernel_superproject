@@ -68,3 +68,4 @@
 /system/security
 /system/tools/aidl
 /system/tools/mkbootimg
+/tools/external_updater

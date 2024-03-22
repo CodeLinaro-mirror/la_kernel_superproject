@@ -289,3 +289,7 @@
 	branch = main
 	path = system/tools/mkbootimg
 	url = ../../platform/system/tools/mkbootimg
+[submodule "platform/tools/external_updater"]
+	branch = main
+	path = tools/external_updater
+	url = ../../platform/tools/external_updater
