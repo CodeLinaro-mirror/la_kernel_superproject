@@ -46,4 +46,5 @@
 /prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 /prebuilts/jdk/jdk11
 /prebuilts/rust
+/system/core
 /tools/mkbootimg

@@ -201,6 +201,10 @@
 	shallow = true
 	path = prebuilts/rust
 	url = ../../platform/prebuilts/rust
+[submodule "platform/system/core"]
+	branch = main
+	path = system/core
+	url = ../../platform/system/core
 [submodule "platform/system/tools/mkbootimg"]
 	branch = main
 	path = tools/mkbootimg
