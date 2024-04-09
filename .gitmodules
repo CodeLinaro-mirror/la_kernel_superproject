@@ -11,6 +11,10 @@
 	branch = main
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
+[submodule "platform/bootable/recovery"]
+	branch = main
+	path = bootable/recovery
+	url = ../../platform/bootable/recovery
 [submodule "platform/build/bazel_common_rules"]
 	branch = main
 	path = build/bazel_common_rules
