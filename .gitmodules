@@ -83,10 +83,6 @@
 	branch = main
 	path = external/stardoc
 	url = ../../platform/external/stardoc
-[submodule "platform/external/swig"]
-	branch = main
-	path = external/swig
-	url = ../../platform/external/swig
 [submodule "platform/external/u-boot"]
 	branch = main
 	path = u-boot
