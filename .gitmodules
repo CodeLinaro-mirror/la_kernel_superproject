@@ -74,6 +74,10 @@
 	branch = android14-gs-pixel-6.1
 	path = private/google-modules/uwb
 	url = https://android.googlesource.com/kernel/google-modules/uwb
+[submodule "kernel/google-modules/video/gchips"]
+	branch = android14-gs-pixel-6.1
+	path = private/google-modules/video/gchips
+	url = https://android.googlesource.com/kernel/google-modules/video/gchips
 [submodule "kernel/google-modules/wlan/bcmdhd/bcm4389"]
 	branch = android14-gs-pixel-6.1
 	path = private/google-modules/wlan/bcmdhd4389
