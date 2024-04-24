@@ -17,10 +17,12 @@
 /external/compiler-rt
 /external/dtc
 /external/open-dice
+/external/pigz
 /external/python/absl-py
 /external/stardoc
 /u-boot
 /external/zlib
+/external/zopfli
 /prebuilts/bazel/linux-x86_64
 /prebuilts/build-tools
 /prebuilts/clang/host/linux-x86
