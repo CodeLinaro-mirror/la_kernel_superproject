@@ -18,6 +18,7 @@
 /external/dtc
 /external/elfutils
 /external/googletest
+/external/pigz
 /external/rust/crates/bitflags
 /external/rust/crates/byteorder
 /external/rust/crates/cfg-if
@@ -35,6 +36,8 @@
 /external/rust/crates/uuid
 /external/rust/crates/zerocopy
 /external/rust/crates/zerocopy-derive
+/external/zlib
+/external/zopfli
 /hardware/interfaces
 /packages/modules/Virtualization
 /prebuilts/bazel/linux-x86_64

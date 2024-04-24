@@ -79,6 +79,10 @@
 	branch = main
 	path = external/googletest
 	url = ../../platform/external/googletest
+[submodule "platform/external/pigz"]
+	branch = main
+	path = external/pigz
+	url = ../../platform/external/pigz
 [submodule "platform/external/rust/crates/bitflags"]
 	branch = main
 	path = external/rust/crates/bitflags
@@ -147,6 +151,14 @@
 	branch = main
 	path = external/rust/crates/zerocopy-derive
 	url = ../../platform/external/rust/crates/zerocopy-derive
+[submodule "platform/external/zlib"]
+	branch = main
+	path = external/zlib
+	url = ../../platform/external/zlib
+[submodule "platform/external/zopfli"]
+	branch = main
+	path = external/zopfli
+	url = ../../platform/external/zopfli
 [submodule "platform/hardware/interfaces"]
 	branch = main
 	path = hardware/interfaces
