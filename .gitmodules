@@ -1,5 +1,5 @@
 [submodule "kernel/build"]
-	branch = main-riscv64
+	branch = main
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
