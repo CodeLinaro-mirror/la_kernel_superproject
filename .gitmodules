@@ -1,13 +1,13 @@
 [submodule "kernel/build"]
-	branch = main
+	branch = main-riscv64
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android-mainline
+	branch = android-mainline-riscv64
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
-	branch = android-mainline
+	branch = android-mainline-riscv64
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/common-patches"]
