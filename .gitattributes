@@ -22,6 +22,7 @@
 /external/pigz ddk
 /external/python/absl-py ddk-external
 /external/stardoc
+/external/toybox ddk
 /external/zlib ddk
 /external/zopfli ddk
 /prebuilts/asuite
