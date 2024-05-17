@@ -1,0 +1,5 @@
+/lk
+/build/bazel_common_rules
+/prebuilts/bazel/linux-x86_64
+/prebuilts/build-tools
+/prebuilts/clang/host/linux-x86

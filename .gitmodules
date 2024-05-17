@@ -1,0 +1,23 @@
+[submodule "kernel/lk"]
+	branch = main
+	path = lk
+	url = ../lk
+[submodule "platform/build/bazel_common_rules"]
+	branch = main
+	path = build/bazel_common_rules
+	url = ../../platform/build/bazel_common_rules
+[submodule "platform/prebuilts/bazel/linux-x86_64"]
+	branch = main
+	shallow = true
+	path = prebuilts/bazel/linux-x86_64
+	url = ../../platform/prebuilts/bazel/linux-x86_64
+[submodule "platform/prebuilts/build-tools"]
+	branch = main
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../../platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = main
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = ../../platform/prebuilts/clang/host/linux-x86
