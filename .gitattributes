@@ -6,21 +6,23 @@
 /prebuilts/kernel-build-tools ddk
 /kernel/tests
 /build/bazel_common_rules ddk
-/external/bazel-skylib ddk
-/external/bazelbuild-apple_support ddk
-/external/bazelbuild-bazel-central-registry ddk
-/external/bazelbuild-platforms ddk
-/external/bazelbuild-rules_cc ddk
-/external/bazelbuild-rules_java ddk
-/external/bazelbuild-rules_license ddk
-/external/bazelbuild-rules_pkg ddk
-/external/bazelbuild-rules_python ddk
-/external/bazelbuild-rules_rust
+/external/bazel-skylib ddk-external
+/external/bazelbuild-apple_support ddk-external
+/external/bazelbuild-bazel-central-registry ddk-external
+/external/bazelbuild-platforms ddk-external
+/external/bazelbuild-rules_cc ddk-external
+/external/bazelbuild-rules_java ddk-external
+/external/bazelbuild-rules_license ddk-external
+/external/bazelbuild-rules_pkg ddk-external
+/external/bazelbuild-rules_python ddk-external
+/external/bazelbuild-rules_rust ddk-external
 /external/libcap
 /external/libcap-ng
+/external/lz4 ddk
 /external/pigz ddk
-/external/python/absl-py ddk
-/external/stardoc ddk
+/external/python/absl-py ddk-external
+/external/stardoc
+/external/toybox ddk
 /external/zlib ddk
 /external/zopfli ddk
 /prebuilts/asuite
