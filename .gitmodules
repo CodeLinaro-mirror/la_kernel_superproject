@@ -3,7 +3,7 @@
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android15-6.6
+	branch = android15-6.6-lts
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
