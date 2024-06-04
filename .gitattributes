@@ -18,6 +18,7 @@
 /external/bazelbuild-rules_rust ddk-external
 /external/libcap
 /external/libcap-ng
+/test/ltp
 /external/lz4 ddk
 /external/pigz ddk
 /external/python/absl-py ddk-external
