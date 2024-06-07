@@ -23,7 +23,9 @@
 /external/rust/crates/byteorder
 /external/rust/crates/cfg-if
 /external/rust/crates/crc32fast
+/external/rust/crates/either
 /external/rust/crates/hex
+/external/rust/crates/itertools
 /external/rust/crates/managed
 /external/rust/crates/proc-macro2
 /external/rust/crates/quote

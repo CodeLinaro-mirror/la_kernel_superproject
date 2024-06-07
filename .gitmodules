@@ -99,10 +99,18 @@
 	branch = main
 	path = external/rust/crates/crc32fast
 	url = ../../platform/external/rust/crates/crc32fast
+[submodule "platform/external/rust/crates/either"]
+	branch = main
+	path = external/rust/crates/either
+	url = ../../platform/external/rust/crates/either
 [submodule "platform/external/rust/crates/hex"]
 	branch = main
 	path = external/rust/crates/hex
 	url = ../../platform/external/rust/crates/hex
+[submodule "platform/external/rust/crates/itertools"]
+	branch = main
+	path = external/rust/crates/itertools
+	url = ../../platform/external/rust/crates/itertools
 [submodule "platform/external/rust/crates/managed"]
 	branch = main
 	path = external/rust/crates/managed
