@@ -83,10 +83,6 @@
 	branch = main-kernel-build-2024
 	path = external/python/absl-py
 	url = ../../platform/external/python/absl-py
-[submodule "platform/external/stardoc"]
-	branch = main-kernel-build-2024
-	path = external/stardoc
-	url = ../../platform/external/stardoc
 [submodule "platform/external/toybox"]
 	branch = main-kernel-build-2024
 	path = external/toybox
