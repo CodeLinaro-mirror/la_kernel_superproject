@@ -33,8 +33,8 @@
 /private/google-modules/touch/novatek partner
 /private/google-modules/touch/sec partner
 /private/google-modules/touch/synaptics partner
-/private/google-modules/uwb uwb
 /private/google-modules/uwb-diags uwb
+/private/google-modules/uwb/qorvo/dw3000 partner
 /private/google-modules/video/gchips partner
 /private/google-modules/wlan/bcmdhd4389 partner
 /private/google-modules/wlan/wcn6740/cnss2 partner
