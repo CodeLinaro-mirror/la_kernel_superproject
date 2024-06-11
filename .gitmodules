@@ -1,0 +1,77 @@
+[submodule "kernel/build"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	path = build
+	url = https://android.googlesource.com/kernel/build
+[submodule "kernel/msm"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	path = private/msm-google
+	url = https://android.googlesource.com/kernel/msm
+[submodule "kernel/msm-modules/data-kernel"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	path = private/msm-google-modules/data-kernel
+	url = https://android.googlesource.com/kernel/msm-modules/data-kernel
+[submodule "kernel/msm-modules/fts_touch"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	path = private/msm-google-modules/touch/fts
+	url = https://android.googlesource.com/kernel/msm-modules/fts_touch
+[submodule "kernel/msm-modules/qca-wfi-host-cmn"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	path = private/msm-google-modules/wlan/qca-wifi-host-cmn
+	url = https://android.googlesource.com/kernel/msm-modules/qca-wfi-host-cmn
+[submodule "kernel/msm-modules/qcacld"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	path = private/msm-google-modules/wlan/qcacld-3.0
+	url = https://android.googlesource.com/kernel/msm-modules/qcacld
+[submodule "kernel/msm-modules/sec_touch"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	path = private/msm-google-modules/touch/sec
+	url = https://android.googlesource.com/kernel/msm-modules/sec_touch
+[submodule "kernel/msm-modules/wlan-fw-api"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	path = private/msm-google-modules/wlan/fw-api
+	url = https://android.googlesource.com/kernel/msm-modules/wlan-fw-api
+[submodule "kernel/prebuilts/build-tools"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	shallow = true
+	path = prebuilts/kernel-build-tools
+	url = https://android.googlesource.com/kernel/prebuilts/build-tools
+[submodule "platform/prebuilts/boot-artifacts"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	shallow = true
+	path = prebuilts/boot-artifacts
+	url = https://android.googlesource.com/platform/prebuilts/boot-artifacts
+[submodule "platform/prebuilts/build-tools"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	shallow = true
+	path = prebuilts/build-tools
+	url = https://android.googlesource.com/platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	shallow = true
+	path = prebuilts-master/clang/host/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/gas/linux-x86"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	shallow = true
+	path = prebuilts/gas/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/gas/linux-x86
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	shallow = true
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	shallow = true
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/misc"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	shallow = true
+	path = prebuilts-master/misc
+	url = https://android.googlesource.com/platform/prebuilts/misc
+[submodule "platform/system/tools/mkbootimg"]
+	branch = android-msm-redbull-4.19-android14-qpr2
+	shallow = true
+	path = tools/mkbootimg
+	url = https://android.googlesource.com/platform/system/tools/mkbootimg
