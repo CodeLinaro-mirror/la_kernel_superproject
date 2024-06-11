@@ -1,0 +1,1 @@
+private/google-modules/soc/gs/update_symbol_list.sh
