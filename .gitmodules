@@ -35,6 +35,10 @@
 	branch = main
 	path = build/bazel_common_rules
 	url = ../../platform/build/bazel_common_rules
+[submodule "platform/external/bazel-contrib-bazel_features"]
+	branch = main
+	path = external/bazel-contrib-bazel_features
+	url = ../../platform/external/bazel-contrib-bazel_features
 [submodule "platform/external/bazel-skylib"]
 	branch = main
 	path = external/bazel-skylib
