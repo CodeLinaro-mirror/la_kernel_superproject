@@ -5,6 +5,7 @@
 /build/bazel_common_rules
 /external/arm-trusted-firmware
 /external/avb
+/external/bazel-contrib-bazel_features
 /external/bazel-skylib
 /external/bazelbuild-apple_support
 /external/bazelbuild-bazel-central-registry
