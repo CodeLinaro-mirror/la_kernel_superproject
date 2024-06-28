@@ -36,6 +36,8 @@
 /external/libxml2
 /external/licenseclassifier
 /external/lz4
+/external/musl
+/external/obstack
 /external/pcre
 /external/protobuf
 /external/python/cpython2
