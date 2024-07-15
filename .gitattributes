@@ -54,4 +54,5 @@
 /prebuilts/jdk/jdk11
 /prebuilts/rust
 /system/core
+/external/libufdt
 /tools/mkbootimg

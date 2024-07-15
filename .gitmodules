@@ -233,6 +233,10 @@
 	branch = main
 	path = system/core
 	url = ../../platform/system/core
+[submodule "platform/system/libufdt"]
+	branch = main
+	path = external/libufdt
+	url = ../../platform/system/libufdt
 [submodule "platform/system/tools/mkbootimg"]
 	branch = main
 	path = tools/mkbootimg
