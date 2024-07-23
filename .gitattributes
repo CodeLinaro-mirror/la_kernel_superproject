@@ -1,11 +1,13 @@
 /build/kernel ddk
 /common
+/common-modules/trusty
 /common-modules/virtual-device
 /kernel/common-patches
 /kernel/configs
 /prebuilts/kernel-build-tools ddk
 /kernel/tests
 /build/bazel_common_rules ddk
+/external/bazel-contrib-bazel_features ddk-external
 /external/bazel-skylib ddk-external
 /external/bazelbuild-apple_support ddk-external
 /external/bazelbuild-bazel-central-registry ddk-external
@@ -18,10 +20,10 @@
 /external/bazelbuild-rules_rust ddk-external
 /external/libcap
 /external/libcap-ng
+/test/ltp
 /external/lz4 ddk
 /external/pigz ddk
 /external/python/absl-py ddk-external
-/external/stardoc
 /external/toybox ddk
 /external/zlib ddk
 /external/zopfli ddk
