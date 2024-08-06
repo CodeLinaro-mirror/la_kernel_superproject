@@ -107,10 +107,18 @@
 	branch = main
 	path = external/rust/crates/crc32fast
 	url = ../../platform/external/rust/crates/crc32fast
+[submodule "platform/external/rust/crates/downcast"]
+	branch = main
+	path = external/rust/crates/downcast
+	url = ../../platform/external/rust/crates/downcast
 [submodule "platform/external/rust/crates/either"]
 	branch = main
 	path = external/rust/crates/either
 	url = ../../platform/external/rust/crates/either
+[submodule "platform/external/rust/crates/fragile"]
+	branch = main
+	path = external/rust/crates/fragile
+	url = ../../platform/external/rust/crates/fragile
 [submodule "platform/external/rust/crates/hex"]
 	branch = main
 	path = external/rust/crates/hex
@@ -119,10 +127,34 @@
 	branch = main
 	path = external/rust/crates/itertools
 	url = ../../platform/external/rust/crates/itertools
+[submodule "platform/external/rust/crates/lazy_static"]
+	branch = main
+	path = external/rust/crates/lazy_static
+	url = ../../platform/external/rust/crates/lazy_static
 [submodule "platform/external/rust/crates/managed"]
 	branch = main
 	path = external/rust/crates/managed
 	url = ../../platform/external/rust/crates/managed
+[submodule "platform/external/rust/crates/mockall"]
+	branch = main
+	path = external/rust/crates/mockall
+	url = ../../platform/external/rust/crates/mockall
+[submodule "platform/external/rust/crates/mockall_derive"]
+	branch = main
+	path = external/rust/crates/mockall_derive
+	url = ../../platform/external/rust/crates/mockall_derive
+[submodule "platform/external/rust/crates/predicates"]
+	branch = main
+	path = external/rust/crates/predicates
+	url = ../../platform/external/rust/crates/predicates
+[submodule "platform/external/rust/crates/predicates-core"]
+	branch = main
+	path = external/rust/crates/predicates-core
+	url = ../../platform/external/rust/crates/predicates-core
+[submodule "platform/external/rust/crates/predicates-tree"]
+	branch = main
+	path = external/rust/crates/predicates-tree
+	url = ../../platform/external/rust/crates/predicates-tree
 [submodule "platform/external/rust/crates/proc-macro2"]
 	branch = main
 	path = external/rust/crates/proc-macro2
@@ -147,6 +179,14 @@
 	branch = main
 	path = external/rust/crates/syn
 	url = ../../platform/external/rust/crates/syn
+[submodule "platform/external/rust/crates/termcolor"]
+	branch = main
+	path = external/rust/crates/termcolor
+	url = ../../platform/external/rust/crates/termcolor
+[submodule "platform/external/rust/crates/termtree"]
+	branch = main
+	path = external/rust/crates/termtree
+	url = ../../platform/external/rust/crates/termtree
 [submodule "platform/external/rust/crates/tinyjson"]
 	branch = main
 	path = external/rust/crates/tinyjson
