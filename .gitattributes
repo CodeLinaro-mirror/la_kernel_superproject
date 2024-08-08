@@ -13,6 +13,7 @@
 /external/bazelbuild-rules_cc
 /external/bazelbuild-rules_java
 /external/bazelbuild-rules_license
+/external/bazelbuild-rules_pkg
 /external/bazelbuild-rules_python
 /external/bazelbuild-rules_rust
 /external/compiler-rt
