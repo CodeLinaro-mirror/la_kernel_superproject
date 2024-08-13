@@ -1,5 +1,6 @@
 /build/kernel ddk
 /common
+/common-modules/trusty
 /common-modules/virtual-device
 /kernel/configs
 /prebuilts/kernel-build-tools ddk
