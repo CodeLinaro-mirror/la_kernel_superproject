@@ -3,7 +3,7 @@
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android14-6.1-2024-06
+	branch = android14-6.1-2024-06-brcm
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
