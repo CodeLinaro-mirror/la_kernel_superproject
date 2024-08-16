@@ -267,11 +267,6 @@
 	shallow = true
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../../platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
-[submodule "platform/prebuilts/jdk/jdk11"]
-	branch = main
-	shallow = true
-	path = prebuilts/jdk/jdk11
-	url = ../../platform/prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/rust"]
 	branch = main
 	shallow = true
