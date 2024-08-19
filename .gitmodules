@@ -211,6 +211,10 @@
 	branch = main
 	path = external/rust/crates/zerocopy-derive
 	url = ../../platform/external/rust/crates/zerocopy-derive
+[submodule "platform/external/rust/crates/zune-inflate"]
+	branch = main
+	path = external/rust/crates/zune-inflate
+	url = ../../platform/external/rust/crates/zune-inflate
 [submodule "platform/external/zlib"]
 	branch = main
 	path = external/zlib

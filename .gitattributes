@@ -51,6 +51,7 @@
 /external/rust/crates/uuid
 /external/rust/crates/zerocopy
 /external/rust/crates/zerocopy-derive
+/external/rust/crates/zune-inflate
 /external/zlib
 /external/zopfli
 /hardware/interfaces
