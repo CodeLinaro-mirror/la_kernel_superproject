@@ -6,6 +6,10 @@
 	branch = android15-6.6-partner_predev
 	path = common
 	url = ../common
+[submodule "kernel/common-modules/trusty"]
+	branch = main
+	path = common-modules/trusty
+	url = ../common-modules/trusty
 [submodule "kernel/common-modules/virtual-device"]
 	branch = android15-6.6
 	path = common-modules/virtual-device
