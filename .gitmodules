@@ -7,7 +7,7 @@
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
-	branch = android14-6.1
+	branch = android14-kiwi-6.1
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/configs"]
