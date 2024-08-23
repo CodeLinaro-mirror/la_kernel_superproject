@@ -146,7 +146,7 @@
 	path = prebuilts/jdk/jdk11
 	url = ../../platform/prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/rust"]
-	branch = main-kernel
+	branch = android-mainline-rust
 	shallow = true
 	path = prebuilts/rust
 	url = ../../platform/prebuilts/rust
