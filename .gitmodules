@@ -6,6 +6,10 @@
 	branch = android15-6.6-2024-09
 	path = common
 	url = ../common
+[submodule "kernel/common-modules/trusty"]
+	branch = main-kernel-build-2024
+	path = common-modules/trusty
+	url = ../common-modules/trusty
 [submodule "kernel/common-modules/virtual-device"]
 	ref = android15-6.6
 	path = common-modules/virtual-device
