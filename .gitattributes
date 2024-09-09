@@ -32,6 +32,7 @@
 /external/rust/crates/hex
 /external/rust/crates/itertools
 /external/rust/crates/lazy_static
+/external/rust/crates/lz4_flex
 /external/rust/crates/managed
 /external/rust/crates/mockall
 /external/rust/crates/mockall_derive

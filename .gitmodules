@@ -135,6 +135,10 @@
 	branch = main
 	path = external/rust/crates/lazy_static
 	url = ../../platform/external/rust/crates/lazy_static
+[submodule "platform/external/rust/crates/lz4_flex"]
+	branch = main
+	path = external/rust/crates/lz4_flex
+	url = ../../platform/external/rust/crates/lz4_flex
 [submodule "platform/external/rust/crates/managed"]
 	branch = main
 	path = external/rust/crates/managed
