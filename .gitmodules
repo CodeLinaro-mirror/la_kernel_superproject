@@ -1,5 +1,5 @@
 [submodule "kernel/build"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
@@ -7,7 +7,7 @@
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/trusty"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = common-modules/trusty
 	url = ../common-modules/trusty
 [submodule "kernel/common-modules/virtual-device"]
@@ -15,144 +15,136 @@
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/configs"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = kernel/configs
 	url = ../configs
 [submodule "kernel/prebuilts/build-tools"]
-	branch = main
+	branch = main-kernel-build-2024
 	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = ../prebuilts/build-tools
 [submodule "kernel/tests"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = kernel/tests
 	url = ../tests
 [submodule "platform/build/bazel_common_rules"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = build/bazel_common_rules
 	url = ../../platform/build/bazel_common_rules
-[submodule "platform/external/bazel-contrib-bazel_features"]
-	branch = main
-	path = external/bazel-contrib-bazel_features
-	url = ../../platform/external/bazel-contrib-bazel_features
 [submodule "platform/external/bazel-skylib"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/bazel-skylib
 	url = ../../platform/external/bazel-skylib
 [submodule "platform/external/bazelbuild-apple_support"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/bazelbuild-apple_support
 	url = ../../platform/external/bazelbuild-apple_support
 [submodule "platform/external/bazelbuild-bazel-central-registry"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/bazelbuild-bazel-central-registry
 	url = ../../platform/external/bazelbuild-bazel-central-registry
 [submodule "platform/external/bazelbuild-platforms"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/bazelbuild-platforms
 	url = ../../platform/external/bazelbuild-platforms
 [submodule "platform/external/bazelbuild-rules_cc"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/bazelbuild-rules_cc
 	url = ../../platform/external/bazelbuild-rules_cc
 [submodule "platform/external/bazelbuild-rules_java"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/bazelbuild-rules_java
 	url = ../../platform/external/bazelbuild-rules_java
 [submodule "platform/external/bazelbuild-rules_license"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/bazelbuild-rules_license
 	url = ../../platform/external/bazelbuild-rules_license
 [submodule "platform/external/bazelbuild-rules_pkg"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/bazelbuild-rules_pkg
 	url = ../../platform/external/bazelbuild-rules_pkg
 [submodule "platform/external/bazelbuild-rules_python"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/bazelbuild-rules_python
 	url = ../../platform/external/bazelbuild-rules_python
-[submodule "platform/external/bazelbuild-rules_rust"]
-	branch = main
-	path = external/bazelbuild-rules_rust
-	url = ../../platform/external/bazelbuild-rules_rust
 [submodule "platform/external/libcap"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/libcap
 	url = ../../platform/external/libcap
 [submodule "platform/external/libcap-ng"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/libcap-ng
 	url = ../../platform/external/libcap-ng
 [submodule "platform/external/lz4"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/lz4
 	url = ../../platform/external/lz4
 [submodule "platform/external/pigz"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/pigz
 	url = ../../platform/external/pigz
 [submodule "platform/external/python/absl-py"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/python/absl-py
 	url = ../../platform/external/python/absl-py
 [submodule "platform/external/toybox"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/toybox
 	url = ../../platform/external/toybox
 [submodule "platform/external/zlib"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/zlib
 	url = ../../platform/external/zlib
 [submodule "platform/external/zopfli"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = external/zopfli
 	url = ../../platform/external/zopfli
 [submodule "platform/prebuilts/asuite"]
-	branch = main
+	branch = main-kernel-build-2024
 	shallow = true
 	path = prebuilts/asuite
 	url = ../../platform/prebuilts/asuite
 [submodule "platform/prebuilts/build-tools"]
-	branch = main
+	branch = main-kernel-build-2024
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../../platform/prebuilts/build-tools
 [submodule "platform/prebuilts/clang-tools"]
-	branch = main
+	branch = main-kernel-build-2024
 	shallow = true
 	path = prebuilts/clang-tools
 	url = ../../platform/prebuilts/clang-tools
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = main-kernel
+	branch = main-kernel-build-2024
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
-	branch = main
+	branch = main-kernel-build-2024
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../../platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/jdk/jdk11"]
-	branch = main-kernel
+	branch = main-kernel-build-2024
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../../platform/prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/rust"]
-	branch = main-kernel
+	branch = main-kernel-build-2024
 	shallow = true
 	path = prebuilts/rust
 	url = ../../platform/prebuilts/rust
 [submodule "platform/system/tools/mkbootimg"]
-	branch = main
+	branch = main-kernel-build-2024
 	path = tools/mkbootimg
 	url = ../../platform/system/tools/mkbootimg
 [submodule "platform/tools/tradefederation/prebuilts"]
-	branch = main
+	branch = main-kernel-build-2024
 	shallow = true
 	path = prebuilts/tradefed
 	url = ../../platform/tools/tradefederation/prebuilts
 [submodule "toolchain/prebuilts/ndk/r26"]
-	branch = main
+	branch = main-kernel-build-2024
 	shallow = true
 	path = prebuilts/ndk-r26
 	url = ../../toolchain/prebuilts/ndk/r26

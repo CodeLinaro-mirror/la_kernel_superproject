@@ -6,7 +6,6 @@
 /prebuilts/kernel-build-tools ddk
 /kernel/tests
 /build/bazel_common_rules ddk
-/external/bazel-contrib-bazel_features ddk-external
 /external/bazel-skylib ddk-external
 /external/bazelbuild-apple_support ddk-external
 /external/bazelbuild-bazel-central-registry ddk-external
@@ -16,7 +15,6 @@
 /external/bazelbuild-rules_license ddk-external
 /external/bazelbuild-rules_pkg ddk-external
 /external/bazelbuild-rules_python ddk-external
-/external/bazelbuild-rules_rust ddk-external
 /external/libcap
 /external/libcap-ng
 /external/lz4 ddk
