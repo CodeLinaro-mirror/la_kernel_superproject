@@ -7,7 +7,7 @@
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/trusty"]
-	branch = main-kernel-build-2024
+	branch = main
 	path = common-modules/trusty
 	url = ../common-modules/trusty
 [submodule "kernel/common-modules/virtual-device"]
