@@ -17,10 +17,12 @@
 /external/boringssl
 /external/compiler-rt
 /external/dtc
+/external/lz4
 /external/open-dice
 /external/pigz
 /external/python/absl-py
 /external/stardoc
+/external/toybox
 /u-boot
 /external/zlib
 /external/zopfli

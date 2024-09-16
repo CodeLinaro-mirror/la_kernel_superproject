@@ -75,6 +75,10 @@
 	branch = main
 	path = external/dtc
 	url = ../../platform/external/dtc
+[submodule "platform/external/lz4"]
+	branch = main
+	path = external/lz4
+	url = ../../platform/external/lz4
 [submodule "platform/external/open-dice"]
 	branch = main
 	path = external/open-dice
@@ -91,6 +95,10 @@
 	branch = main
 	path = external/stardoc
 	url = ../../platform/external/stardoc
+[submodule "platform/external/toybox"]
+	branch = main
+	path = external/toybox
+	url = ../../platform/external/toybox
 [submodule "platform/external/u-boot"]
 	branch = main
 	path = u-boot
