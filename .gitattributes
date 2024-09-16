@@ -1,0 +1,40 @@
+/build/kernel ddk
+/common
+/common-modules/trusty
+/common-modules/virtual-device
+/kernel/common-patches
+/kernel/configs
+/prebuilts/kernel-build-tools ddk
+/kernel/tests
+/build/bazel_common_rules ddk
+/external/bazel-contrib-bazel_features ddk-external
+/external/bazel-skylib ddk-external
+/external/bazelbuild-apple_support ddk-external
+/external/bazelbuild-bazel-central-registry ddk-external
+/external/bazelbuild-platforms ddk-external
+/external/bazelbuild-rules_cc ddk-external
+/external/bazelbuild-rules_java ddk-external
+/external/bazelbuild-rules_license ddk-external
+/external/bazelbuild-rules_pkg ddk-external
+/external/bazelbuild-rules_python ddk-external
+/external/bazelbuild-rules_rust ddk-external
+/external/libcap
+/external/libcap-ng
+/test/ltp
+/external/lz4 ddk
+/external/pigz ddk
+/external/python/absl-py ddk-external
+/external/toybox ddk
+/external/zlib ddk
+/external/zopfli ddk
+/prebuilts/asuite
+/prebuilts/build-tools ddk
+/prebuilts/clang-tools
+/prebuilts/clang/host/linux-x86 ddk
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 ddk
+/prebuilts/jdk/jdk11
+/prebuilts/rust
+/tools/mkbootimg
+/test/dittosuite
+/prebuilts/tradefed
+/prebuilts/ndk-r26 ddk
