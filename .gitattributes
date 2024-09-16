@@ -2,7 +2,6 @@
 /common
 /common-modules/trusty
 /common-modules/virtual-device
-/kernel/common-patches
 /kernel/configs
 /prebuilts/kernel-build-tools ddk
 /kernel/tests
