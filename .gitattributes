@@ -5,6 +5,8 @@
 /hikey-modules
 /prebuilts/kernel-build-tools
 /kernel/tests
+/prebuilts/asuite
 /prebuilts/build-tools
 /prebuilts-master/clang/host/linux-x86
 /tools/mkbootimg
+/prebuilts/tradefed
