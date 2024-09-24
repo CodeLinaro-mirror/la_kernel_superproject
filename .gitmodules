@@ -39,6 +39,11 @@
 	branch = main-kernel-build-2023
 	path = external/stardoc
 	url = ../../platform/external/stardoc
+[submodule "platform/prebuilts/asuite"]
+	branch = main
+	shallow = true
+	path = prebuilts/asuite
+	url = ../../platform/prebuilts/asuite
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
 	branch = main-kernel-build-2023
 	shallow = true
@@ -73,6 +78,11 @@
 	branch = main-kernel-build-2023
 	path = tools/mkbootimg
 	url = ../../platform/system/tools/mkbootimg
+[submodule "platform/tools/tradefederation/prebuilts"]
+	branch = main
+	shallow = true
+	path = prebuilts/tradefed
+	url = ../../platform/tools/tradefederation/prebuilts
 [submodule "toolchain/prebuilts/ndk/r23"]
 	branch = main-kernel-build-2023
 	shallow = true
