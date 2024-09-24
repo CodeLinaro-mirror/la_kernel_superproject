@@ -27,6 +27,11 @@
 	branch = master-kernel-build-2021
 	path = kernel/tests
 	url = ../tests
+[submodule "platform/prebuilts/asuite"]
+	branch = main
+	shallow = true
+	path = prebuilts/asuite
+	url = ../../platform/prebuilts/asuite
 [submodule "platform/prebuilts/build-tools"]
 	branch = master-kernel-build-2021
 	shallow = true
@@ -51,3 +56,8 @@
 	branch = master-kernel-build-2021
 	path = tools/mkbootimg
 	url = ../../platform/system/tools/mkbootimg
+[submodule "platform/tools/tradefederation/prebuilts"]
+	branch = main
+	shallow = true
+	path = prebuilts/tradefed
+	url = ../../platform/tools/tradefederation/prebuilts
