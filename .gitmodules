@@ -20,7 +20,7 @@
 	path = prebuilts/kernel-build-tools
 	url = ../prebuilts/build-tools
 [submodule "kernel/tests"]
-	branch = master-kernel-build-2022
+	branch = main
 	path = kernel/tests
 	url = ../tests
 [submodule "platform/build/bazel_common_rules"]
