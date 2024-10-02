@@ -100,8 +100,7 @@
 	path = external/zopfli
 	url = ../../platform/external/zopfli
 [submodule "platform/prebuilts/asuite"]
-	branch = main-kernel-build-2024
-	shallow = true
+	ref = main
 	path = prebuilts/asuite
 	url = ../../platform/prebuilts/asuite
 [submodule "platform/prebuilts/build-tools"]
@@ -139,8 +138,7 @@
 	path = tools/mkbootimg
 	url = ../../platform/system/tools/mkbootimg
 [submodule "platform/tools/tradefederation/prebuilts"]
-	branch = main-kernel-build-2024
-	shallow = true
+	ref = main
 	path = prebuilts/tradefed
 	url = ../../platform/tools/tradefederation/prebuilts
 [submodule "toolchain/prebuilts/ndk/r26"]
