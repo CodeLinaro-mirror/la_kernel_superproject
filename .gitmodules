@@ -91,6 +91,10 @@
 	branch = main-kernel-build-2024
 	path = external/toybox
 	url = ../../platform/external/toybox
+[submodule "platform/external/virtio-media"]
+	branch = main-kernel-build-2024
+	path = common-modules/virtio-media
+	url = ../../platform/external/virtio-media
 [submodule "platform/external/zlib"]
 	branch = main-kernel-build-2024
 	path = external/zlib
