@@ -1,8 +1,6 @@
-/build/kernel
 /prebuilts/kernel-build-tools
 /bootable/libbootloader
 /bootable/recovery
-/build/bazel_common_rules
 /external/arm-trusted-firmware
 /external/avb
 /external/bazel-contrib-bazel_features

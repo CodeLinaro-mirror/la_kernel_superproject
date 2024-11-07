@@ -1,1 +1,1 @@
-../build/kernel/kleaf/bazel.sh
+../bootable/libbootloader/gbl/bazel.sh

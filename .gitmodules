@@ -1,7 +1,3 @@
-[submodule "kernel/build"]
-	branch = main
-	path = build/kernel
-	url = ../build
 [submodule "kernel/prebuilts/build-tools"]
 	branch = main
 	shallow = true
@@ -15,10 +11,6 @@
 	branch = main
 	path = bootable/recovery
 	url = ../../platform/bootable/recovery
-[submodule "platform/build/bazel_common_rules"]
-	branch = main
-	path = build/bazel_common_rules
-	url = ../../platform/build/bazel_common_rules
 [submodule "platform/external/arm-trusted-firmware"]
 	branch = main
 	path = external/arm-trusted-firmware
