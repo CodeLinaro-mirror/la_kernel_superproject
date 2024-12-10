@@ -11,6 +11,7 @@
 /private/google-modules/gpu
 /private/google-modules/lwis
 /private/google-modules/nfc
+/private/google-modules/power/mitigation
 /private/google-modules/power/reset
 /private/google-modules/soc/gs
 /private/google-modules/touch/common
@@ -22,6 +23,7 @@
 /private/google-modules/wlan/bcmdhd4389
 /prebuilts/kernel-build-tools
 /build/bazel_common_rules
+/external/bazel-contrib-bazel_features
 /external/bazel-skylib
 /external/bazelbuild-apple_support
 /external/bazelbuild-bazel-central-registry
@@ -34,9 +36,11 @@
 /external/bazelbuild-rules_rust
 /external/libcap
 /external/libcap-ng
+/external/lz4
 /external/pigz
 /external/python/absl-py
 /external/stardoc
+/external/toybox
 /external/zlib
 /external/zopfli
 /prebuilts/bazel/linux-x86_64
