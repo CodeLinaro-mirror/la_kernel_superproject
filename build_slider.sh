@@ -1,1 +1,0 @@
-private/google-modules/soc/gs/build_slider.sh
