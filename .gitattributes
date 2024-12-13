@@ -19,6 +19,7 @@
 /external/elfutils
 /external/googletest
 /external/pigz
+/external/rust/android-crates-io
 /external/rust/crates/arrayvec
 /external/rust/crates/bitflags
 /external/rust/crates/byteorder
