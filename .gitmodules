@@ -75,6 +75,10 @@
 	branch = main
 	path = external/bazelbuild-rules_rust
 	url = ../../platform/external/bazelbuild-rules_rust
+[submodule "platform/external/bazelbuild-rules_shell"]
+	branch = main
+	path = external/bazelbuild-rules_shell
+	url = ../../platform/external/bazelbuild-rules_shell
 [submodule "platform/external/libcap"]
 	branch = main
 	path = external/libcap
