@@ -14,6 +14,7 @@
 /external/bazelbuild-rules_pkg
 /external/bazelbuild-rules_python
 /external/bazelbuild-rules_rust
+/external/bazelbuild-rules_shell
 /external/compiler-rt
 /external/dtc
 /external/elfutils
