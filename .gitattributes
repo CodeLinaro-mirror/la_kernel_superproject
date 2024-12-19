@@ -25,6 +25,7 @@
 /external/pigz ddk
 /external/python/absl-py ddk-external
 /external/toybox ddk
+/common-modules/virtio-media
 /external/zlib ddk
 /external/zopfli ddk
 /prebuilts/asuite

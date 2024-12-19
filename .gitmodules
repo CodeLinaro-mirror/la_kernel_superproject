@@ -107,6 +107,10 @@
 	branch = main
 	path = external/toybox
 	url = ../../platform/external/toybox
+[submodule "platform/external/virtio-media"]
+	branch = main
+	path = common-modules/virtio-media
+	url = ../../platform/external/virtio-media
 [submodule "platform/external/zlib"]
 	branch = main
 	path = external/zlib
