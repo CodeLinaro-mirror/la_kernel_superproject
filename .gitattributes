@@ -18,6 +18,7 @@
 /external/bazelbuild-rules_pkg ddk-external
 /external/bazelbuild-rules_python ddk-external
 /external/bazelbuild-rules_rust ddk-external
+/external/bazelbuild-rules_shell ddk-external
 /external/libcap
 /external/libcap-ng
 /test/ltp
@@ -34,7 +35,7 @@
 /prebuilts/clang/host/linux-x86 ddk
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 ddk
 /prebuilts/jdk/jdk11
-/prebuilts/rust
+/prebuilts/rust ddk
 /tools/mkbootimg
 /test/dittosuite
 /prebuilts/tradefed
