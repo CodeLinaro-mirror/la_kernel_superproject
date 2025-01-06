@@ -3,11 +3,11 @@
 	path = build
 	url = ../build
 [submodule "kernel/common"]
-	branch = android12-5.10
+	branch = android12-5.10-2025-02
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
-	branch = android12-5.10
+	ref = android12-5.10
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/configs"]
@@ -15,7 +15,7 @@
 	path = kernel/configs
 	url = ../configs
 [submodule "kernel/hikey-modules"]
-	branch = android12-5.10
+	ref = android12-5.10
 	path = hikey-modules
 	url = ../hikey-modules
 [submodule "kernel/prebuilts/build-tools"]
@@ -24,12 +24,11 @@
 	path = prebuilts/kernel-build-tools
 	url = ../prebuilts/build-tools
 [submodule "kernel/tests"]
-	branch = main
+	ref = main
 	path = kernel/tests
 	url = ../tests
 [submodule "platform/prebuilts/asuite"]
-	branch = main
-	shallow = true
+	ref = main
 	path = prebuilts/asuite
 	url = ../../platform/prebuilts/asuite
 [submodule "platform/prebuilts/build-tools"]
@@ -52,7 +51,6 @@
 	path = tools/mkbootimg
 	url = ../../platform/system/tools/mkbootimg
 [submodule "platform/tools/tradefederation/prebuilts"]
-	branch = main
-	shallow = true
+	ref = main
 	path = prebuilts/tradefed
 	url = ../../platform/tools/tradefederation/prebuilts
