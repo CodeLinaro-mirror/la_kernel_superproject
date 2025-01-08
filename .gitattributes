@@ -8,6 +8,7 @@
 /external/bazel-skylib
 /external/python/absl-py
 /external/stardoc
+/prebuilts/asuite
 /prebuilts/bazel/linux-x86_64
 /prebuilts/build-tools
 /prebuilts/clang-tools
@@ -15,4 +16,5 @@
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 /prebuilts/jdk/jdk11
 /tools/mkbootimg
+/prebuilts/tradefed
 /prebuilts/ndk-r23
