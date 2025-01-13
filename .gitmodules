@@ -1,0 +1,256 @@
+[submodule "kernel/build"]
+	branch = main
+	path = build/kernel
+	url = https://android.googlesource.com/kernel/build
+[submodule "kernel/common"]
+	branch = android-mainline
+	path = common
+	url = https://android.googlesource.com/kernel/common
+[submodule "kernel/configs"]
+	branch = main
+	path = kernel/configs
+	url = https://android.googlesource.com/kernel/configs
+[submodule "kernel/google-modules/amplifiers"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/amplifiers
+	url = https://android.googlesource.com/kernel/google-modules/amplifiers
+[submodule "kernel/google-modules/aoc"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/aoc
+	url = https://android.googlesource.com/kernel/google-modules/aoc
+[submodule "kernel/google-modules/aoc-ipc"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/aoc_ipc
+	url = https://android.googlesource.com/kernel/google-modules/aoc-ipc
+[submodule "kernel/google-modules/bluetooth/broadcom"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/bluetooth/broadcom
+	url = https://android.googlesource.com/kernel/google-modules/bluetooth/broadcom
+[submodule "kernel/google-modules/bms"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/bms
+	url = https://android.googlesource.com/kernel/google-modules/bms
+[submodule "kernel/google-modules/display"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/display
+	url = https://android.googlesource.com/kernel/google-modules/display
+[submodule "kernel/google-modules/edgetpu/abrolhos"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/edgetpu/abrolhos
+	url = https://android.googlesource.com/kernel/google-modules/edgetpu/abrolhos
+[submodule "kernel/google-modules/gpu"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/gpu
+	url = https://android.googlesource.com/kernel/google-modules/gpu
+[submodule "kernel/google-modules/lwis"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/lwis
+	url = https://android.googlesource.com/kernel/google-modules/lwis
+[submodule "kernel/google-modules/nfc"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/nfc
+	url = https://android.googlesource.com/kernel/google-modules/nfc
+[submodule "kernel/google-modules/power/mitigation"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/power/mitigation
+	url = https://android.googlesource.com/kernel/google-modules/power/mitigation
+[submodule "kernel/google-modules/power/reset"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/power/reset
+	url = https://android.googlesource.com/kernel/google-modules/power/reset
+[submodule "kernel/google-modules/raviole-device"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/soc/gs
+	url = https://android.googlesource.com/kernel/google-modules/raviole-device
+[submodule "kernel/google-modules/touch/common"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/touch/common
+	url = https://android.googlesource.com/kernel/google-modules/touch/common
+[submodule "kernel/google-modules/touch/fts_touch"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/touch/fts
+	url = https://android.googlesource.com/kernel/google-modules/touch/fts_touch
+[submodule "kernel/google-modules/touch/sec_touch"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/touch/sec
+	url = https://android.googlesource.com/kernel/google-modules/touch/sec_touch
+[submodule "kernel/google-modules/trusty"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/trusty
+	url = https://android.googlesource.com/kernel/google-modules/trusty
+[submodule "kernel/google-modules/uwb"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/uwb
+	url = https://android.googlesource.com/kernel/google-modules/uwb
+[submodule "kernel/google-modules/video/gchips"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/video/gchips
+	url = https://android.googlesource.com/kernel/google-modules/video/gchips
+[submodule "kernel/google-modules/wlan/bcmdhd/bcm4389"]
+	branch = android-gs-raviole-mainline
+	path = private/google-modules/wlan/bcmdhd4389
+	url = https://android.googlesource.com/kernel/google-modules/wlan/bcmdhd/bcm4389
+[submodule "kernel/prebuilts/build-tools"]
+	branch = main
+	shallow = true
+	path = prebuilts/kernel-build-tools
+	url = https://android.googlesource.com/kernel/prebuilts/build-tools
+[submodule "platform/build/bazel_common_rules"]
+	branch = main
+	path = build/bazel_common_rules
+	url = https://android.googlesource.com/platform/build/bazel_common_rules
+[submodule "platform/external/bazel-contrib-bazel_features"]
+	branch = main
+	shallow = true
+	path = external/bazel-contrib-bazel_features
+	url = https://android.googlesource.com/platform/external/bazel-contrib-bazel_features
+[submodule "platform/external/bazel-skylib"]
+	branch = main
+	shallow = true
+	path = external/bazel-skylib
+	url = https://android.googlesource.com/platform/external/bazel-skylib
+[submodule "platform/external/bazelbuild-apple_support"]
+	branch = main
+	shallow = true
+	path = external/bazelbuild-apple_support
+	url = https://android.googlesource.com/platform/external/bazelbuild-apple_support
+[submodule "platform/external/bazelbuild-bazel-central-registry"]
+	branch = main
+	shallow = true
+	path = external/bazelbuild-bazel-central-registry
+	url = https://android.googlesource.com/platform/external/bazelbuild-bazel-central-registry
+[submodule "platform/external/bazelbuild-platforms"]
+	branch = main
+	shallow = true
+	path = external/bazelbuild-platforms
+	url = https://android.googlesource.com/platform/external/bazelbuild-platforms
+[submodule "platform/external/bazelbuild-rules_cc"]
+	branch = main
+	shallow = true
+	path = external/bazelbuild-rules_cc
+	url = https://android.googlesource.com/platform/external/bazelbuild-rules_cc
+[submodule "platform/external/bazelbuild-rules_java"]
+	branch = main
+	shallow = true
+	path = external/bazelbuild-rules_java
+	url = https://android.googlesource.com/platform/external/bazelbuild-rules_java
+[submodule "platform/external/bazelbuild-rules_license"]
+	branch = main
+	shallow = true
+	path = external/bazelbuild-rules_license
+	url = https://android.googlesource.com/platform/external/bazelbuild-rules_license
+[submodule "platform/external/bazelbuild-rules_pkg"]
+	branch = main
+	shallow = true
+	path = external/bazelbuild-rules_pkg
+	url = https://android.googlesource.com/platform/external/bazelbuild-rules_pkg
+[submodule "platform/external/bazelbuild-rules_python"]
+	branch = main
+	shallow = true
+	path = external/bazelbuild-rules_python
+	url = https://android.googlesource.com/platform/external/bazelbuild-rules_python
+[submodule "platform/external/bazelbuild-rules_rust"]
+	branch = main
+	shallow = true
+	path = external/bazelbuild-rules_rust
+	url = https://android.googlesource.com/platform/external/bazelbuild-rules_rust
+[submodule "platform/external/libcap"]
+	branch = main
+	shallow = true
+	path = external/libcap
+	url = https://android.googlesource.com/platform/external/libcap
+[submodule "platform/external/libcap-ng"]
+	branch = main
+	shallow = true
+	path = external/libcap-ng
+	url = https://android.googlesource.com/platform/external/libcap-ng
+[submodule "platform/external/lz4"]
+	branch = main
+	shallow = true
+	path = external/lz4
+	url = https://android.googlesource.com/platform/external/lz4
+[submodule "platform/external/pigz"]
+	branch = main
+	shallow = true
+	path = external/pigz
+	url = https://android.googlesource.com/platform/external/pigz
+[submodule "platform/external/python/absl-py"]
+	branch = main
+	shallow = true
+	path = external/python/absl-py
+	url = https://android.googlesource.com/platform/external/python/absl-py
+[submodule "platform/external/stardoc"]
+	branch = main
+	shallow = true
+	path = external/stardoc
+	url = https://android.googlesource.com/platform/external/stardoc
+[submodule "platform/external/toybox"]
+	branch = main
+	shallow = true
+	path = external/toybox
+	url = https://android.googlesource.com/platform/external/toybox
+[submodule "platform/external/zlib"]
+	branch = main
+	shallow = true
+	path = external/zlib
+	url = https://android.googlesource.com/platform/external/zlib
+[submodule "platform/external/zopfli"]
+	branch = main
+	shallow = true
+	path = external/zopfli
+	url = https://android.googlesource.com/platform/external/zopfli
+[submodule "platform/prebuilts/bazel/linux-x86_64"]
+	branch = main
+	shallow = true
+	path = prebuilts/bazel/linux-x86_64
+	url = https://android.googlesource.com/platform/prebuilts/bazel/linux-x86_64
+[submodule "platform/prebuilts/boot-artifacts"]
+	branch = android-gs-raviole-mainline
+	shallow = true
+	path = prebuilts/boot-artifacts
+	url = https://android.googlesource.com/platform/prebuilts/boot-artifacts
+[submodule "platform/prebuilts/build-tools"]
+	branch = main
+	shallow = true
+	path = prebuilts/build-tools
+	url = https://android.googlesource.com/platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang-tools"]
+	branch = main
+	shallow = true
+	path = prebuilts/clang-tools
+	url = https://android.googlesource.com/platform/prebuilts/clang-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = main-kernel
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	branch = main
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+[submodule "platform/prebuilts/jdk/jdk11"]
+	branch = main-kernel
+	shallow = true
+	path = prebuilts/jdk/jdk11
+	url = https://android.googlesource.com/platform/prebuilts/jdk/jdk11
+[submodule "platform/prebuilts/misc"]
+	branch = main
+	shallow = true
+	path = prebuilts/misc
+	url = https://android.googlesource.com/platform/prebuilts/misc
+[submodule "platform/prebuilts/rust"]
+	branch = main-kernel
+	shallow = true
+	path = prebuilts/rust
+	url = https://android.googlesource.com/platform/prebuilts/rust
+[submodule "platform/system/tools/mkbootimg"]
+	branch = main
+	shallow = true
+	path = tools/mkbootimg
+	url = https://android.googlesource.com/platform/system/tools/mkbootimg
+[submodule "toolchain/prebuilts/ndk/r26"]
+	branch = main
+	shallow = true
+	path = prebuilts/ndk-r26
+	url = https://android.googlesource.com/toolchain/prebuilts/ndk/r26
