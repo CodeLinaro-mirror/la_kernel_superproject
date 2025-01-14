@@ -3,7 +3,7 @@
 	path = build/kernel
 	url = https://android.googlesource.com/kernel/build
 [submodule "kernel/common"]
-	branch = android-mainline
+	branch = android16-6.12
 	path = common
 	url = https://android.googlesource.com/kernel/common
 [submodule "kernel/configs"]
@@ -11,83 +11,83 @@
 	path = kernel/configs
 	url = https://android.googlesource.com/kernel/configs
 [submodule "kernel/google-modules/amplifiers"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/amplifiers
 	url = https://android.googlesource.com/kernel/google-modules/amplifiers
 [submodule "kernel/google-modules/aoc"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/aoc
 	url = https://android.googlesource.com/kernel/google-modules/aoc
 [submodule "kernel/google-modules/aoc-ipc"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/aoc_ipc
 	url = https://android.googlesource.com/kernel/google-modules/aoc-ipc
 [submodule "kernel/google-modules/bluetooth/broadcom"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/bluetooth/broadcom
 	url = https://android.googlesource.com/kernel/google-modules/bluetooth/broadcom
 [submodule "kernel/google-modules/bms"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/bms
 	url = https://android.googlesource.com/kernel/google-modules/bms
 [submodule "kernel/google-modules/display"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/display
 	url = https://android.googlesource.com/kernel/google-modules/display
 [submodule "kernel/google-modules/edgetpu/abrolhos"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/edgetpu/abrolhos
 	url = https://android.googlesource.com/kernel/google-modules/edgetpu/abrolhos
 [submodule "kernel/google-modules/gpu"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/gpu
 	url = https://android.googlesource.com/kernel/google-modules/gpu
 [submodule "kernel/google-modules/lwis"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/lwis
 	url = https://android.googlesource.com/kernel/google-modules/lwis
 [submodule "kernel/google-modules/nfc"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/nfc
 	url = https://android.googlesource.com/kernel/google-modules/nfc
 [submodule "kernel/google-modules/power/mitigation"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/power/mitigation
 	url = https://android.googlesource.com/kernel/google-modules/power/mitigation
 [submodule "kernel/google-modules/power/reset"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/power/reset
 	url = https://android.googlesource.com/kernel/google-modules/power/reset
 [submodule "kernel/google-modules/raviole-device"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/soc/gs
 	url = https://android.googlesource.com/kernel/google-modules/raviole-device
 [submodule "kernel/google-modules/touch/common"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/touch/common
 	url = https://android.googlesource.com/kernel/google-modules/touch/common
 [submodule "kernel/google-modules/touch/fts_touch"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/touch/fts
 	url = https://android.googlesource.com/kernel/google-modules/touch/fts_touch
 [submodule "kernel/google-modules/touch/sec_touch"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/touch/sec
 	url = https://android.googlesource.com/kernel/google-modules/touch/sec_touch
 [submodule "kernel/google-modules/trusty"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/trusty
 	url = https://android.googlesource.com/kernel/google-modules/trusty
 [submodule "kernel/google-modules/uwb"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/uwb
 	url = https://android.googlesource.com/kernel/google-modules/uwb
 [submodule "kernel/google-modules/video/gchips"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/video/gchips
 	url = https://android.googlesource.com/kernel/google-modules/video/gchips
 [submodule "kernel/google-modules/wlan/bcmdhd/bcm4389"]
-	branch = android-gs-raviole-mainline
+	branch = android16-6.12-gs101
 	path = private/google-modules/wlan/bcmdhd4389
 	url = https://android.googlesource.com/kernel/google-modules/wlan/bcmdhd/bcm4389
 [submodule "kernel/prebuilts/build-tools"]
