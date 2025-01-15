@@ -6,6 +6,10 @@
 	branch = android16-6.12
 	path = common
 	url = ../common
+[submodule "kernel/common-modules/binder"]
+	branch = android16-6.12
+	path = common-modules/binder
+	url = ../common-modules/binder
 [submodule "kernel/common-modules/trusty"]
 	branch = main
 	path = common-modules/trusty
