@@ -154,6 +154,11 @@
 	shallow = true
 	path = external/bazelbuild-rules_rust
 	url = https://android.googlesource.com/platform/external/bazelbuild-rules_rust
+[submodule "platform/external/bazelbuild-rules_shell"]
+	branch = main
+	shallow = true
+	path = external/bazelbuild-rules_shell
+	url = https://android.googlesource.com/platform/external/bazelbuild-rules_shell
 [submodule "platform/external/libcap"]
 	branch = main
 	shallow = true
