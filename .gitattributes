@@ -9,11 +9,9 @@
 /build/bazel_common_rules ddk
 /external/bazel-contrib-bazel_features ddk-external
 /external/bazel-skylib ddk-external
-/external/bazelbuild-apple_support ddk-external
 /external/bazelbuild-bazel-central-registry ddk-external
 /external/bazelbuild-platforms ddk-external
 /external/bazelbuild-rules_cc ddk-external
-/external/bazelbuild-rules_java ddk-external
 /external/bazelbuild-rules_license ddk-external
 /external/bazelbuild-rules_pkg ddk-external
 /external/bazelbuild-rules_python ddk-external
