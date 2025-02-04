@@ -1,1 +1,0 @@
-kernel/tests/tools/launch_cvd.sh
