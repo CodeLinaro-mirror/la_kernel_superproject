@@ -40,7 +40,6 @@
 /external/obstack
 /external/pcre
 /external/protobuf
-/external/python/cpython2
 /external/python/cpython3
 /external/python/six
 /external/selinux
