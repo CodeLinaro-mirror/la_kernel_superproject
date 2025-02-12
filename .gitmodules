@@ -147,6 +147,11 @@
 	shallow = true
 	path = prebuilts/tradefed
 	url = ../../platform/tools/tradefederation/prebuilts
+[submodule "toolchain/pgo-profiles"]
+	branch = main
+	shallow = true
+	path = toolchain/pgo-profiles
+	url = ../../toolchain/pgo-profiles
 [submodule "toolchain/prebuilts/ndk/r26"]
 	branch = main-kernel-build-2024
 	shallow = true
