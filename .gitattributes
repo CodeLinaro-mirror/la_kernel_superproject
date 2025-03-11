@@ -22,7 +22,6 @@
 /external/pigz
 /external/rust/android-crates-io
 /external/rust/crates/smoltcp
-/external/rust/crates/tinyjson
 /external/rust/crates/zune-inflate
 /external/zlib
 /external/zopfli
