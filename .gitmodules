@@ -111,10 +111,6 @@
 	branch = main
 	path = hardware/interfaces
 	url = ../../platform/hardware/interfaces
-[submodule "platform/packages/modules/Virtualization"]
-	branch = main
-	path = packages/modules/Virtualization
-	url = ../../platform/packages/modules/Virtualization
 [submodule "platform/prebuilts/build-tools"]
 	branch = main
 	shallow = true
