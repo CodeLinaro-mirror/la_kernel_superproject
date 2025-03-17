@@ -2,10 +2,8 @@
 /prebuilts/kernel-build-tools
 /bootable/libbootloader
 /build/bazel_common_rules
-/external/arm-trusted-firmware
 /external/bazel-contrib-bazel_features
 /external/bazel-skylib
-/external/bazelbuild-apple_support
 /external/bazelbuild-bazel-central-registry
 /external/bazelbuild-platforms
 /external/bazelbuild-rules_cc
@@ -15,11 +13,9 @@
 /external/bazelbuild-rules_python
 /external/bazelbuild-rules_rust
 /external/bazelbuild-rules_shell
-/external/boringssl
 /external/compiler-rt
 /external/dtc
 /external/lz4
-/external/open-dice
 /external/pigz
 /external/python/absl-py
 /external/stardoc
@@ -34,6 +30,3 @@
 /prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 /prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
-/prebuilts/jdk/jdk11
-/tools/mkbootimg
-/prebuilts/ndk-r26
