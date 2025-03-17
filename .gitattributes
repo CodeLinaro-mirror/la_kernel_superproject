@@ -5,11 +5,9 @@
 /external/avb
 /external/bazel-contrib-bazel_features
 /external/bazel-skylib
-/external/bazelbuild-apple_support
 /external/bazelbuild-bazel-central-registry
 /external/bazelbuild-platforms
 /external/bazelbuild-rules_cc
-/external/bazelbuild-rules_java
 /external/bazelbuild-rules_license
 /external/bazelbuild-rules_pkg
 /external/bazelbuild-rules_python
