@@ -23,7 +23,6 @@
 /external/rust/crates/zune-inflate
 /external/zlib
 /external/zopfli
-/hardware/interfaces
 /prebuilts/build-tools
 /prebuilts/clang-tools
 /prebuilts/clang/host/linux-x86
