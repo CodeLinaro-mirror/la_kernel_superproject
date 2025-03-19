@@ -15,14 +15,6 @@
 	branch = main
 	path = build/make
 	url = ../../platform/build
-[submodule "platform/build/bazel"]
-	branch = main
-	path = build/bazel
-	url = ../../platform/build/bazel
-[submodule "platform/build/bazel_common_rules"]
-	branch = main
-	path = build/bazel_common_rules
-	url = ../../platform/build/bazel_common_rules
 [submodule "platform/build/blueprint"]
 	branch = main
 	path = build/blueprint
@@ -39,38 +31,6 @@
 	branch = main
 	path = external/avb
 	url = ../../platform/external/avb
-[submodule "platform/external/bazel-skylib"]
-	branch = main
-	path = external/bazel-skylib
-	url = ../../platform/external/bazel-skylib
-[submodule "platform/external/bazelbuild-kotlin-rules"]
-	branch = main
-	path = external/bazelbuild-kotlin-rules
-	url = ../../platform/external/bazelbuild-kotlin-rules
-[submodule "platform/external/bazelbuild-rules_android"]
-	branch = main
-	path = external/bazelbuild-rules_android
-	url = ../../platform/external/bazelbuild-rules_android
-[submodule "platform/external/bazelbuild-rules_go"]
-	branch = main
-	path = external/bazelbuild-rules_go
-	url = ../../platform/external/bazelbuild-rules_go
-[submodule "platform/external/bazelbuild-rules_java"]
-	branch = main
-	path = external/bazelbuild-rules_java
-	url = ../../platform/external/bazelbuild-rules_java
-[submodule "platform/external/bazelbuild-rules_license"]
-	branch = main
-	path = external/bazelbuild-rules_license
-	url = ../../platform/external/bazelbuild-rules_license
-[submodule "platform/external/bazelbuild-rules_python"]
-	branch = main
-	path = external/bazelbuild-rules_python
-	url = ../../platform/external/bazelbuild-rules_python
-[submodule "platform/external/bazelbuild-rules_rust"]
-	branch = main
-	path = external/bazelbuild-rules_rust
-	url = ../../platform/external/bazelbuild-rules_rust
 [submodule "platform/external/boringssl"]
 	branch = main
 	path = external/boringssl
@@ -211,21 +171,6 @@
 	branch = main
 	path = external/zstd
 	url = ../../platform/external/zstd
-[submodule "platform/prebuilts/bazel/common"]
-	branch = main
-	shallow = true
-	path = prebuilts/bazel/common
-	url = ../../platform/prebuilts/bazel/common
-[submodule "platform/prebuilts/bazel/darwin-x86_64"]
-	branch = main
-	shallow = true
-	path = prebuilts/bazel/darwin-x86_64
-	url = ../../platform/prebuilts/bazel/darwin-x86_64
-[submodule "platform/prebuilts/bazel/linux-x86_64"]
-	branch = main
-	shallow = true
-	path = prebuilts/bazel/linux-x86_64
-	url = ../../platform/prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/build-tools"]
 	branch = main
 	shallow = true
