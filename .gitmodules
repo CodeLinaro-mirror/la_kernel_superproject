@@ -31,10 +31,6 @@
 	branch = main
 	path = kernel/tests
 	url = ../tests
-[submodule "platform/build/bazel_common_rules"]
-	branch = main
-	path = build/bazel_common_rules
-	url = ../../platform/build/bazel_common_rules
 [submodule "platform/external/bazel-contrib-bazel_features"]
 	branch = main
 	path = external/bazel-contrib-bazel_features
