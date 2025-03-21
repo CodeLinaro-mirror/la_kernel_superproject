@@ -1,5 +1,4 @@
 /prebuilts/kernel-build-tools
-/tools/interceptor
 /bionic
 /build/make pdk
 /build/blueprint
