@@ -1,5 +1,4 @@
 /prebuilts/kernel-build-tools
-/bionic
 /build/make pdk
 /build/blueprint
 /build/soong
