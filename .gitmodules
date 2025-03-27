@@ -197,11 +197,6 @@
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../../platform/prebuilts/jdk/jdk11
-[submodule "platform/prebuilts/ninja/linux-x86"]
-	branch = main
-	shallow = true
-	path = prebuilts/ninja/linux-x86
-	url = ../../platform/prebuilts/ninja/linux-x86
 [submodule "platform/system/core"]
 	branch = main
 	path = system/core
