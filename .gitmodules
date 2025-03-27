@@ -4,7 +4,7 @@
 	path = prebuilts/kernel-build-tools
 	url = ../prebuilts/build-tools
 [submodule "platform/bootable/libbootloader"]
-	branch = main
+	branch = gbl-mainline
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
 [submodule "platform/bootable/recovery"]
