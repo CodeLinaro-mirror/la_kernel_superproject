@@ -18,10 +18,6 @@
 	branch = android16-6.12
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
-[submodule "kernel/configs"]
-	branch = main
-	path = kernel/configs
-	url = ../configs
 [submodule "kernel/prebuilts/build-tools"]
 	branch = main
 	shallow = true

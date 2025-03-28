@@ -3,7 +3,6 @@
 /common-modules/binder
 /common-modules/trusty
 /common-modules/virtual-device
-/kernel/configs
 /prebuilts/kernel-build-tools ddk
 /kernel/tests
 /external/bazel-contrib-bazel_features ddk-external
