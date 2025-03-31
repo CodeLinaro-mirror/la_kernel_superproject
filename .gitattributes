@@ -2,7 +2,6 @@
 /common
 /common-modules/trusty
 /common-modules/virtual-device
-/kernel/common-patches
 /prebuilts/kernel-build-tools ddk
 /kernel/tests
 /external/bazel-contrib-bazel_features ddk-external
