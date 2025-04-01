@@ -7,13 +7,11 @@
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
+	ref = android15-6.6
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
-[submodule "kernel/common-patches"]
-	branch = main
-	path = kernel/common-patches
-	url = ../common-patches
 [submodule "kernel/configs"]
+	ref = main
 	path = kernel/configs
 	url = ../configs
 [submodule "kernel/prebuilts/build-tools"]
@@ -117,6 +115,7 @@
 	path = prebuilts/clang-tools
 	url = ../../platform/prebuilts/clang-tools
 [submodule "platform/prebuilts/clang/host/linux-x86"]
+	ref = main-kernel
 	path = prebuilts/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
@@ -125,9 +124,11 @@
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../../platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/jdk/jdk11"]
+	ref = main-kernel
 	path = prebuilts/jdk/jdk11
 	url = ../../platform/prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/rust"]
+	ref = main-kernel
 	path = prebuilts/rust
 	url = ../../platform/prebuilts/rust
 [submodule "platform/system/tools/mkbootimg"]
