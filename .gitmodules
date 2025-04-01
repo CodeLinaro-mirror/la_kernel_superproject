@@ -14,10 +14,6 @@
 	branch = android-mainline
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
-[submodule "kernel/common-patches"]
-	branch = main
-	path = kernel/common-patches
-	url = ../common-patches
 [submodule "kernel/configs"]
 	branch = main
 	path = kernel/configs
