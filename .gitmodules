@@ -1,235 +1,235 @@
 [submodule "kernel/prebuilts/build-tools"]
-	branch = main
+	branch = main-kernel
 	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = ../prebuilts/build-tools
 [submodule "platform/bionic"]
-	branch = main
+	branch = main-kernel
 	path = bionic
 	url = ../../platform/bionic
 [submodule "platform/build"]
-	branch = main
+	branch = main-kernel
 	path = build/make
 	url = ../../platform/build
 [submodule "platform/build/blueprint"]
-	branch = main
+	branch = main-kernel
 	path = build/blueprint
 	url = ../../platform/build/blueprint
 [submodule "platform/build/soong"]
-	branch = main
+	branch = main-kernel
 	path = build/soong
 	url = ../../platform/build/soong
 [submodule "platform/external/abseil-cpp"]
-	branch = main
+	branch = main-kernel
 	path = external/abseil-cpp
 	url = ../../platform/external/abseil-cpp
 [submodule "platform/external/avb"]
-	branch = main
+	branch = main-kernel
 	path = external/avb
 	url = ../../platform/external/avb
 [submodule "platform/external/boringssl"]
-	branch = main
+	branch = main-kernel
 	path = external/boringssl
 	url = ../../platform/external/boringssl
 [submodule "platform/external/dtc"]
-	branch = main
+	branch = main-kernel
 	path = external/dtc
 	url = ../../platform/external/dtc
 [submodule "platform/external/dwarves"]
-	branch = main
+	branch = main-kernel
 	path = external/dwarves
 	url = ../../platform/external/dwarves
 [submodule "platform/external/e2fsprogs"]
-	branch = main
+	branch = main-kernel
 	path = external/e2fsprogs
 	url = ../../platform/external/e2fsprogs
 [submodule "platform/external/elfutils"]
-	branch = main
+	branch = main-kernel
 	path = external/elfutils
 	url = ../../platform/external/elfutils
 [submodule "platform/external/erofs-utils"]
-	branch = main
+	branch = main-kernel
 	path = external/erofs-utils
 	url = ../../platform/external/erofs-utils
 [submodule "platform/external/expat"]
-	branch = main
+	branch = main-kernel
 	path = external/expat
 	url = ../../platform/external/expat
 [submodule "platform/external/fec"]
-	branch = main
+	branch = main-kernel
 	path = external/fec
 	url = ../../platform/external/fec
 [submodule "platform/external/fmtlib"]
-	branch = main
+	branch = main-kernel
 	path = external/fmtlib
 	url = ../../platform/external/fmtlib
 [submodule "platform/external/go-cmp"]
-	branch = main
+	branch = main-kernel
 	path = external/go-cmp
 	url = ../../platform/external/go-cmp
 [submodule "platform/external/golang-protobuf"]
-	branch = main
+	branch = main-kernel
 	path = external/golang-protobuf
 	url = ../../platform/external/golang-protobuf
 [submodule "platform/external/icu"]
-	branch = main
+	branch = main-kernel
 	path = external/icu
 	url = ../../platform/external/icu
 [submodule "platform/external/jemalloc_new"]
-	branch = main
+	branch = main-kernel
 	path = external/jemalloc_new
 	url = ../../platform/external/jemalloc_new
 [submodule "platform/external/kmod"]
-	branch = main
+	branch = main-kernel
 	path = external/kmod
 	url = ../../platform/external/kmod
 [submodule "platform/external/libbpf"]
-	branch = main
+	branch = main-kernel
 	path = external/libbpf
 	url = ../../platform/external/libbpf
 [submodule "platform/external/libcxx"]
-	branch = main
+	branch = main-kernel
 	path = external/libcxx
 	url = ../../platform/external/libcxx
 [submodule "platform/external/libcxxabi"]
-	branch = main
+	branch = main-kernel
 	path = external/libcxxabi
 	url = ../../platform/external/libcxxabi
 [submodule "platform/external/libxml2"]
-	branch = main
+	branch = main-kernel
 	path = external/libxml2
 	url = ../../platform/external/libxml2
 [submodule "platform/external/licenseclassifier"]
-	branch = main
+	branch = main-kernel
 	path = external/licenseclassifier
 	url = ../../platform/external/licenseclassifier
 [submodule "platform/external/lz4"]
-	branch = main
+	branch = main-kernel
 	path = external/lz4
 	url = ../../platform/external/lz4
 [submodule "platform/external/musl"]
-	branch = main
+	branch = main-kernel
 	path = external/musl
 	url = ../../platform/external/musl
 [submodule "platform/external/obstack"]
-	branch = main
+	branch = main-kernel
 	path = external/obstack
 	url = ../../platform/external/obstack
 [submodule "platform/external/pcre"]
-	branch = main
+	branch = main-kernel
 	path = external/pcre
 	url = ../../platform/external/pcre
 [submodule "platform/external/protobuf"]
-	branch = main
+	branch = main-kernel
 	path = external/protobuf
 	url = ../../platform/external/protobuf
 [submodule "platform/external/python/cpython3"]
-	branch = main
+	branch = main-kernel
 	path = external/python/cpython3
 	url = ../../platform/external/python/cpython3
 [submodule "platform/external/python/six"]
-	branch = main
+	branch = main-kernel
 	path = external/python/six
 	url = ../../platform/external/python/six
 [submodule "platform/external/selinux"]
-	branch = main
+	branch = main-kernel
 	path = external/selinux
 	url = ../../platform/external/selinux
 [submodule "platform/external/spdx-tools"]
-	branch = main
+	branch = main-kernel
 	path = external/spdx-tools
 	url = ../../platform/external/spdx-tools
 [submodule "platform/external/sqlite"]
-	branch = main
+	branch = main-kernel
 	path = external/sqlite
 	url = ../../platform/external/sqlite
 [submodule "platform/external/squashfs-tools"]
-	branch = main
+	branch = main-kernel
 	path = external/squashfs-tools
 	url = ../../platform/external/squashfs-tools
 [submodule "platform/external/starlark-go"]
-	branch = main
+	branch = main-kernel
 	path = external/starlark-go
 	url = ../../platform/external/starlark-go
 [submodule "platform/external/stg"]
-	branch = main
+	branch = main-kernel
 	path = external/stg
 	url = ../../platform/external/stg
 [submodule "platform/external/swig"]
-	branch = main
+	branch = main-kernel
 	path = external/swig
 	url = ../../platform/external/swig
 [submodule "platform/external/zlib"]
-	branch = main
+	branch = main-kernel
 	path = external/zlib
 	url = ../../platform/external/zlib
 [submodule "platform/external/zstd"]
-	branch = main
+	branch = main-kernel
 	path = external/zstd
 	url = ../../platform/external/zstd
 [submodule "platform/prebuilts/build-tools"]
-	branch = main
+	branch = main-kernel
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../../platform/prebuilts/build-tools
 [submodule "platform/prebuilts/clang-tools"]
-	branch = main
+	branch = main-kernel
 	shallow = true
 	path = prebuilts/clang-tools
 	url = ../../platform/prebuilts/clang-tools
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = main
+	branch = main-kernel
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
-	branch = main
+	branch = main-kernel
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../../platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/go/linux-x86"]
-	branch = main
+	branch = main-kernel
 	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../../platform/prebuilts/go/linux-x86
 [submodule "platform/prebuilts/jdk/jdk11"]
-	branch = main
+	branch = main-kernel
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../../platform/prebuilts/jdk/jdk11
 [submodule "platform/system/core"]
-	branch = main
+	branch = main-kernel
 	path = system/core
 	url = ../../platform/system/core
 [submodule "platform/system/extras"]
-	branch = main
+	branch = main-kernel
 	path = system/extras
 	url = ../../platform/system/extras
 [submodule "platform/system/libbase"]
-	branch = main
+	branch = main-kernel
 	path = system/libbase
 	url = ../../platform/system/libbase
 [submodule "platform/system/libufdt"]
-	branch = main
+	branch = main-kernel
 	path = tools/libufdt
 	url = ../../platform/system/libufdt
 [submodule "platform/system/logging"]
-	branch = main
+	branch = main-kernel
 	path = system/logging
 	url = ../../platform/system/logging
 [submodule "platform/system/security"]
-	branch = main
+	branch = main-kernel
 	path = system/security
 	url = ../../platform/system/security
 [submodule "platform/system/tools/aidl"]
-	branch = main
+	branch = main-kernel
 	path = system/tools/aidl
 	url = ../../platform/system/tools/aidl
 [submodule "platform/system/tools/mkbootimg"]
-	branch = main
+	branch = main-kernel
 	path = system/tools/mkbootimg
 	url = ../../platform/system/tools/mkbootimg
 [submodule "platform/tools/external_updater"]
-	branch = main
+	branch = main-kernel
 	path = tools/external_updater
 	url = ../../platform/tools/external_updater
