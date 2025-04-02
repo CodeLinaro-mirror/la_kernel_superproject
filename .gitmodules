@@ -59,6 +59,10 @@
 	branch = main-kernel
 	path = external/bazelbuild-rules_shell
 	url = ../../platform/external/bazelbuild-rules_shell
+[submodule "platform/external/boringssl"]
+	branch = main-kernel
+	path = external/boringssl
+	url = ../../platform/external/boringssl
 [submodule "platform/external/compiler-rt"]
 	branch = main-kernel
 	path = external/compiler-rt
@@ -75,6 +79,10 @@
 	branch = main-kernel
 	path = external/googletest
 	url = ../../platform/external/googletest
+[submodule "platform/external/open-dice"]
+	branch = main-kernel
+	path = external/open-dice
+	url = ../../platform/external/open-dice
 [submodule "platform/external/pigz"]
 	branch = main-kernel
 	path = external/pigz

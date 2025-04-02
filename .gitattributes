@@ -13,10 +13,12 @@
 /external/bazelbuild-rules_python
 /external/bazelbuild-rules_rust
 /external/bazelbuild-rules_shell
+/external/boringssl
 /external/compiler-rt
 /external/dtc
 /external/elfutils
 /external/googletest
+/external/open-dice
 /external/pigz
 /external/rust/android-crates-io
 /external/rust/crates/smoltcp
