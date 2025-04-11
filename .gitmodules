@@ -63,6 +63,10 @@
 	branch = main-kernel
 	path = external/bazelbuild-rules_shell
 	url = ../../platform/external/bazelbuild-rules_shell
+[submodule "platform/external/kmod"]
+	branch = main-kernel
+	path = external/kmod
+	url = ../../platform/external/kmod
 [submodule "platform/external/libcap"]
 	branch = main-kernel
 	path = external/libcap

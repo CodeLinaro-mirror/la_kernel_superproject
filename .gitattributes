@@ -14,6 +14,7 @@
 /external/bazelbuild-rules_python ddk-external
 /external/bazelbuild-rules_rust ddk-external
 /external/bazelbuild-rules_shell ddk-external
+/external/kmod ddk
 /external/libcap
 /external/libcap-ng
 /test/ltp
