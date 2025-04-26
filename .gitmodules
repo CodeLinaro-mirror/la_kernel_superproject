@@ -27,6 +27,22 @@
 	branch = main-kernel
 	path = kernel/tests
 	url = ../tests
+[submodule "platform/bootable/libbootloader"]
+	branch = gbl-mainline
+	path = bootable/libbootloader
+	url = ../../platform/bootable/libbootloader
+[submodule "platform/bootable/recovery"]
+	branch = gbl-mainline
+	path = bootable/recovery
+	url = ../../platform/bootable/recovery
+[submodule "platform/external/arm-trusted-firmware"]
+	branch = main-kernel
+	path = external/arm-trusted-firmware
+	url = ../../platform/external/arm-trusted-firmware
+[submodule "platform/external/avb"]
+	branch = main-kernel
+	path = external/avb
+	url = ../../platform/external/avb
 [submodule "platform/external/bazel-contrib-bazel_features"]
 	branch = main-kernel
 	path = external/bazel-contrib-bazel_features
@@ -67,6 +83,26 @@
 	branch = main-kernel
 	path = external/bazelbuild-rules_shell
 	url = ../../platform/external/bazelbuild-rules_shell
+[submodule "platform/external/boringssl"]
+	branch = main-kernel
+	path = external/boringssl
+	url = ../../platform/external/boringssl
+[submodule "platform/external/compiler-rt"]
+	branch = main-kernel
+	path = external/compiler-rt
+	url = ../../platform/external/compiler-rt
+[submodule "platform/external/dtc"]
+	branch = main-kernel
+	path = external/dtc
+	url = ../../platform/external/dtc
+[submodule "platform/external/elfutils"]
+	branch = main-kernel
+	path = external/elfutils
+	url = ../../platform/external/elfutils
+[submodule "platform/external/googletest"]
+	branch = main-kernel
+	path = external/googletest
+	url = ../../platform/external/googletest
 [submodule "platform/external/libcap"]
 	branch = main-kernel
 	path = external/libcap
@@ -83,6 +119,10 @@
 	branch = main-kernel
 	path = external/lz4
 	url = ../../platform/external/lz4
+[submodule "platform/external/open-dice"]
+	branch = main-kernel
+	path = external/open-dice
+	url = ../../platform/external/open-dice
 [submodule "platform/external/pigz"]
 	branch = main-kernel
 	path = external/pigz
@@ -91,6 +131,18 @@
 	branch = main-kernel
 	path = external/python/absl-py
 	url = ../../platform/external/python/absl-py
+[submodule "platform/external/rust/android-crates-io"]
+	branch = main-kernel
+	path = external/rust/android-crates-io
+	url = ../../platform/external/rust/android-crates-io
+[submodule "platform/external/rust/crates/smoltcp"]
+	branch = main-kernel
+	path = external/rust/crates/smoltcp
+	url = ../../platform/external/rust/crates/smoltcp
+[submodule "platform/external/rust/crates/zune-inflate"]
+	branch = main-kernel
+	path = external/rust/crates/zune-inflate
+	url = ../../platform/external/rust/crates/zune-inflate
 [submodule "platform/external/toybox"]
 	branch = main-kernel
 	path = external/toybox
@@ -127,6 +179,11 @@
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/fuchsia_sdk"]
+	branch = main-kernel
+	shallow = true
+	path = prebuilts/fuchsia_sdk
+	url = ../../platform/prebuilts/fuchsia_sdk
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
 	branch = main-kernel
 	shallow = true
@@ -142,6 +199,14 @@
 	shallow = true
 	path = prebuilts/rust
 	url = ../../platform/prebuilts/rust
+[submodule "platform/system/core"]
+	branch = main-kernel
+	path = system/core
+	url = ../../platform/system/core
+[submodule "platform/system/libufdt"]
+	branch = main-kernel
+	path = external/libufdt
+	url = ../../platform/system/libufdt
 [submodule "platform/system/tools/mkbootimg"]
 	branch = main-kernel
 	path = tools/mkbootimg
