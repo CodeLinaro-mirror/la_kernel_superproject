@@ -1,5 +1,6 @@
 /build/kernel ddk
 /common
+/common-modules/trusty
 /common-modules/virtual-device
 /kernel/configs
 /prebuilts/kernel-build-tools ddk
@@ -20,6 +21,7 @@
 /external/pigz ddk
 /external/python/absl-py ddk-external
 /external/toybox ddk
+/common-modules/virtio-media
 /external/zlib ddk
 /external/zopfli ddk
 /prebuilts/asuite
@@ -27,7 +29,7 @@
 /prebuilts/clang-tools
 /prebuilts/clang/host/linux-x86 ddk
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 ddk
-/prebuilts/jdk/jdk11 ddk
+/prebuilts/jdk/jdk11
 /prebuilts/rust
 /tools/mkbootimg
 /prebuilts/tradefed
