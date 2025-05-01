@@ -33,5 +33,4 @@
 /prebuilts/rust
 /tools/mkbootimg
 /prebuilts/tradefed
-/toolchain/pgo-profiles
 /prebuilts/ndk-r26 ddk
