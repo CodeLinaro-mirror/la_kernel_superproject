@@ -4,6 +4,7 @@
 /build/blueprint
 /build/soong
 /external/abseil-cpp
+/external/argp-standalone
 /external/avb
 /external/boringssl
 /external/dtc

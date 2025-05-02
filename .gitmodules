@@ -23,6 +23,10 @@
 	branch = main-kernel
 	path = external/abseil-cpp
 	url = ../../platform/external/abseil-cpp
+[submodule "platform/external/argp-standalone"]
+	branch = main-kernel
+	path = external/argp-standalone
+	url = ../../platform/external/argp-standalone
 [submodule "platform/external/avb"]
 	branch = main-kernel
 	path = external/avb
