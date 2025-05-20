@@ -3,11 +3,11 @@
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android16-6.12
+	branch = android16-6.12-2025-06
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/binder"]
-	branch = android16-6.12
+	ref = android16-6.12
 	path = common-modules/binder
 	url = ../common-modules/binder
 [submodule "kernel/common-modules/trusty"]
@@ -15,7 +15,7 @@
 	path = common-modules/trusty
 	url = ../common-modules/trusty
 [submodule "kernel/common-modules/virtual-device"]
-	branch = android16-6.12
+	ref = android16-6.12
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/prebuilts/build-tools"]
@@ -28,11 +28,11 @@
 	path = kernel/tests
 	url = ../tests
 [submodule "platform/bootable/libbootloader"]
-	branch = gbl-mainline
+	ref = gbl-mainline
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
 [submodule "platform/bootable/recovery"]
-	branch = gbl-mainline
+	ref = gbl-mainline
 	path = bootable/recovery
 	url = ../../platform/bootable/recovery
 [submodule "platform/external/arm-trusted-firmware"]
