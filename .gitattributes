@@ -1,6 +1,5 @@
 /build/kernel ddk
 /common
-/common-modules/binder
 /common-modules/trusty
 /common-modules/virtual-device
 /prebuilts/kernel-build-tools ddk
