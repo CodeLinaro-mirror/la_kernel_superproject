@@ -21,6 +21,7 @@
 /private/google-modules/video/gchips
 /private/google-modules/wlan/bcmdhd4389
 /prebuilts/kernel-build-tools
+/build/bazel_common_rules
 /external/bazel-contrib-bazel_features
 /external/bazel-skylib
 /external/bazelbuild-bazel-central-registry
