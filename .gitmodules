@@ -91,10 +91,6 @@
 	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = https://android.googlesource.com/kernel/prebuilts/build-tools
-[submodule "platform/build/bazel_common_rules"]
-	branch = main
-	path = build/bazel_common_rules
-	url = https://android.googlesource.com/platform/build/bazel_common_rules
 [submodule "platform/external/bazel-contrib-bazel_features"]
 	branch = main-kernel-2025
 	shallow = true
