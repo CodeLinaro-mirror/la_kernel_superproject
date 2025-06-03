@@ -101,6 +101,8 @@
 	path = prebuilts/build-tools
 	url = ../../platform/prebuilts/build-tools
 [submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = main-kernel
+	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
