@@ -11,10 +11,6 @@
 	branch = gbl-mainline
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
-[submodule "platform/build/bazel_common_rules"]
-	branch = main
-	path = build/bazel_common_rules
-	url = ../../platform/build/bazel_common_rules
 [submodule "platform/external/bazel-contrib-bazel_features"]
 	branch = main-kernel
 	path = external/bazel-contrib-bazel_features
@@ -35,10 +31,6 @@
 	branch = main-kernel
 	path = external/bazelbuild-rules_cc
 	url = ../../platform/external/bazelbuild-rules_cc
-[submodule "platform/external/bazelbuild-rules_java"]
-	branch = main
-	path = external/bazelbuild-rules_java
-	url = ../../platform/external/bazelbuild-rules_java
 [submodule "platform/external/bazelbuild-rules_license"]
 	branch = main-kernel
 	path = external/bazelbuild-rules_license

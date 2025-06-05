@@ -1,13 +1,11 @@
 /build/kernel
 /prebuilts/kernel-build-tools
 /bootable/libbootloader
-/build/bazel_common_rules
 /external/bazel-contrib-bazel_features
 /external/bazel-skylib
 /external/bazelbuild-bazel-central-registry
 /external/bazelbuild-platforms
 /external/bazelbuild-rules_cc
-/external/bazelbuild-rules_java
 /external/bazelbuild-rules_license
 /external/bazelbuild-rules_pkg
 /external/bazelbuild-rules_python
