@@ -20,7 +20,7 @@
 /external/bazelbuild-rules_shell ddk-external
 /external/boringssl
 /external/compiler-rt
-/external/dtc
+/external/dtc ddk
 /external/elfutils
 /external/googletest
 /external/kmod ddk
