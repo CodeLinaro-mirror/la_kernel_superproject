@@ -1,0 +1,328 @@
+[submodule "kernel/build"]
+	branch = android-gs-pantah-6.1-android16
+	path = build/kernel
+	url = https://android.googlesource.com/kernel/build
+[submodule "kernel/common"]
+	branch = android-gs-pantah-6.1-android16
+	path = aosp
+	url = https://android.googlesource.com/kernel/common
+[submodule "kernel/configs"]
+	branch = android-gs-pantah-6.1-android16
+	path = kernel/configs
+	url = https://android.googlesource.com/kernel/configs
+[submodule "kernel/devices/google/akita"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/akita
+	url = https://android.googlesource.com/kernel/devices/google/akita
+[submodule "kernel/devices/google/bluejay"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/bluejay
+	url = https://android.googlesource.com/kernel/devices/google/bluejay
+[submodule "kernel/devices/google/caimito"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/caimito
+	url = https://android.googlesource.com/kernel/devices/google/caimito
+[submodule "kernel/devices/google/comet"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/comet
+	url = https://android.googlesource.com/kernel/devices/google/comet
+[submodule "kernel/devices/google/common"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/common
+	url = https://android.googlesource.com/kernel/devices/google/common
+[submodule "kernel/devices/google/felix"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/felix
+	url = https://android.googlesource.com/kernel/devices/google/felix
+[submodule "kernel/devices/google/gs101"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/gs101
+	url = https://android.googlesource.com/kernel/devices/google/gs101
+[submodule "kernel/devices/google/gs201"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/gs201
+	url = https://android.googlesource.com/kernel/devices/google/gs201
+[submodule "kernel/devices/google/lynx"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/lynx
+	url = https://android.googlesource.com/kernel/devices/google/lynx
+[submodule "kernel/devices/google/pantah"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/pantah
+	url = https://android.googlesource.com/kernel/devices/google/pantah
+[submodule "kernel/devices/google/raviole"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/raviole
+	url = https://android.googlesource.com/kernel/devices/google/raviole
+[submodule "kernel/devices/google/shusky"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/shusky
+	url = https://android.googlesource.com/kernel/devices/google/shusky
+[submodule "kernel/devices/google/tangorpro"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/tangorpro
+	url = https://android.googlesource.com/kernel/devices/google/tangorpro
+[submodule "kernel/devices/google/tegu"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/tegu
+	url = https://android.googlesource.com/kernel/devices/google/tegu
+[submodule "kernel/devices/google/zuma"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/zuma
+	url = https://android.googlesource.com/kernel/devices/google/zuma
+[submodule "kernel/devices/google/zumapro"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/devices/google/zumapro
+	url = https://android.googlesource.com/kernel/devices/google/zumapro
+[submodule "kernel/google-modules/amplifiers"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/amplifiers
+	url = https://android.googlesource.com/kernel/google-modules/amplifiers
+[submodule "kernel/google-modules/aoc"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/aoc
+	url = https://android.googlesource.com/kernel/google-modules/aoc
+[submodule "kernel/google-modules/aoc-ipc"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/aoc_ipc
+	url = https://android.googlesource.com/kernel/google-modules/aoc-ipc
+[submodule "kernel/google-modules/bluetooth/broadcom"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/bluetooth/broadcom
+	url = https://android.googlesource.com/kernel/google-modules/bluetooth/broadcom
+[submodule "kernel/google-modules/bluetooth/qcom"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/bluetooth/qcom
+	url = https://android.googlesource.com/kernel/google-modules/bluetooth/qcom
+[submodule "kernel/google-modules/bms"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/bms
+	url = https://android.googlesource.com/kernel/google-modules/bms
+[submodule "kernel/google-modules/display/common"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/display/common
+	url = https://android.googlesource.com/kernel/google-modules/display/common
+[submodule "kernel/google-modules/display/panels/caimito"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/display/panels/caimito
+	url = https://android.googlesource.com/kernel/google-modules/display/panels/caimito
+[submodule "kernel/google-modules/display/panels/tegu"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/display/panels/tegu
+	url = https://android.googlesource.com/kernel/google-modules/display/panels/tegu
+[submodule "kernel/google-modules/display/samsung"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/display/samsung
+	url = https://android.googlesource.com/kernel/google-modules/display/samsung
+[submodule "kernel/google-modules/edgetpu/abrolhos"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/edgetpu/abrolhos
+	url = https://android.googlesource.com/kernel/google-modules/edgetpu/abrolhos
+[submodule "kernel/google-modules/edgetpu/janeiro"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/edgetpu/janeiro
+	url = https://android.googlesource.com/kernel/google-modules/edgetpu/janeiro
+[submodule "kernel/google-modules/edgetpu/rio"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/edgetpu/rio
+	url = https://android.googlesource.com/kernel/google-modules/edgetpu/rio
+[submodule "kernel/google-modules/fingerprint/fpc"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/fingerprint/fpc
+	url = https://android.googlesource.com/kernel/google-modules/fingerprint/fpc
+[submodule "kernel/google-modules/fingerprint/goodix"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/fingerprint/goodix
+	url = https://android.googlesource.com/kernel/google-modules/fingerprint/goodix
+[submodule "kernel/google-modules/fingerprint/qcom/qfs4008"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/fingerprint/qcom/qfs4008
+	url = https://android.googlesource.com/kernel/google-modules/fingerprint/qcom/qfs4008
+[submodule "kernel/google-modules/gps/broadcom/bcm47765"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/gps/broadcom/bcm47765
+	url = https://android.googlesource.com/kernel/google-modules/gps/broadcom/bcm47765
+[submodule "kernel/google-modules/gpu"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/gpu
+	url = https://android.googlesource.com/kernel/google-modules/gpu
+[submodule "kernel/google-modules/gxp/gs201"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/gxp/gs201
+	url = https://android.googlesource.com/kernel/google-modules/gxp/gs201
+[submodule "kernel/google-modules/gxp/zuma"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/gxp/zuma
+	url = https://android.googlesource.com/kernel/google-modules/gxp/zuma
+[submodule "kernel/google-modules/hdcp/samsung"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/hdcp/samsung
+	url = https://android.googlesource.com/kernel/google-modules/hdcp/samsung
+[submodule "kernel/google-modules/lwis"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/lwis
+	url = https://android.googlesource.com/kernel/google-modules/lwis
+[submodule "kernel/google-modules/misc"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/misc
+	url = https://android.googlesource.com/kernel/google-modules/misc
+[submodule "kernel/google-modules/nfc"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/nfc
+	url = https://android.googlesource.com/kernel/google-modules/nfc
+[submodule "kernel/google-modules/perf"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/perf
+	url = https://android.googlesource.com/kernel/google-modules/perf
+[submodule "kernel/google-modules/power/mitigation"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/power/mitigation
+	url = https://android.googlesource.com/kernel/google-modules/power/mitigation
+[submodule "kernel/google-modules/power/reset"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/power/reset
+	url = https://android.googlesource.com/kernel/google-modules/power/reset
+[submodule "kernel/google-modules/radio/samsung/s5300"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/radio/samsung/s5300
+	url = https://android.googlesource.com/kernel/google-modules/radio/samsung/s5300
+[submodule "kernel/google-modules/radio/samsung/s5400"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/radio/samsung/s5400
+	url = https://android.googlesource.com/kernel/google-modules/radio/samsung/s5400
+[submodule "kernel/google-modules/sensors/hall_sensor"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/sensors/hall_sensor
+	url = https://android.googlesource.com/kernel/google-modules/sensors/hall_sensor
+[submodule "kernel/google-modules/soc/gs"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/soc/gs
+	url = https://android.googlesource.com/kernel/google-modules/soc/gs
+[submodule "kernel/google-modules/touch/common"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/touch/common
+	url = https://android.googlesource.com/kernel/google-modules/touch/common
+[submodule "kernel/google-modules/touch/focaltech_touch"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/touch/focaltech
+	url = https://android.googlesource.com/kernel/google-modules/touch/focaltech_touch
+[submodule "kernel/google-modules/touch/fts_touch"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/touch/fts
+	url = https://android.googlesource.com/kernel/google-modules/touch/fts_touch
+[submodule "kernel/google-modules/touch/goodix_touch"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/touch/goodix
+	url = https://android.googlesource.com/kernel/google-modules/touch/goodix_touch
+[submodule "kernel/google-modules/touch/novatek_touch"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/touch/novatek
+	url = https://android.googlesource.com/kernel/google-modules/touch/novatek_touch
+[submodule "kernel/google-modules/touch/sec_touch"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/touch/sec
+	url = https://android.googlesource.com/kernel/google-modules/touch/sec_touch
+[submodule "kernel/google-modules/touch/synaptics_touch"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/touch/synaptics
+	url = https://android.googlesource.com/kernel/google-modules/touch/synaptics_touch
+[submodule "kernel/google-modules/trusty"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/trusty
+	url = https://android.googlesource.com/kernel/google-modules/trusty
+[submodule "kernel/google-modules/typec"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/typec
+	url = https://android.googlesource.com/kernel/google-modules/typec
+[submodule "kernel/google-modules/uwb/qorvo/dw3000"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/uwb/qorvo/dw3000
+	url = https://android.googlesource.com/kernel/google-modules/uwb/qorvo/dw3000
+[submodule "kernel/google-modules/uwb/qorvo/qm35"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/uwb/qorvo/qm35
+	url = https://android.googlesource.com/kernel/google-modules/uwb/qorvo/qm35
+[submodule "kernel/google-modules/video/gchips"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/video/gchips
+	url = https://android.googlesource.com/kernel/google-modules/video/gchips
+[submodule "kernel/google-modules/wlan/bcmdhd/bcm4383"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/wlan/bcm4383
+	url = https://android.googlesource.com/kernel/google-modules/wlan/bcmdhd/bcm4383
+[submodule "kernel/google-modules/wlan/bcmdhd/bcm4389"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/wlan/bcm4389
+	url = https://android.googlesource.com/kernel/google-modules/wlan/bcmdhd/bcm4389
+[submodule "kernel/google-modules/wlan/bcmdhd/bcm4390"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/wlan/bcm4390
+	url = https://android.googlesource.com/kernel/google-modules/wlan/bcmdhd/bcm4390
+[submodule "kernel/google-modules/wlan/bcmdhd/bcm4398"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/wlan/bcm4398
+	url = https://android.googlesource.com/kernel/google-modules/wlan/bcmdhd/bcm4398
+[submodule "kernel/google-modules/wlan/qcom/wcn6740/cnss2"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/wlan/wcn6740/cnss2
+	url = https://android.googlesource.com/kernel/google-modules/wlan/qcom/wcn6740/cnss2
+[submodule "kernel/google-modules/wlan/qcom/wcn6740/wlan"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/wlan/wcn6740/wlan
+	url = https://android.googlesource.com/kernel/google-modules/wlan/qcom/wcn6740/wlan
+[submodule "kernel/google-modules/wlan/syna/dhd43752p"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/wlan/dhd43752p
+	url = https://android.googlesource.com/kernel/google-modules/wlan/syna/dhd43752p
+[submodule "kernel/google-modules/wlan/wlan_ptracker"]
+	branch = android-gs-pantah-6.1-android16
+	path = private/google-modules/wlan/wlan_ptracker
+	url = https://android.googlesource.com/kernel/google-modules/wlan/wlan_ptracker
+[submodule "kernel/prebuilts/build-tools"]
+	branch = android-gs-pantah-6.1-android16
+	path = prebuilts/kernel-build-tools
+	url = https://android.googlesource.com/kernel/prebuilts/build-tools
+[submodule "platform/build/bazel_common_rules"]
+	branch = android-gs-pantah-6.1-android16
+	path = build/bazel_common_rules
+	url = https://android.googlesource.com/platform/build/bazel_common_rules
+[submodule "platform/external/bazel-skylib"]
+	branch = android-gs-pantah-6.1-android16
+	path = external/bazel-skylib
+	url = https://android.googlesource.com/platform/external/bazel-skylib
+[submodule "platform/external/python/absl-py"]
+	branch = android-gs-pantah-6.1-android16
+	path = external/python/absl-py
+	url = https://android.googlesource.com/platform/external/python/absl-py
+[submodule "platform/external/stardoc"]
+	branch = android-gs-pantah-6.1-android16
+	path = external/stardoc
+	url = https://android.googlesource.com/platform/external/stardoc
+[submodule "platform/prebuilts/bazel/linux-x86_64"]
+	branch = android-gs-pantah-6.1-android16
+	path = prebuilts/bazel/linux-x86_64
+	url = https://android.googlesource.com/platform/prebuilts/bazel/linux-x86_64
+[submodule "platform/prebuilts/build-tools"]
+	branch = android-gs-pantah-6.1-android16
+	path = prebuilts/build-tools
+	url = https://android.googlesource.com/platform/prebuilts/build-tools
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = android-gs-pantah-6.1-android16
+	path = prebuilts/clang/host/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	branch = android-gs-pantah-6.1-android16
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+[submodule "platform/prebuilts/jdk/jdk11"]
+	branch = android-gs-pantah-6.1-android16
+	path = prebuilts/jdk/jdk11
+	url = https://android.googlesource.com/platform/prebuilts/jdk/jdk11
+[submodule "platform/system/tools/mkbootimg"]
+	branch = android-gs-pantah-6.1-android16
+	path = tools/mkbootimg
+	url = https://android.googlesource.com/platform/system/tools/mkbootimg
+[submodule "toolchain/prebuilts/ndk/r23"]
+	branch = android-gs-pantah-6.1-android16
+	path = prebuilts/ndk-r23
+	url = https://android.googlesource.com/toolchain/prebuilts/ndk/r23
