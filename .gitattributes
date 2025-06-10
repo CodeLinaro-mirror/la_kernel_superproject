@@ -1,0 +1,82 @@
+/build/kernel partner
+/aosp partner
+/kernel/configs
+/private/devices/google/akita partner akita
+/private/devices/google/bluejay partner bluejay
+/private/devices/google/caimito partner caimito
+/private/devices/google/comet partner comet
+/private/devices/google/common partner
+/private/devices/google/felix felix partner
+/private/devices/google/gs101 partner
+/private/devices/google/gs201 partner
+/private/devices/google/lynx partner lynx
+/private/devices/google/pantah partner pantah
+/private/devices/google/raviole partner raviole
+/private/devices/google/shusky partner shusky
+/private/devices/google/tangorpro tangorpro partner
+/private/devices/google/tegu partner tegu
+/private/devices/google/zuma partner
+/private/devices/google/zumapro partner
+/private/google-modules/amplifiers partner
+/private/google-modules/aoc partner
+/private/google-modules/aoc_ipc partner
+/private/google-modules/bluetooth/broadcom partner
+/private/google-modules/bluetooth/qcom partner
+/private/google-modules/bms partner
+/private/google-modules/display/common partner
+/private/google-modules/display/panels/caimito partner
+/private/google-modules/display/panels/tegu partner
+/private/google-modules/display/samsung partner
+/private/google-modules/edgetpu/abrolhos partner
+/private/google-modules/edgetpu/janeiro partner
+/private/google-modules/edgetpu/rio partner
+/private/google-modules/fingerprint/fpc partner
+/private/google-modules/fingerprint/goodix partner
+/private/google-modules/fingerprint/qcom/qfs4008 partner
+/private/google-modules/gps/broadcom/bcm47765 partner
+/private/google-modules/gpu partner
+/private/google-modules/gxp/gs201 partner
+/private/google-modules/gxp/zuma partner
+/private/google-modules/hdcp/samsung partner
+/private/google-modules/lwis partner
+/private/google-modules/misc partner
+/private/google-modules/nfc partner
+/private/google-modules/perf partner
+/private/google-modules/power/mitigation partner
+/private/google-modules/power/reset partner
+/private/google-modules/radio/samsung/s5300 partner
+/private/google-modules/radio/samsung/s5400 partner
+/private/google-modules/sensors/hall_sensor partner
+/private/google-modules/soc/gs partner
+/private/google-modules/touch/common partner
+/private/google-modules/touch/focaltech partner
+/private/google-modules/touch/fts partner
+/private/google-modules/touch/goodix partner
+/private/google-modules/touch/novatek partner
+/private/google-modules/touch/sec partner
+/private/google-modules/touch/synaptics partner
+/private/google-modules/trusty partner
+/private/google-modules/typec partner
+/private/google-modules/uwb/qorvo/dw3000 partner
+/private/google-modules/uwb/qorvo/qm35 partner
+/private/google-modules/video/gchips partner
+/private/google-modules/wlan/bcm4383 partner
+/private/google-modules/wlan/bcm4389 partner
+/private/google-modules/wlan/bcm4390 partner
+/private/google-modules/wlan/bcm4398 partner
+/private/google-modules/wlan/wcn6740/cnss2 partner
+/private/google-modules/wlan/wcn6740/wlan partner
+/private/google-modules/wlan/dhd43752p partner
+/private/google-modules/wlan/wlan_ptracker partner
+/prebuilts/kernel-build-tools partner
+/build/bazel_common_rules partner
+/external/bazel-skylib partner
+/external/python/absl-py partner
+/external/stardoc partner
+/prebuilts/bazel/linux-x86_64 partner
+/prebuilts/build-tools partner
+/prebuilts/clang/host/linux-x86 partner
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 partner
+/prebuilts/jdk/jdk11 partner
+/tools/mkbootimg partner
+/prebuilts/ndk-r23 partner
