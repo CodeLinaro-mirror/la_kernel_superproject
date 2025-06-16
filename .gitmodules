@@ -3,11 +3,11 @@
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android13-5.10
+	branch = android13-5.10-2025-07
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/virtual-device"]
-	branch = android13-5.10
+	ref = android13-5.10
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/configs"]
@@ -15,7 +15,7 @@
 	path = kernel/configs
 	url = ../configs
 [submodule "kernel/hikey-modules"]
-	branch = android13-5.10
+	ref = android13-5.10
 	path = hikey-modules
 	url = ../hikey-modules
 [submodule "kernel/prebuilts/build-tools"]
