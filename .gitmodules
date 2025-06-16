@@ -3,7 +3,7 @@
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android15-6.6
+	branch = android15-6.6-2025-07
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/trusty"]
@@ -11,7 +11,7 @@
 	path = common-modules/trusty
 	url = ../common-modules/trusty
 [submodule "kernel/common-modules/virtual-device"]
-	branch = android15-6.6
+	ref = android15-6.6
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/configs"]
