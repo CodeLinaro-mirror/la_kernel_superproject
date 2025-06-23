@@ -176,7 +176,7 @@
 	path = prebuilts/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/fuchsia_sdk"]
-	branch = main-kernel-2025
+	branch = gbl-android16
 	shallow = true
 	path = prebuilts/fuchsia_sdk
 	url = ../../platform/prebuilts/fuchsia_sdk
