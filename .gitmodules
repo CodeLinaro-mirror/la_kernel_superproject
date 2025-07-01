@@ -3,7 +3,7 @@
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android16-6.12
+	branch = android16-6.12-kminext
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/trusty"]
