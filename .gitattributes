@@ -13,6 +13,7 @@
 /external/bazelbuild-rules_shell
 /external/compiler-rt
 /external/dtc
+/external/kmod
 /external/lz4
 /external/pigz
 /external/python/absl-py

@@ -59,6 +59,10 @@
 	branch = main-kernel
 	path = external/dtc
 	url = ../../platform/external/dtc
+[submodule "platform/external/kmod"]
+	branch = main-kernel
+	path = external/kmod
+	url = ../../platform/external/kmod
 [submodule "platform/external/lz4"]
 	branch = main-kernel
 	path = external/lz4
