@@ -141,6 +141,16 @@
 	shallow = true
 	path = external/bazelbuild-rules_shell
 	url = https://android.googlesource.com/platform/external/bazelbuild-rules_shell
+[submodule "platform/external/dtc"]
+	branch = main-kernel
+	shallow = true
+	path = external/dtc
+	url = https://android.googlesource.com/platform/external/dtc
+[submodule "platform/external/kmod"]
+	branch = main-kernel
+	shallow = true
+	path = external/kmod
+	url = https://android.googlesource.com/platform/external/kmod
 [submodule "platform/external/libcap"]
 	branch = main-kernel
 	shallow = true

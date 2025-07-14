@@ -31,6 +31,8 @@
 /external/bazelbuild-rules_python
 /external/bazelbuild-rules_rust
 /external/bazelbuild-rules_shell
+/external/dtc
+/external/kmod
 /external/libcap
 /external/libcap-ng
 /external/lz4
