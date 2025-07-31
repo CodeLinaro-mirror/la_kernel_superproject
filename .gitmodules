@@ -15,6 +15,10 @@
 	branch = main-kernel
 	path = external/bazel-contrib-bazel_features
 	url = ../../platform/external/bazel-contrib-bazel_features
+[submodule "platform/external/bazel-contrib-rules_devicetree"]
+	branch = main-kernel
+	path = external/bazel-contrib-rules_devicetree
+	url = ../../platform/external/bazel-contrib-rules_devicetree
 [submodule "platform/external/bazel-skylib"]
 	branch = main-kernel
 	path = external/bazel-skylib

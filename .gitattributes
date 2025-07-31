@@ -2,6 +2,7 @@
 /prebuilts/kernel-build-tools
 /bootable/libbootloader
 /external/bazel-contrib-bazel_features
+/external/bazel-contrib-rules_devicetree
 /external/bazel-skylib
 /external/bazelbuild-bazel-central-registry
 /external/bazelbuild-platforms
