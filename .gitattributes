@@ -10,6 +10,7 @@
 /external/avb
 /external/bazel-contrib-bazel_features ddk-external
 /external/bazel-contrib-rules_devicetree ddk-external
+/external/bazel-contrib-supply-chain ddk-external
 /external/bazel-skylib ddk-external
 /external/bazelbuild-bazel-central-registry ddk-external
 /external/bazelbuild-platforms ddk-external
