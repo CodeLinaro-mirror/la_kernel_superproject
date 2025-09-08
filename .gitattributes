@@ -1,0 +1,58 @@
+/prebuilts/kernel-build-tools
+/bionic
+/build/make pdk
+/build/blueprint
+/build/soong
+/external/abseil-cpp
+/external/argp-standalone
+/external/avb
+/external/boringssl
+/external/dtc
+/external/dwarves
+/external/e2fsprogs
+/external/elfutils
+/external/erofs-utils
+/external/expat
+/external/fec
+/external/fmtlib
+/external/go-cmp pdk
+/external/golang-protobuf
+/external/icu
+/external/jemalloc_new
+/external/kmod
+/external/libbpf
+/external/libcxx
+/external/libcxxabi
+/external/libxml2
+/external/licenseclassifier
+/external/lz4
+/external/musl
+/external/obstack
+/external/pcre
+/external/protobuf
+/external/python/cpython3
+/external/python/six
+/external/selinux
+/external/spdx-tools
+/external/sqlite
+/external/squashfs-tools
+/external/starlark-go
+/external/stg
+/external/swig
+/external/zlib
+/external/zstd
+/prebuilts/build-tools
+/prebuilts/clang-tools
+/prebuilts/clang/host/linux-x86 linux
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+/prebuilts/go/linux-x86 linux
+/prebuilts/jdk/jdk11 pdk
+/system/core
+/system/extras
+/system/libbase
+/tools/libufdt
+/system/logging
+/system/security
+/system/tools/aidl
+/system/tools/mkbootimg
+/tools/external_updater
