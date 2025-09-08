@@ -3,6 +3,7 @@
 /bootable/libbootloader
 /external/bazel-contrib-bazel_features
 /external/bazel-contrib-rules_devicetree
+/external/bazel-contrib-supply-chain
 /external/bazel-skylib
 /external/bazelbuild-bazel-central-registry
 /external/bazelbuild-platforms

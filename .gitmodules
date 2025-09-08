@@ -19,6 +19,10 @@
 	branch = main-kernel
 	path = external/bazel-contrib-rules_devicetree
 	url = ../../platform/external/bazel-contrib-rules_devicetree
+[submodule "platform/external/bazel-contrib-supply-chain"]
+	branch = main-kernel
+	path = external/bazel-contrib-supply-chain
+	url = ../../platform/external/bazel-contrib-supply-chain
 [submodule "platform/external/bazel-skylib"]
 	branch = main-kernel
 	path = external/bazel-skylib
