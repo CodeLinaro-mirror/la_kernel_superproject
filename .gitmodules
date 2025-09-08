@@ -101,6 +101,11 @@
 	shallow = true
 	path = external/bazel-contrib-rules_devicetree
 	url = https://android.googlesource.com/platform/external/bazel-contrib-rules_devicetree
+[submodule "platform/external/bazel-contrib-supply-chain"]
+	branch = main-kernel
+	shallow = true
+	path = external/bazel-contrib-supply-chain
+	url = https://android.googlesource.com/platform/external/bazel-contrib-supply-chain
 [submodule "platform/external/bazel-skylib"]
 	branch = main-kernel
 	shallow = true
