@@ -43,6 +43,14 @@
 	branch = main-kernel
 	path = external/bazel-contrib-bazel_features
 	url = ../../platform/external/bazel-contrib-bazel_features
+[submodule "platform/external/bazel-contrib-rules_devicetree"]
+	branch = main-kernel
+	path = external/bazel-contrib-rules_devicetree
+	url = ../../platform/external/bazel-contrib-rules_devicetree
+[submodule "platform/external/bazel-contrib-supply-chain"]
+	branch = main-kernel
+	path = external/bazel-contrib-supply-chain
+	url = ../../platform/external/bazel-contrib-supply-chain
 [submodule "platform/external/bazel-skylib"]
 	branch = main-kernel
 	path = external/bazel-skylib
@@ -180,7 +188,7 @@
 	path = prebuilts/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/fuchsia_sdk"]
-	branch = main-kernel
+	branch = gbl-mainline
 	shallow = true
 	path = prebuilts/fuchsia_sdk
 	url = ../../platform/prebuilts/fuchsia_sdk
