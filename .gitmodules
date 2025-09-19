@@ -228,8 +228,8 @@
 	shallow = true
 	path = prebuilts/tradefed
 	url = ../../platform/tools/tradefederation/prebuilts
-[submodule "toolchain/prebuilts/ndk/r26"]
+[submodule "toolchain/prebuilts/ndk/r27"]
 	branch = main-kernel
 	shallow = true
-	path = prebuilts/ndk-r26
-	url = ../../toolchain/prebuilts/ndk/r26
+	path = prebuilts/ndk-r27
+	url = ../../toolchain/prebuilts/ndk/r27
