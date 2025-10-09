@@ -5,7 +5,6 @@
 /prebuilts/kernel-build-tools ddk
 /kernel/tests
 /bootable/libbootloader
-/bootable/recovery
 /external/arm-trusted-firmware
 /external/avb
 /external/bazel-contrib-bazel_features ddk-external
@@ -48,7 +47,6 @@
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 ddk
 /prebuilts/jdk/jdk11
 /prebuilts/rust ddk
-/system/core
 /external/libufdt
 /tools/mkbootimg
 /test/dittosuite

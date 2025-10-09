@@ -27,10 +27,6 @@
 	branch = gbl-mainline
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
-[submodule "platform/bootable/recovery"]
-	branch = gbl-mainline
-	path = bootable/recovery
-	url = ../../platform/bootable/recovery
 [submodule "platform/external/arm-trusted-firmware"]
 	branch = main-kernel
 	path = external/arm-trusted-firmware
@@ -207,10 +203,6 @@
 	shallow = true
 	path = prebuilts/rust
 	url = ../../platform/prebuilts/rust
-[submodule "platform/system/core"]
-	branch = main-kernel
-	path = system/core
-	url = ../../platform/system/core
 [submodule "platform/system/libufdt"]
 	branch = main-kernel
 	path = external/libufdt
