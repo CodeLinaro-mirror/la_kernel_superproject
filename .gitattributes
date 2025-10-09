@@ -1,6 +1,5 @@
 /prebuilts/kernel-build-tools
 /bootable/libbootloader
-/bootable/recovery
 /external/arm-trusted-firmware
 /external/avb
 /external/bazel-contrib-bazel_features
@@ -31,6 +30,5 @@
 /prebuilts/fuchsia_sdk
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 /prebuilts/rust
-/system/core
 /external/libufdt
 /tools/mkbootimg
