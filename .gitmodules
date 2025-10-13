@@ -91,6 +91,11 @@
 	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = https://android.googlesource.com/kernel/prebuilts/build-tools
+[submodule "platform/external/avb"]
+	branch = main-kernel
+	shallow = true
+	path = external/avb
+	url = https://android.googlesource.com/platform/external/avb
 [submodule "platform/external/bazel-contrib-bazel_features"]
 	branch = main-kernel
 	shallow = true
