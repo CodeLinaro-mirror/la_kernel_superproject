@@ -6,7 +6,7 @@
 /kernel/tests
 /bootable/libbootloader
 /external/arm-trusted-firmware
-/external/avb
+/external/avb ddk
 /external/bazel-contrib-bazel_features ddk-external
 /external/bazel-contrib-rules_devicetree ddk-external
 /external/bazel-contrib-supply-chain ddk-external
