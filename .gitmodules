@@ -207,10 +207,6 @@
 	branch = main-kernel-2026
 	path = external/libufdt
 	url = ../../platform/system/libufdt
-[submodule "platform/system/tools/mkbootimg"]
-	branch = main-kernel-2026
-	path = tools/mkbootimg
-	url = ../../platform/system/tools/mkbootimg
 [submodule "platform/test/dittosuite"]
 	branch = main-kernel-2026
 	path = test/dittosuite

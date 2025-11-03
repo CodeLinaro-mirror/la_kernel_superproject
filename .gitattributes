@@ -48,7 +48,6 @@
 /prebuilts/jdk/jdk11
 /prebuilts/rust ddk
 /external/libufdt
-/tools/mkbootimg
 /test/dittosuite
 /prebuilts/tradefed
 /prebuilts/ndk-r27 ddk
