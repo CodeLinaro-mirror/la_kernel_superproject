@@ -3,7 +3,7 @@
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android-mainline
+	branch = android17-6.18
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/trusty"]
@@ -11,7 +11,7 @@
 	path = common-modules/trusty
 	url = ../common-modules/trusty
 [submodule "kernel/common-modules/virtual-device"]
-	branch = android-mainline
+	branch = android17-6.18
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/prebuilts/build-tools"]
