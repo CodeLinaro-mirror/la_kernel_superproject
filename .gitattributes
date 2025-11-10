@@ -44,7 +44,6 @@
 /external/toybox
 /external/zlib
 /external/zopfli
-/prebuilts/boot-artifacts
 /prebuilts/build-tools
 /prebuilts/clang-tools
 /prebuilts/clang/host/linux-x86
