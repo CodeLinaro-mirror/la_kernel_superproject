@@ -1,0 +1,53 @@
+/build/kernel ddk
+/common
+/common-modules/trusty
+/common-modules/virtual-device
+/prebuilts/kernel-build-tools ddk
+/kernel/tests
+/bootable/libbootloader
+/bootable/recovery
+/external/arm-trusted-firmware
+/external/avb
+/external/bazel-contrib-bazel_features ddk-external
+/external/bazel-skylib ddk-external
+/external/bazelbuild-bazel-central-registry ddk-external
+/external/bazelbuild-platforms ddk-external
+/external/bazelbuild-rules_cc ddk-external
+/external/bazelbuild-rules_license ddk-external
+/external/bazelbuild-rules_pkg ddk-external
+/external/bazelbuild-rules_python ddk-external
+/external/bazelbuild-rules_rust ddk-external
+/external/bazelbuild-rules_shell ddk-external
+/external/boringssl
+/external/compiler-rt
+/external/dtc
+/external/elfutils
+/external/googletest
+/external/libcap
+/external/libcap-ng
+/test/ltp
+/external/lz4 ddk
+/external/open-dice
+/external/pigz ddk
+/external/python/absl-py ddk-external
+/external/rust/android-crates-io
+/external/rust/crates/smoltcp
+/external/rust/crates/zune-inflate
+/external/toybox ddk
+/common-modules/virtio-media
+/external/zlib ddk
+/external/zopfli ddk
+/prebuilts/asuite
+/prebuilts/build-tools ddk
+/prebuilts/clang-tools ddk
+/prebuilts/clang/host/linux-x86 ddk
+/prebuilts/fuchsia_sdk
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 ddk
+/prebuilts/jdk/jdk11
+/prebuilts/rust ddk
+/system/core
+/external/libufdt
+/tools/mkbootimg
+/test/dittosuite
+/prebuilts/tradefed
+/prebuilts/ndk-r26 ddk
