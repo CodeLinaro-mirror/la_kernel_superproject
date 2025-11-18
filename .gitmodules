@@ -128,11 +128,11 @@
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../../platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
-[submodule "platform/prebuilts/rust"]
+[submodule "platform/prebuilts/rust-toolchain/linux-x86"]
 	branch = main-kernel
 	shallow = true
-	path = prebuilts/rust
-	url = ../../platform/prebuilts/rust
+	path = prebuilts/rust-toolchain/linux-x86
+	url = ../../platform/prebuilts/rust-toolchain/linux-x86
 [submodule "platform/system/libufdt"]
 	branch = main-kernel
 	path = external/libufdt

@@ -29,6 +29,6 @@
 /prebuilts/clang/host/linux-x86
 /prebuilts/fuchsia_sdk
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
-/prebuilts/rust
+/prebuilts/rust-toolchain/linux-x86
 /external/libufdt
 /tools/mkbootimg
