@@ -40,6 +40,7 @@
 /common-modules/virtio-media
 /external/zlib ddk
 /external/zopfli ddk
+/external/zstd ddk
 /prebuilts/asuite
 /prebuilts/build-tools ddk
 /prebuilts/clang-tools ddk

@@ -167,6 +167,10 @@
 	branch = main-kernel
 	path = external/zopfli
 	url = ../../platform/external/zopfli
+[submodule "platform/external/zstd"]
+	branch = main-kernel
+	path = external/zstd
+	url = ../../platform/external/zstd
 [submodule "platform/prebuilts/asuite"]
 	branch = main-kernel
 	shallow = true
