@@ -231,11 +231,11 @@
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = https://android.googlesource.com/platform/prebuilts/jdk/jdk11
-[submodule "platform/prebuilts/rust"]
+[submodule "platform/prebuilts/rust-toolchain/linux-x86"]
 	branch = main-kernel-2026
 	shallow = true
-	path = prebuilts/rust
-	url = https://android.googlesource.com/platform/prebuilts/rust
+	path = prebuilts/rust-toolchain/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/rust-toolchain/linux-x86
 [submodule "platform/system/tools/mkbootimg"]
 	branch = main-kernel-2026
 	shallow = true
