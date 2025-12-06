@@ -202,11 +202,11 @@
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../../platform/prebuilts/jdk/jdk11
-[submodule "platform/prebuilts/rust"]
+[submodule "platform/prebuilts/rust-toolchain/linux-x86"]
 	branch = main-kernel
 	shallow = true
-	path = prebuilts/rust
-	url = ../../platform/prebuilts/rust
+	path = prebuilts/rust-toolchain/linux-x86
+	url = ../../platform/prebuilts/rust-toolchain/linux-x86
 [submodule "platform/system/core"]
 	branch = main-kernel
 	path = system/core
