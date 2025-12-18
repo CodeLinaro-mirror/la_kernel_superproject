@@ -14,6 +14,10 @@
 	branch = android-mainline
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
+[submodule "kernel/devices/google/raviole"]
+	branch = android-gs-raviole-mainline
+	path = devices/google/raviole
+	url = ../devices/google/raviole
 [submodule "kernel/prebuilts/build-tools"]
 	branch = main-kernel
 	shallow = true
@@ -27,10 +31,6 @@
 	branch = gbl-mainline
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
-[submodule "platform/bootable/recovery"]
-	branch = gbl-mainline
-	path = bootable/recovery
-	url = ../../platform/bootable/recovery
 [submodule "platform/external/arm-trusted-firmware"]
 	branch = main-kernel
 	path = external/arm-trusted-firmware
@@ -167,6 +167,10 @@
 	branch = main-kernel
 	path = external/zopfli
 	url = ../../platform/external/zopfli
+[submodule "platform/external/zstd"]
+	branch = main-kernel
+	path = external/zstd
+	url = ../../platform/external/zstd
 [submodule "platform/prebuilts/asuite"]
 	branch = main-kernel
 	shallow = true
@@ -207,18 +211,10 @@
 	shallow = true
 	path = prebuilts/rust-toolchain/linux-x86
 	url = ../../platform/prebuilts/rust-toolchain/linux-x86
-[submodule "platform/system/core"]
-	branch = main-kernel
-	path = system/core
-	url = ../../platform/system/core
 [submodule "platform/system/libufdt"]
 	branch = main-kernel
 	path = external/libufdt
 	url = ../../platform/system/libufdt
-[submodule "platform/system/tools/mkbootimg"]
-	branch = main-kernel
-	path = tools/mkbootimg
-	url = ../../platform/system/tools/mkbootimg
 [submodule "platform/test/dittosuite"]
 	branch = main-kernel
 	path = test/dittosuite
@@ -228,8 +224,8 @@
 	shallow = true
 	path = prebuilts/tradefed
 	url = ../../platform/tools/tradefederation/prebuilts
-[submodule "toolchain/prebuilts/ndk/r26"]
+[submodule "toolchain/prebuilts/ndk/r27"]
 	branch = main-kernel
 	shallow = true
-	path = prebuilts/ndk-r26
-	url = ../../toolchain/prebuilts/ndk/r26
+	path = prebuilts/ndk-r27
+	url = ../../toolchain/prebuilts/ndk/r27

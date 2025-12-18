@@ -2,12 +2,12 @@
 /common
 /common-modules/trusty
 /common-modules/virtual-device
+/devices/google/raviole
 /prebuilts/kernel-build-tools ddk
 /kernel/tests
 /bootable/libbootloader
-/bootable/recovery
 /external/arm-trusted-firmware
-/external/avb
+/external/avb ddk
 /external/bazel-contrib-bazel_features ddk-external
 /external/bazel-contrib-rules_devicetree ddk-external
 /external/bazel-contrib-supply-chain ddk-external
@@ -40,6 +40,7 @@
 /common-modules/virtio-media
 /external/zlib ddk
 /external/zopfli ddk
+/external/zstd ddk
 /prebuilts/asuite
 /prebuilts/build-tools ddk
 /prebuilts/clang-tools ddk
@@ -48,9 +49,7 @@
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 ddk
 /prebuilts/jdk/jdk11
 /prebuilts/rust-toolchain/linux-x86 ddk
-/system/core
 /external/libufdt
-/tools/mkbootimg
 /test/dittosuite
 /prebuilts/tradefed
-/prebuilts/ndk-r26 ddk
+/prebuilts/ndk-r27 ddk
