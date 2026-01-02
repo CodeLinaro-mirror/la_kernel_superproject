@@ -14,6 +14,10 @@
 	branch = android-mainline-riscv64
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
+[submodule "kernel/devices/google/raviole"]
+	branch = android-gs-raviole-mainline
+	path = devices/google/raviole
+	url = ../devices/google/raviole
 [submodule "kernel/prebuilts/build-tools"]
 	branch = main-kernel
 	shallow = true
@@ -27,10 +31,6 @@
 	branch = gbl-mainline
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
-[submodule "platform/bootable/recovery"]
-	branch = gbl-mainline
-	path = bootable/recovery
-	url = ../../platform/bootable/recovery
 [submodule "platform/external/arm-trusted-firmware"]
 	branch = main-kernel
 	path = external/arm-trusted-firmware
@@ -43,6 +43,14 @@
 	branch = main-kernel
 	path = external/bazel-contrib-bazel_features
 	url = ../../platform/external/bazel-contrib-bazel_features
+[submodule "platform/external/bazel-contrib-rules_devicetree"]
+	branch = main-kernel
+	path = external/bazel-contrib-rules_devicetree
+	url = ../../platform/external/bazel-contrib-rules_devicetree
+[submodule "platform/external/bazel-contrib-supply-chain"]
+	branch = main-kernel
+	path = external/bazel-contrib-supply-chain
+	url = ../../platform/external/bazel-contrib-supply-chain
 [submodule "platform/external/bazel-skylib"]
 	branch = main-kernel
 	path = external/bazel-skylib
@@ -159,8 +167,12 @@
 	branch = main-kernel
 	path = external/zopfli
 	url = ../../platform/external/zopfli
+[submodule "platform/external/zstd"]
+	branch = main-kernel
+	path = external/zstd
+	url = ../../platform/external/zstd
 [submodule "platform/prebuilts/asuite"]
-	branch = main
+	branch = main-kernel
 	shallow = true
 	path = prebuilts/asuite
 	url = ../../platform/prebuilts/asuite
@@ -180,7 +192,7 @@
 	path = prebuilts/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/fuchsia_sdk"]
-	branch = main-kernel
+	branch = gbl-mainline
 	shallow = true
 	path = prebuilts/fuchsia_sdk
 	url = ../../platform/prebuilts/fuchsia_sdk
@@ -194,34 +206,26 @@
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../../platform/prebuilts/jdk/jdk11
-[submodule "platform/prebuilts/rust"]
+[submodule "platform/prebuilts/rust-toolchain/linux-x86"]
 	branch = main-kernel
 	shallow = true
-	path = prebuilts/rust
-	url = ../../platform/prebuilts/rust
-[submodule "platform/system/core"]
-	branch = main-kernel
-	path = system/core
-	url = ../../platform/system/core
+	path = prebuilts/rust-toolchain/linux-x86
+	url = ../../platform/prebuilts/rust-toolchain/linux-x86
 [submodule "platform/system/libufdt"]
 	branch = main-kernel
 	path = external/libufdt
 	url = ../../platform/system/libufdt
-[submodule "platform/system/tools/mkbootimg"]
-	branch = main-kernel
-	path = tools/mkbootimg
-	url = ../../platform/system/tools/mkbootimg
 [submodule "platform/test/dittosuite"]
 	branch = main-kernel
 	path = test/dittosuite
 	url = ../../platform/test/dittosuite
 [submodule "platform/tools/tradefederation/prebuilts"]
-	branch = main
+	branch = main-kernel
 	shallow = true
 	path = prebuilts/tradefed
 	url = ../../platform/tools/tradefederation/prebuilts
-[submodule "toolchain/prebuilts/ndk/r26"]
+[submodule "toolchain/prebuilts/ndk/r27"]
 	branch = main-kernel
 	shallow = true
-	path = prebuilts/ndk-r26
-	url = ../../toolchain/prebuilts/ndk/r26
+	path = prebuilts/ndk-r27
+	url = ../../toolchain/prebuilts/ndk/r27
