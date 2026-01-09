@@ -206,6 +206,11 @@
 	shallow = true
 	path = external/zopfli
 	url = https://android.googlesource.com/platform/external/zopfli
+[submodule "platform/external/zstd"]
+	branch = main-kernel
+	shallow = true
+	path = external/zstd
+	url = https://android.googlesource.com/platform/external/zstd
 [submodule "platform/prebuilts/boot-artifacts"]
 	branch = android-gs-raviole-mainline
 	shallow = true
