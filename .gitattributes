@@ -30,6 +30,7 @@
 /external/libcap-ng
 /test/ltp
 /external/lz4 ddk
+/external/mtools
 /external/open-dice
 /external/pigz ddk
 /external/python/absl-py ddk-external
