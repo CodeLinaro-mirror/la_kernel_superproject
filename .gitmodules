@@ -75,6 +75,10 @@
 	branch = main-kernel
 	path = external/googletest
 	url = ../../platform/external/googletest
+[submodule "platform/external/mtools"]
+	branch = main-kernel
+	path = external/mtools
+	url = ../../platform/external/mtools
 [submodule "platform/external/open-dice"]
 	branch = main-kernel
 	path = external/open-dice

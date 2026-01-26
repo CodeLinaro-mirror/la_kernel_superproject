@@ -17,6 +17,7 @@
 /external/dtc
 /external/elfutils
 /external/googletest
+/external/mtools
 /external/open-dice
 /external/pigz
 /external/rust/android-crates-io
