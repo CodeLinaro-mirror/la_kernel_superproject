@@ -127,6 +127,10 @@
 	branch = main-kernel-2026
 	path = external/lz4
 	url = ../../platform/external/lz4
+[submodule "platform/external/mtools"]
+	branch = main-kernel-2026
+	path = external/mtools
+	url = ../../platform/external/mtools
 [submodule "platform/external/open-dice"]
 	branch = main-kernel-2026
 	path = external/open-dice
