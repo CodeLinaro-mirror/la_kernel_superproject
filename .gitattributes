@@ -51,6 +51,5 @@
 /prebuilts/jdk/jdk11
 /prebuilts/rust-toolchain/linux-x86 ddk
 /external/libufdt
-/test/dittosuite
 /prebuilts/tradefed
 /prebuilts/ndk-r27 ddk
