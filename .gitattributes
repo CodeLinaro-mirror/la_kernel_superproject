@@ -48,6 +48,5 @@
 /system/core
 /external/libufdt
 /tools/mkbootimg
-/test/dittosuite
 /prebuilts/tradefed
 /prebuilts/ndk-r26 ddk
