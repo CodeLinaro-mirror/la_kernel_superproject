@@ -215,10 +215,6 @@
 	branch = main-kernel-2026
 	path = external/libufdt
 	url = ../../platform/system/libufdt
-[submodule "platform/test/dittosuite"]
-	branch = main-kernel-2026
-	path = test/dittosuite
-	url = ../../platform/test/dittosuite
 [submodule "platform/tools/tradefederation/prebuilts"]
 	branch = main-kernel-2026
 	shallow = true
