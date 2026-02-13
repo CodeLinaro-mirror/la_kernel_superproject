@@ -4,7 +4,6 @@
 /common-modules/virtual-device
 /devices/google/raviole
 /prebuilts/kernel-build-tools ddk
-/kernel/tests
 /bootable/libbootloader
 /external/arm-trusted-firmware
 /external/avb ddk
@@ -41,7 +40,6 @@
 /common-modules/virtio-media
 /external/zlib ddk
 /external/zopfli ddk
-/prebuilts/asuite
 /prebuilts/build-tools ddk
 /prebuilts/clang-tools ddk
 /prebuilts/clang/host/linux-x86 ddk
@@ -50,5 +48,4 @@
 /prebuilts/jdk/jdk11
 /prebuilts/rust-toolchain/linux-x86 ddk
 /external/libufdt
-/prebuilts/tradefed
 /prebuilts/ndk-r27 ddk
