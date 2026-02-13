@@ -42,7 +42,6 @@
 /external/zlib ddk
 /external/zopfli ddk
 /external/zstd ddk
-/prebuilts/asuite
 /prebuilts/build-tools ddk
 /prebuilts/clang-tools ddk
 /prebuilts/clang/host/linux-x86 ddk
@@ -51,5 +50,4 @@
 /prebuilts/jdk/jdk11
 /prebuilts/rust-toolchain/linux-x86 ddk
 /external/libufdt
-/prebuilts/tradefed
 /prebuilts/ndk-r27 ddk

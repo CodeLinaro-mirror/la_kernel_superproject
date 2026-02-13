@@ -175,11 +175,6 @@
 	branch = main-kernel
 	path = external/zstd
 	url = ../../platform/external/zstd
-[submodule "platform/prebuilts/asuite"]
-	branch = main-kernel
-	shallow = true
-	path = prebuilts/asuite
-	url = ../../platform/prebuilts/asuite
 [submodule "platform/prebuilts/build-tools"]
 	branch = main-kernel
 	shallow = true
@@ -219,11 +214,6 @@
 	branch = main-kernel
 	path = external/libufdt
 	url = ../../platform/system/libufdt
-[submodule "platform/tools/tradefederation/prebuilts"]
-	branch = main-kernel
-	shallow = true
-	path = prebuilts/tradefed
-	url = ../../platform/tools/tradefederation/prebuilts
 [submodule "toolchain/prebuilts/ndk/r27"]
 	branch = main-kernel
 	shallow = true
