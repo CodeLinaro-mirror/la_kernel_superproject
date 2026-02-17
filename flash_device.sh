@@ -1,1 +1,0 @@
-kernel/tests/tools/flash_device.sh
