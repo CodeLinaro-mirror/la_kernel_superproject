@@ -4,7 +4,6 @@
 /common-modules/virtual-device
 /kernel/configs
 /prebuilts/kernel-build-tools ddk
-/kernel/tests
 /build/bazel_common_rules ddk
 /external/bazel-skylib ddk-external
 /external/bazelbuild-apple_support ddk-external
@@ -24,7 +23,6 @@
 /common-modules/virtio-media
 /external/zlib ddk
 /external/zopfli ddk
-/prebuilts/asuite
 /prebuilts/build-tools ddk
 /prebuilts/clang-tools
 /prebuilts/clang/host/linux-x86 ddk
@@ -32,5 +30,4 @@
 /prebuilts/jdk/jdk11
 /prebuilts/rust
 /tools/mkbootimg
-/prebuilts/tradefed
 /prebuilts/ndk-r26 ddk
