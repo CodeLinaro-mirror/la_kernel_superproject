@@ -23,10 +23,6 @@
 	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = ../prebuilts/build-tools
-[submodule "kernel/tests"]
-	branch = main-kernel
-	path = kernel/tests
-	url = ../tests
 [submodule "platform/bootable/libbootloader"]
 	branch = gbl-mainline
 	path = bootable/libbootloader

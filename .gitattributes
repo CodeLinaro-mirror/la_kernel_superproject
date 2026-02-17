@@ -4,7 +4,6 @@
 /common-modules/virtual-device
 /devices/google/raviole
 /prebuilts/kernel-build-tools ddk
-/kernel/tests
 /bootable/libbootloader
 /external/arm-trusted-firmware
 /external/avb ddk
