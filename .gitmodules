@@ -23,10 +23,6 @@
 	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = ../prebuilts/build-tools
-[submodule "kernel/tests"]
-	branch = main-kernel-2025
-	path = kernel/tests
-	url = ../tests
 [submodule "platform/bootable/libbootloader"]
 	branch = gbl-android16
 	path = bootable/libbootloader
@@ -159,11 +155,6 @@
 	branch = main-kernel-2025
 	path = external/zopfli
 	url = ../../platform/external/zopfli
-[submodule "platform/prebuilts/asuite"]
-	branch = main-kernel-2025
-	shallow = true
-	path = prebuilts/asuite
-	url = ../../platform/prebuilts/asuite
 [submodule "platform/prebuilts/build-tools"]
 	branch = main-kernel-2025
 	shallow = true
@@ -215,11 +206,6 @@
 	branch = main-kernel-2025
 	path = test/dittosuite
 	url = ../../platform/test/dittosuite
-[submodule "platform/tools/tradefederation/prebuilts"]
-	branch = main-kernel-2025
-	shallow = true
-	path = prebuilts/tradefed
-	url = ../../platform/tools/tradefederation/prebuilts
 [submodule "toolchain/prebuilts/ndk/r26"]
 	branch = main-kernel-2025
 	shallow = true
