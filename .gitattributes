@@ -3,7 +3,6 @@
 /common-modules/trusty
 /common-modules/virtual-device
 /prebuilts/kernel-build-tools ddk
-/kernel/tests
 /bootable/libbootloader
 /bootable/recovery
 /external/arm-trusted-firmware
@@ -37,7 +36,6 @@
 /common-modules/virtio-media
 /external/zlib ddk
 /external/zopfli ddk
-/prebuilts/asuite
 /prebuilts/build-tools ddk
 /prebuilts/clang-tools ddk
 /prebuilts/clang/host/linux-x86 ddk
@@ -48,5 +46,4 @@
 /system/core
 /external/libufdt
 /tools/mkbootimg
-/prebuilts/tradefed
 /prebuilts/ndk-r26 ddk
