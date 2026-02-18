@@ -2,6 +2,7 @@
 /common
 /common-modules/trusty
 /common-modules/virtual-device
+/common-modules/wonder
 /kernel/configs
 /prebuilts/kernel-build-tools ddk
 /build/bazel_common_rules ddk
