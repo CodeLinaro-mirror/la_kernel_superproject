@@ -14,6 +14,10 @@
 	branch = android-mainline
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
+[submodule "kernel/common-modules/wonder"]
+	branch = android-mainline
+	path = common-modules/wonder
+	url = ../common-modules/wonder
 [submodule "kernel/devices/google/raviole"]
 	branch = android-gs-raviole-mainline
 	path = devices/google/raviole
