@@ -171,6 +171,10 @@
 	branch = main-kernel-2026
 	path = external/zopfli
 	url = ../../platform/external/zopfli
+[submodule "platform/external/zstd"]
+	branch = main-kernel-2026
+	path = external/zstd
+	url = ../../platform/external/zstd
 [submodule "platform/prebuilts/build-tools"]
 	branch = main-kernel-2026
 	shallow = true

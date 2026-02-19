@@ -41,6 +41,7 @@
 /common-modules/virtio-media
 /external/zlib ddk
 /external/zopfli ddk
+/external/zstd ddk
 /prebuilts/build-tools ddk
 /prebuilts/clang-tools ddk
 /prebuilts/clang/host/linux-x86 ddk
