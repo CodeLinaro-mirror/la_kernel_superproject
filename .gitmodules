@@ -31,6 +31,10 @@
 	branch = gbl-mainline
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
+[submodule "platform/external/argp-standalone"]
+	branch = main-kernel
+	path = external/argp-standalone
+	url = ../../platform/external/argp-standalone
 [submodule "platform/external/arm-trusted-firmware"]
 	branch = main-kernel
 	path = external/arm-trusted-firmware
@@ -99,6 +103,10 @@
 	branch = main-kernel
 	path = external/dtc
 	url = ../../platform/external/dtc
+[submodule "platform/external/dwarves"]
+	branch = main-kernel
+	path = external/dwarves
+	url = ../../platform/external/dwarves
 [submodule "platform/external/elfutils"]
 	branch = main-kernel
 	path = external/elfutils
@@ -131,6 +139,10 @@
 	branch = main-kernel
 	path = external/mtools
 	url = ../../platform/external/mtools
+[submodule "platform/external/obstack"]
+	branch = main-kernel
+	path = external/obstack
+	url = ../../platform/external/obstack
 [submodule "platform/external/open-dice"]
 	branch = main-kernel
 	path = external/open-dice

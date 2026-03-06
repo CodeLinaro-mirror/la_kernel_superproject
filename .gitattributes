@@ -6,6 +6,7 @@
 /devices/google/raviole
 /prebuilts/kernel-build-tools ddk
 /bootable/libbootloader
+/external/argp-standalone ddk
 /external/arm-trusted-firmware
 /external/avb ddk
 /external/bazel-contrib-bazel_features ddk-external
@@ -23,6 +24,7 @@
 /external/boringssl
 /external/compiler-rt
 /external/dtc ddk
+/external/dwarves ddk
 /external/elfutils
 /external/googletest
 /external/kmod ddk
@@ -31,6 +33,7 @@
 /test/ltp
 /external/lz4 ddk
 /external/mtools
+/external/obstack ddk
 /external/open-dice
 /external/pigz ddk
 /external/python/absl-py ddk-external
