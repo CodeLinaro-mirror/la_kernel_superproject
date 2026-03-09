@@ -1,6 +1,7 @@
 /build/kernel
 /common
 /common-modules/virtual-device
+/common-modules/wonder
 /kernel/configs
 /prebuilts/kernel-build-tools
 /build/bazel_common_rules
