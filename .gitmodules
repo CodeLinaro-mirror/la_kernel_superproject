@@ -14,6 +14,10 @@
 	ref = android16-6.12
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
+[submodule "kernel/common-modules/wonder"]
+	ref = android16-6.12
+	path = common-modules/wonder
+	url = ../common-modules/wonder
 [submodule "kernel/prebuilts/build-tools"]
 	branch = main-kernel-2025
 	shallow = true

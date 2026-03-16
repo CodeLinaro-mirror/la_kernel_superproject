@@ -2,6 +2,7 @@
 /common
 /common-modules/trusty
 /common-modules/virtual-device
+/common-modules/wonder
 /prebuilts/kernel-build-tools ddk
 /bootable/libbootloader
 /bootable/recovery
