@@ -11,6 +11,10 @@
 	branch = gbl-mainline
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
+[submodule "platform/external/argp-standalone"]
+	branch = main-kernel
+	path = external/argp-standalone
+	url = ../../platform/external/argp-standalone
 [submodule "platform/external/bazel-contrib-bazel_features"]
 	branch = main-kernel
 	path = external/bazel-contrib-bazel_features
@@ -67,6 +71,10 @@
 	branch = main-kernel
 	path = external/dtc
 	url = ../../platform/external/dtc
+[submodule "platform/external/dwarves"]
+	branch = main-kernel
+	path = external/dwarves
+	url = ../../platform/external/dwarves
 [submodule "platform/external/kmod"]
 	branch = main-kernel
 	path = external/kmod
@@ -75,6 +83,10 @@
 	branch = main-kernel
 	path = external/lz4
 	url = ../../platform/external/lz4
+[submodule "platform/external/obstack"]
+	branch = main-kernel
+	path = external/obstack
+	url = ../../platform/external/obstack
 [submodule "platform/external/pigz"]
 	branch = main-kernel
 	path = external/pigz

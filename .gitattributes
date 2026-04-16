@@ -1,6 +1,7 @@
 /build/kernel
 /prebuilts/kernel-build-tools
 /bootable/libbootloader
+/external/argp-standalone
 /external/bazel-contrib-bazel_features
 /external/bazel-contrib-rules_devicetree
 /external/bazel-contrib-supply-chain
@@ -15,8 +16,10 @@
 /external/bazelbuild-rules_shell
 /external/compiler-rt
 /external/dtc
+/external/dwarves
 /external/kmod
 /external/lz4
+/external/obstack
 /external/pigz
 /external/python/absl-py
 /external/toybox
