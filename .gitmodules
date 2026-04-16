@@ -91,6 +91,11 @@
 	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = https://android.googlesource.com/kernel/prebuilts/build-tools
+[submodule "platform/external/argp-standalone"]
+	branch = main-kernel-2026
+	shallow = true
+	path = external/argp-standalone
+	url = https://android.googlesource.com/platform/external/argp-standalone
 [submodule "platform/external/avb"]
 	branch = main-kernel-2026
 	shallow = true
@@ -161,6 +166,11 @@
 	shallow = true
 	path = external/dtc
 	url = https://android.googlesource.com/platform/external/dtc
+[submodule "platform/external/dwarves"]
+	branch = main-kernel-2026
+	shallow = true
+	path = external/dwarves
+	url = https://android.googlesource.com/platform/external/dwarves
 [submodule "platform/external/kmod"]
 	branch = main-kernel-2026
 	shallow = true
@@ -181,6 +191,11 @@
 	shallow = true
 	path = external/lz4
 	url = https://android.googlesource.com/platform/external/lz4
+[submodule "platform/external/obstack"]
+	branch = main-kernel-2026
+	shallow = true
+	path = external/obstack
+	url = https://android.googlesource.com/platform/external/obstack
 [submodule "platform/external/pigz"]
 	branch = main-kernel-2026
 	shallow = true

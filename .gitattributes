@@ -21,6 +21,7 @@
 /private/google-modules/video/gchips
 /private/google-modules/wlan/bcmdhd4389
 /prebuilts/kernel-build-tools
+/external/argp-standalone
 /external/avb
 /external/bazel-contrib-bazel_features
 /external/bazel-contrib-rules_devicetree
@@ -35,10 +36,12 @@
 /external/bazelbuild-rules_rust
 /external/bazelbuild-rules_shell
 /external/dtc
+/external/dwarves
 /external/kmod
 /external/libcap
 /external/libcap-ng
 /external/lz4
+/external/obstack
 /external/pigz
 /external/python/absl-py
 /external/toybox
