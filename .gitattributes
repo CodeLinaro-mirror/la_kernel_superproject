@@ -1,0 +1,56 @@
+/build/kernel ddk
+/common
+/common-modules/trusty
+/common-modules/virtual-device
+/common-modules/wonder
+/devices/google/raviole
+/prebuilts/kernel-build-tools ddk
+/bootable/libbootloader
+/external/argp-standalone ddk
+/external/arm-trusted-firmware
+/external/avb ddk
+/external/bazel-contrib-bazel_features ddk-external
+/external/bazel-contrib-rules_devicetree ddk-external
+/external/bazel-contrib-supply-chain ddk-external
+/external/bazel-skylib ddk-external
+/external/bazelbuild-bazel-central-registry ddk-external
+/external/bazelbuild-platforms ddk-external
+/external/bazelbuild-rules_cc ddk-external
+/external/bazelbuild-rules_license ddk-external
+/external/bazelbuild-rules_pkg ddk-external
+/external/bazelbuild-rules_python ddk-external
+/external/bazelbuild-rules_rust ddk-external
+/external/bazelbuild-rules_shell ddk-external
+/external/boringssl
+/external/compiler-rt
+/external/dtc ddk
+/external/dwarves ddk
+/external/elfutils
+/external/googletest
+/external/kmod ddk
+/external/libcap
+/external/libcap-ng
+/test/ltp
+/external/lz4 ddk
+/external/mtools
+/external/obstack ddk
+/external/open-dice
+/external/pigz ddk
+/external/python/absl-py ddk-external
+/external/rust/android-crates-io
+/external/rust/crates/smoltcp
+/external/rust/crates/zune-inflate
+/external/toybox ddk
+/common-modules/virtio-media
+/external/zlib ddk
+/external/zopfli ddk
+/external/zstd ddk
+/prebuilts/build-tools ddk
+/prebuilts/clang-tools ddk
+/prebuilts/clang/host/linux-x86 ddk
+/prebuilts/fuchsia_sdk
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 ddk
+/prebuilts/jdk/jdk11
+/prebuilts/rust-toolchain/linux-x86 ddk
+/external/libufdt
+/prebuilts/ndk-r27 ddk
