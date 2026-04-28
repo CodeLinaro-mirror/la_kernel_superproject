@@ -3,7 +3,7 @@
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android17-6.18
+	branch = android17-6.18-lts
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/trusty"]
