@@ -1,4 +1,4 @@
-/external/device/google/cuttlefish_vmm
+/prebuilts/vmm
 /prebuilts/kernel-build-tools
 /bootable/libbootloader
 /external/arm-trusted-firmware

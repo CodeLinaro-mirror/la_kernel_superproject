@@ -1,6 +1,7 @@
 [submodule "device/google/cuttlefish_vmm"]
 	branch = main-kernel
-	path = external/device/google/cuttlefish_vmm
+	shallow = true
+	path = prebuilts/vmm
 	url = ../../device/google/cuttlefish_vmm
 [submodule "kernel/prebuilts/build-tools"]
 	branch = main-kernel
