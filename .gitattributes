@@ -1,3 +1,4 @@
+/prebuilts/vmm
 /build/kernel ddk
 /common
 /common-modules/trusty
