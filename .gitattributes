@@ -40,7 +40,6 @@
 /external/python/absl-py ddk-external
 /external/rust/android-crates-io
 /external/rust/crates/smoltcp
-/external/rust/crates/zune-inflate
 /external/toybox ddk
 /u-boot
 /common-modules/virtio-media
