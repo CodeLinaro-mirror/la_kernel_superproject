@@ -100,10 +100,6 @@
 	branch = main-kernel
 	path = external/rust/crates/smoltcp
 	url = ../../platform/external/rust/crates/smoltcp
-[submodule "platform/external/rust/crates/zune-inflate"]
-	branch = main-kernel
-	path = external/rust/crates/zune-inflate
-	url = ../../platform/external/rust/crates/zune-inflate
 [submodule "platform/external/zlib"]
 	branch = main-kernel
 	path = external/zlib
