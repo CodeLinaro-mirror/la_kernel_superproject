@@ -1,3 +1,4 @@
+/prebuilts/vmm
 /build/kernel ddk
 /common
 /common-modules/trusty
@@ -40,6 +41,7 @@
 /external/rust/android-crates-io
 /external/rust/crates/smoltcp
 /external/toybox ddk
+/u-boot
 /common-modules/virtio-media
 /external/zlib ddk
 /external/zopfli ddk
@@ -48,7 +50,9 @@
 /prebuilts/clang-tools ddk
 /prebuilts/clang/host/linux-x86 ddk
 /prebuilts/fuchsia_sdk
+/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 ddk
+/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 /prebuilts/jdk/jdk11
 /prebuilts/rust-toolchain/linux-x86 ddk
 /external/libufdt
