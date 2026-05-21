@@ -39,7 +39,6 @@
 /external/pigz ddk
 /external/python/absl-py ddk-external
 /external/rust/android-crates-io
-/external/rust/crates/smoltcp
 /external/toybox ddk
 /u-boot
 /common-modules/virtio-media
