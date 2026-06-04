@@ -164,6 +164,10 @@
 	branch = main-kernel
 	path = external/rust/android-crates-io
 	url = ../../platform/external/rust/android-crates-io
+[submodule "platform/external/stg"]
+	branch = main-kernel
+	path = external/stg
+	url = ../../platform/external/stg
 [submodule "platform/external/toybox"]
 	branch = main-kernel
 	path = external/toybox
