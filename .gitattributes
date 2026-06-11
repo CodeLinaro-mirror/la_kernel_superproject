@@ -7,6 +7,7 @@
 /devices/google/raviole
 /prebuilts/kernel-build-tools ddk
 /bootable/libbootloader
+/external/abseil-cpp ddk
 /external/argp-standalone ddk
 /external/arm-trusted-firmware
 /external/avb ddk
@@ -37,6 +38,7 @@
 /external/obstack ddk
 /external/open-dice
 /external/pigz ddk
+/external/protobuf ddk
 /external/python/absl-py ddk-external
 /external/rust/android-crates-io
 /external/stg ddk

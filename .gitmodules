@@ -36,6 +36,10 @@
 	branch = gbl-mainline
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
+[submodule "platform/external/abseil-cpp"]
+	branch = main-kernel
+	path = external/abseil-cpp
+	url = ../../platform/external/abseil-cpp
 [submodule "platform/external/argp-standalone"]
 	branch = main-kernel
 	path = external/argp-standalone
@@ -156,6 +160,10 @@
 	branch = main-kernel
 	path = external/pigz
 	url = ../../platform/external/pigz
+[submodule "platform/external/protobuf"]
+	branch = main-kernel
+	path = external/protobuf
+	url = ../../platform/external/protobuf
 [submodule "platform/external/python/absl-py"]
 	branch = main-kernel
 	path = external/python/absl-py
