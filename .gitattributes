@@ -54,6 +54,7 @@
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 ddk
 /prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 /prebuilts/jdk/jdk11
+/prebuilts/rust-toolchain/linux-musl-x86 ddk
 /prebuilts/rust-toolchain/linux-x86 ddk
 /external/libufdt
 /prebuilts/ndk-r27 ddk
