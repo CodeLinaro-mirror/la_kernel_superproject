@@ -206,6 +206,11 @@
 	shallow = true
 	path = external/python/absl-py
 	url = https://android.googlesource.com/platform/external/python/absl-py
+[submodule "platform/external/stg"]
+	branch = main-kernel
+	shallow = true
+	path = external/stg
+	url = https://android.googlesource.com/platform/external/stg
 [submodule "platform/external/toybox"]
 	branch = main-kernel
 	shallow = true
