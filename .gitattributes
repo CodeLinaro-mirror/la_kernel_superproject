@@ -22,6 +22,7 @@
 /external/obstack
 /external/pigz
 /external/python/absl-py
+/external/stg
 /external/toybox
 /u-boot
 /external/zlib

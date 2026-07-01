@@ -95,6 +95,10 @@
 	branch = main-kernel
 	path = external/python/absl-py
 	url = ../../platform/external/python/absl-py
+[submodule "platform/external/stg"]
+	branch = main-kernel
+	path = external/stg
+	url = ../../platform/external/stg
 [submodule "platform/external/toybox"]
 	branch = main-kernel
 	path = external/toybox
