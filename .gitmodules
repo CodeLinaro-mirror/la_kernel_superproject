@@ -91,6 +91,11 @@
 	shallow = true
 	path = prebuilts/kernel-build-tools
 	url = https://android.googlesource.com/kernel/prebuilts/build-tools
+[submodule "platform/external/abseil-cpp"]
+	branch = main-kernel
+	shallow = true
+	path = external/abseil-cpp
+	url = https://android.googlesource.com/platform/external/abseil-cpp
 [submodule "platform/external/argp-standalone"]
 	branch = main-kernel
 	shallow = true
@@ -201,6 +206,11 @@
 	shallow = true
 	path = external/pigz
 	url = https://android.googlesource.com/platform/external/pigz
+[submodule "platform/external/protobuf"]
+	branch = main-kernel
+	shallow = true
+	path = external/protobuf
+	url = https://android.googlesource.com/platform/external/protobuf
 [submodule "platform/external/python/absl-py"]
 	branch = main-kernel
 	shallow = true
