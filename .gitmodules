@@ -226,11 +226,11 @@
 	shallow = true
 	path = external/toybox
 	url = https://android.googlesource.com/platform/external/toybox
-[submodule "platform/external/zlib"]
+[submodule "platform/external/zlib-madler"]
 	branch = main-kernel
 	shallow = true
 	path = external/zlib
-	url = https://android.googlesource.com/platform/external/zlib
+	url = https://android.googlesource.com/platform/external/zlib-madler
 [submodule "platform/external/zopfli"]
 	branch = main-kernel
 	shallow = true
