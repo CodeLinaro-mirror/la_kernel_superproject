@@ -188,10 +188,10 @@
 	branch = main-kernel
 	path = common-modules/virtio-media
 	url = ../../platform/external/virtio-media
-[submodule "platform/external/zlib"]
+[submodule "platform/external/zlib-madler"]
 	branch = main-kernel
 	path = external/zlib
-	url = ../../platform/external/zlib
+	url = ../../platform/external/zlib-madler
 [submodule "platform/external/zopfli"]
 	branch = main-kernel
 	path = external/zopfli
