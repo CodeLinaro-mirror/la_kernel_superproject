@@ -198,8 +198,7 @@
 	path = prebuilts/clang-tools
 	url = ../../platform/prebuilts/clang-tools
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = main-kernel-2026
-	shallow = true
+	ref = main-kernel-2026
 	path = prebuilts/clang/host/linux-x86
 	url = ../../platform/prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/fuchsia_sdk"]
@@ -217,8 +216,7 @@
 	path = prebuilts/jdk/jdk11
 	url = ../../platform/prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/rust-toolchain/linux-x86"]
-	branch = main-kernel-2026
-	shallow = true
+	ref = main-kernel-2026
 	path = prebuilts/rust-toolchain/linux-x86
 	url = ../../platform/prebuilts/rust-toolchain/linux-x86
 [submodule "platform/system/libufdt"]
