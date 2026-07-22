@@ -32,7 +32,6 @@
 /external/kmod ddk
 /external/libcap
 /external/libcap-ng
-/test/ltp
 /external/lz4 ddk
 /external/mtools
 /external/obstack ddk

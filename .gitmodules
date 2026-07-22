@@ -136,10 +136,6 @@
 	branch = main-kernel
 	path = external/libcap-ng
 	url = ../../platform/external/libcap-ng
-[submodule "platform/external/ltp"]
-	branch = main-kernel
-	path = test/ltp
-	url = ../../platform/external/ltp
 [submodule "platform/external/lz4"]
 	branch = main-kernel
 	path = external/lz4
