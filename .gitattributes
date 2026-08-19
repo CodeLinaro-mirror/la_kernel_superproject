@@ -34,6 +34,7 @@
 /external/libcap-ng
 /external/lz4 ddk
 /external/mtools
+/external/nasm
 /external/obstack ddk
 /external/open-dice
 /external/pigz ddk

@@ -144,6 +144,10 @@
 	branch = main-kernel
 	path = external/mtools
 	url = ../../platform/external/mtools
+[submodule "platform/external/nasm"]
+	branch = main-kernel
+	path = external/nasm
+	url = ../../platform/external/nasm
 [submodule "platform/external/obstack"]
 	branch = main-kernel
 	path = external/obstack
