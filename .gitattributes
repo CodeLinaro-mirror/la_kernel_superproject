@@ -1,35 +1,35 @@
-/prebuilts/vmm
-/prebuilts/kernel-build-tools
-/bootable/libbootloader
-/external/arm-trusted-firmware
-/external/avb
-/external/bazel-contrib-bazel_features
-/external/bazel-skylib
-/external/bazelbuild-bazel-central-registry
-/external/bazelbuild-platforms
-/external/bazelbuild-rules_cc
-/external/bazelbuild-rules_license
-/external/bazelbuild-rules_pkg
-/external/bazelbuild-rules_python
-/external/bazelbuild-rules_rust
-/external/bazelbuild-rules_shell
-/external/boringssl
-/external/compiler-rt
-/external/dtc
-/external/elfutils
-/external/googletest
-/external/mtools
-/external/nasm
-/external/open-dice
-/external/pigz
-/external/rust/android-crates-io
-/external/zlib
-/external/zopfli
-/prebuilts/build-tools
-/prebuilts/clang-tools
-/prebuilts/clang/host/linux-x86
-/prebuilts/fuchsia_sdk
-/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
-/prebuilts/rust-toolchain/linux-x86
-/external/libufdt
-/tools/mkbootimg
+/prebuilts/vmm remote-review=android
+/prebuilts/kernel-build-tools remote-review=android
+/bootable/libbootloader remote-review=android
+/external/arm-trusted-firmware remote-review=android
+/external/avb remote-review=android
+/external/bazel-contrib-bazel_features remote-review=android
+/external/bazel-skylib remote-review=android
+/external/bazelbuild-bazel-central-registry remote-review=android
+/external/bazelbuild-platforms remote-review=android
+/external/bazelbuild-rules_cc remote-review=android
+/external/bazelbuild-rules_license remote-review=android
+/external/bazelbuild-rules_pkg remote-review=android
+/external/bazelbuild-rules_python remote-review=android
+/external/bazelbuild-rules_rust remote-review=android
+/external/bazelbuild-rules_shell remote-review=android
+/external/boringssl remote-review=android
+/external/compiler-rt remote-review=android
+/external/dtc remote-review=android
+/external/elfutils remote-review=android
+/external/googletest remote-review=android
+/external/mtools remote-review=android
+/external/nasm remote-review=android
+/external/open-dice remote-review=android
+/external/pigz remote-review=android
+/external/rust/android-crates-io remote-review=android
+/external/zlib remote-review=android
+/external/zopfli remote-review=android
+/prebuilts/build-tools remote-review=android
+/prebuilts/clang-tools remote-review=android
+/prebuilts/clang/host/linux-x86 remote-review=android
+/prebuilts/fuchsia_sdk remote-review=android
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 remote-review=android
+/prebuilts/rust-toolchain/linux-musl-x86 remote-review=android
+/external/libufdt remote-review=android
+/tools/mkbootimg remote-review=android
