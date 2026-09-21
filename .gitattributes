@@ -1,0 +1,10 @@
+/build remote-review=android
+/common remote-review=android
+/common-modules/virtual-device remote-review=android
+/kernel/configs remote-review=android
+/hikey-modules remote-review=android
+/prebuilts/kernel-build-tools remote-review=android
+/prebuilts/build-tools remote-review=android
+/prebuilts-master/clang/host/linux-x86 remote-review=android
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 remote-review=android
+/tools/mkbootimg remote-review=android
