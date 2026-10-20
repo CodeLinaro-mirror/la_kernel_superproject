@@ -37,7 +37,6 @@
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
 [submodule "platform/external/abseil-cpp"]
-	branch = main-kernel
 	path = external/abseil-cpp
 	url = ../../platform/external/abseil-cpp
 [submodule "platform/external/argp-standalone"]
