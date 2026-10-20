@@ -1,63 +1,63 @@
-/build/kernel
-/common
-/private/google-modules/amplifiers
-/private/google-modules/aoc
-/private/google-modules/aoc_ipc
-/private/google-modules/bluetooth/broadcom
-/private/google-modules/bms
-/private/google-modules/display
-/private/google-modules/edgetpu/abrolhos
-/private/google-modules/gpu
-/private/google-modules/lwis
-/private/google-modules/nfc
-/private/google-modules/power/mitigation
-/private/google-modules/power/reset
-/private/google-modules/soc/gs
-/private/google-modules/touch/common
-/private/google-modules/touch/fts
-/private/google-modules/touch/sec
-/private/google-modules/trusty
-/private/google-modules/uwb
-/private/google-modules/video/gchips
-/private/google-modules/wlan/bcmdhd4389
-/prebuilts/kernel-build-tools
-/external/abseil-cpp
-/external/argp-standalone
-/external/avb
-/external/bazel-contrib-bazel_features
-/external/bazel-contrib-rules_devicetree
-/external/bazel-contrib-supply-chain
-/external/bazel-skylib
-/external/bazelbuild-bazel-central-registry
-/external/bazelbuild-platforms
-/external/bazelbuild-rules_cc
-/external/bazelbuild-rules_license
-/external/bazelbuild-rules_pkg
-/external/bazelbuild-rules_python
-/external/bazelbuild-rules_rust
-/external/bazelbuild-rules_shell
-/external/dtc
-/external/dwarves
-/external/kmod
-/external/libcap
-/external/libcap-ng
-/external/lz4
-/external/obstack
-/external/pigz
-/external/protobuf
-/external/python/absl-py
-/external/stg
-/external/toybox
-/external/zlib
-/external/zopfli
-/external/zstd
-/prebuilts/boot-artifacts
-/prebuilts/build-tools
-/prebuilts/clang-tools
-/prebuilts/clang/host/linux-x86
-/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
-/prebuilts/jdk/jdk11
-/prebuilts/rust-toolchain/linux-musl-x86
-/prebuilts/rust-toolchain/linux-x86
-/tools/mkbootimg
-/prebuilts/ndk-r26
+/build/kernel remote-review=android
+/common remote-review=android
+/private/google-modules/amplifiers remote-review=android
+/private/google-modules/aoc remote-review=android
+/private/google-modules/aoc_ipc remote-review=android
+/private/google-modules/bluetooth/broadcom remote-review=android
+/private/google-modules/bms remote-review=android
+/private/google-modules/display remote-review=android
+/private/google-modules/edgetpu/abrolhos remote-review=android
+/private/google-modules/gpu remote-review=android
+/private/google-modules/lwis remote-review=android
+/private/google-modules/nfc remote-review=android
+/private/google-modules/power/mitigation remote-review=android
+/private/google-modules/power/reset remote-review=android
+/private/google-modules/soc/gs remote-review=android
+/private/google-modules/touch/common remote-review=android
+/private/google-modules/touch/fts remote-review=android
+/private/google-modules/touch/sec remote-review=android
+/private/google-modules/trusty remote-review=android
+/private/google-modules/uwb remote-review=android
+/private/google-modules/video/gchips remote-review=android
+/private/google-modules/wlan/bcmdhd4389 remote-review=android
+/prebuilts/kernel-build-tools remote-review=android
+/external/abseil-cpp remote-review=android
+/external/argp-standalone remote-review=android
+/external/avb remote-review=android
+/external/bazel-contrib-bazel_features remote-review=android
+/external/bazel-contrib-rules_devicetree remote-review=android
+/external/bazel-contrib-supply-chain remote-review=android
+/external/bazel-skylib remote-review=android
+/external/bazelbuild-bazel-central-registry remote-review=android
+/external/bazelbuild-platforms remote-review=android
+/external/bazelbuild-rules_cc remote-review=android
+/external/bazelbuild-rules_license remote-review=android
+/external/bazelbuild-rules_pkg remote-review=android
+/external/bazelbuild-rules_python remote-review=android
+/external/bazelbuild-rules_rust remote-review=android
+/external/bazelbuild-rules_shell remote-review=android
+/external/dtc remote-review=android
+/external/dwarves remote-review=android
+/external/kmod remote-review=android
+/external/libcap remote-review=android
+/external/libcap-ng remote-review=android
+/external/lz4 remote-review=android
+/external/obstack remote-review=android
+/external/pigz remote-review=android
+/external/protobuf remote-review=android
+/external/python/absl-py remote-review=android
+/external/stg remote-review=android
+/external/toybox remote-review=android
+/external/zlib remote-review=android
+/external/zopfli remote-review=android
+/external/zstd remote-review=android
+/prebuilts/boot-artifacts remote-review=android
+/prebuilts/build-tools remote-review=android
+/prebuilts/clang-tools remote-review=android
+/prebuilts/clang/host/linux-x86 remote-review=android
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 remote-review=android
+/prebuilts/jdk/jdk11 remote-review=android
+/prebuilts/rust-toolchain/linux-musl-x86 remote-review=android
+/prebuilts/rust-toolchain/linux-x86 remote-review=android
+/tools/mkbootimg remote-review=android
+/prebuilts/ndk-r26 remote-review=android
