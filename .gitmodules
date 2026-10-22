@@ -92,6 +92,8 @@
 	path = prebuilts/kernel-build-tools
 	url = https://android.googlesource.com/kernel/prebuilts/build-tools
 [submodule "platform/external/abseil-cpp"]
+	branch = main-kernel
+	shallow = true
 	path = external/abseil-cpp
 	url = https://android.googlesource.com/platform/external/abseil-cpp
 [submodule "platform/external/argp-standalone"]
