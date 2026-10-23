@@ -8,7 +8,7 @@
 	path = build/kernel
 	url = ../build
 [submodule "kernel/common"]
-	branch = android-mainline
+	branch = android18-7.3
 	path = common
 	url = ../common
 [submodule "kernel/common-modules/trusty"]
@@ -37,6 +37,7 @@
 	path = bootable/libbootloader
 	url = ../../platform/bootable/libbootloader
 [submodule "platform/external/abseil-cpp"]
+	branch = main-kernel
 	path = external/abseil-cpp
 	url = ../../platform/external/abseil-cpp
 [submodule "platform/external/argp-standalone"]
