@@ -3,7 +3,6 @@
 /common remote-review=android
 /common-modules/trusty remote-review=android
 /common-modules/virtual-device remote-review=android
-/common-modules/wonder remote-review=android
 /devices/google/raviole remote-review=android
 /prebuilts/kernel-build-tools ddk remote-review=android
 /bootable/libbootloader remote-review=android
