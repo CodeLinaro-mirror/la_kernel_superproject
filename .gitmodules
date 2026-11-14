@@ -20,7 +20,7 @@
 	path = common-modules/virtual-device
 	url = ../common-modules/virtual-device
 [submodule "kernel/devices/google/raviole"]
-	branch = android-gs-raviole-mainline
+	branch = android18-7.3-gs101
 	path = devices/google/raviole
 	url = ../devices/google/raviole
 [submodule "kernel/prebuilts/build-tools"]
